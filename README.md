@@ -238,6 +238,7 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
 - [ ] Rationale for continuing tech-debt provided
 - [ ] None of the above
 
+
 **Security**
 
 > [!TODO]
@@ -504,3 +505,31 @@ Note: This is a deceptively simple question. Most will observe that companies wi
   - Weakness: Meritocracy [alone](https://gap.hks.harvard.edu/paradox-meritocracy-organizations) isn't enough. Ask for elaboration on what determines merit.
 
 **Question**: "Companies do not form strict meritorious hierarchies. For example HR is typically silo-ed from the rest of the company. In what situation should we consider creating that kind of vertical silo?"
+
+## Tech Debt Attitudes
+
+### Production philosophy 
+
+**Question**: "When do you prefer to fail fast or fail open?"
+
+*Common answers*:
+- SREs generally should prefer to fail fast because failing early gives less time for an issue to spread
+- Failing open should generally only occur if you don't have any failure domains or failover systems to fall back to.  This happens a lot in networking services.  For example updating DNS services should generally fail open.
+
+**Question**: "How does your company use failure domains in production?"
+
+*Common answers*:
+- Red/blue push pipelines
+- Cloud regions
+
+### Dev philosophy
+
+**Question**: "Can you list a "favorite" language that you've used often but actually consider another language superior?"
+
+Background: A lot of "dinosaur" languages are popular only because of inertia. There's always new and upcoming languages are better for productivity but tech-debt means they are only used for new projects
+
+*Common answers*:
+
+- C++ is generally regarded as a very "bad" language by purists but is successful because of its legacy integration with C.
+- Java is also heavily used in the business sector for similar reasons but has been supplanted by golang in a lot of cases.  The OOP of Java has actually proven detrimental.  People at first preferred to use python in cases where OOP was too restrictive or golang when they needed the performance
+- Same is true for Rust vs C++
