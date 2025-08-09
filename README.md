@@ -346,7 +346,7 @@ Leader are created from either promotion process, from reorganizations and lost 
 
 _Background_
 
-Managers are usually evaluated accounting for excellence in strategy execution and overall org healthiness. For myself, the latter is more important.
+Managers are usually evaluated accounting for excellence org healthiness and strategy execution. 
 
 > [!NOTE]
 > These questions have no perfect [solutions](#no-solve-problem). Consider giving the assesee a pre-amble stating this.
@@ -380,6 +380,33 @@ _Common answers_:
 - [ ] One or multiple answers above were given. <_List answers_>
 - [ ] Complexities understood.
 - [ ] Additional novelty present. <_Describe Them_>
+
+
+**Question**: "Does your org use agile practices? Which ones and why?"
+
+Background:
+Note all orgs tend to use at least some agile practices.  The question is if leadership has a good understanding why they've chosen the practices they have or if teams have the agency to choose which ones to use.
+
+_Common answers_:
+  - Teams decides which to use.  Follow up: "How was this decided? Through surveys? How was the decision revisited"
+  - Whiever ones that studies show to be effective.  *Follow up*: Are those studies specifically tailored for software engineering? In your problem space?
+
+- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
+**Question**: "Does your org use KPI practices? How strictly? Does it directly affect promo?"
+
+_Common answers_:
+  - Same as in the above
+
+Background:
+- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
+
+
 
 ### Reorganizations
 
