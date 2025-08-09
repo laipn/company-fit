@@ -241,8 +241,22 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
 
 **Security**
 
-> [!TODO]
-> Add stuff here
+**Question**
+
+"Suppose an SRE wants perform a command on service X could either fix (or cause) an outage.  How does the company make this safe?"
+
+Common Answers:
+  - X authenticates SRE before allowing the command to run.  Weaknesses: Any adhoc authentication means that if authentication service is down so is the company.  It's typically better for the SRE to present a time-stamped certificate.  This method also doen't work well if the command itself goes through multiple other services before actually accessing X.  Also note this still isn't sufficient because while the SRE's identity can be established it still needs to be checked against something (e.g. an ACL) before one can know it's safe.
+  - Multi-party authentication.  Weakensses: Do this too often and you run into AviD's Rule of Usability: "Security at the expense of usability comes at the expense of security"
+  - Server sits inside a physical/virtual network. Weaknesses: The first case is pretty safe but inconvenient. The second case means you need to use a VPN which is less secure.  Both are coarse-grained solutions.  Once you're inside the network you have everything.  It's also easy to do things like spoof source-addresses once inside the network.
+
+
+
+- [ ] Valid reason given for tech-debt creation
+- [ ] Plan for removal
+- [ ] Rationale for continuing tech-debt provided
+- [ ] None of the above
+
 
 ## Management Culture:
 
