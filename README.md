@@ -461,7 +461,7 @@ Constant reorganizations are known to choose leaders poorly:
 - [ ] Implicit goal was inferred <_Provide details_>
 - [ ] Other. <_Provide details_>
 
-**Follow up** if no stated goal:  "If there was no stated goal, did the re-org involve any kind of post-mortem on why the previos organization failed?"
+**Follow up** (if no stated goal):  "Did the re-org involve any kind of post-mortem on why the previos organization failed?"
 
 *Background*
 
