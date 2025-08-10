@@ -461,13 +461,13 @@ Constant reorganizations are known to choose leaders poorly:
 - [ ] Implicit goal was inferred <_Provide details_>
 - [ ] Other. <_Provide details_>
 
-**Follow up** (*if no stated goal*):  "Did the re-org involve any kind of post-mortem on why the previos organization failed?"
+*if no stated goal*, **Follow up** :  "Did the re-org involve any kind of post-mortem on why the previos organization failed?"
 
 *Background*
 
 Constant re-orgs are a sign of bad management as it indicates that teams were not able to organically self-organize to resolve a problem. Similarly in SREs if a service is constantly failing SLOs an incident is often declared which requires a [blame-free](https://sre.google/sre-book/postmortem-culture/) Post-Mortem.  The same is rarely true for re-orgs or failure-to-deliver in general.  
 
-**Follow Up** if there was a stated goal: "What were the success criteria to determine if the re-org was successful?"
+If there was a stated goal, **Follow Up*** : "What were the success criteria to determine if the re-org was successful?"
 
 - [ ] No criteria
 - [ ] Qualitative success criteria. <_Provide Details_>
