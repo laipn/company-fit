@@ -38,7 +38,8 @@ The company characteristics examined:
 2. Engineering Culture: Measured by reviewing tech-infrastructure decisions and employee attitudes towards tech-debt.
 3. Management Culture: Employee engagement with management and management transparency with employees
 4. Leadership: What mechanisms exists to ensure leaders produce healthy orgs.
-5. Personal ethics: Whether the company is compatible with my own set of ethics.
+5. (Experimental) Company Ethics: Whether the company acts with a consistent set of ethical principles.
+6. (Unfinished) Personal Ethics: Whether the company is compatible with my own set of ethics.
 
 ## Work Culture
 
@@ -477,12 +478,52 @@ If there was a stated goal, **Follow Up*** : "What were the success criteria to 
 - [ ] Qualitative success criteria. <_Provide Details_>
 - [ ] Quantifiable success criteria (KPI). <_Provide Details_>
 
-
-
-## Personal Ethics
+## Company Ethics (Experimental)
 
 > [!IMPORTANT]
-> This section is unfinished. It remains unfinished because unless I'm interviewing for a particularly "evil" company or one that doesn't pay well (e.g. a charity), this section isn't necessary to fill out. My opinion is that money solves most social problems, therefore the ability to provide money for charities (through donation matching or just large salary) satisfies my personal ethical requirements.
+> This section is **Experimental** because it is interviewing the assessee's skills rather than company processes. The problem with trying to assess a company ethical principles is that company ethics are often implicit rather than explcit.  There are good reasons for this (see "Don't be evil [lawsuit](https://en.wikipedia.org/wiki/Don%27t_be_evil#Lawsuit)").  Thus the only way to assess a company's implicit ethics are to assess an individual's understanding of it.
+
+> [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) does apply here however.  An incorrect answer could just mean that an individual lacks understanding of those ethics.  The only useful control mechanism I can see here, is to require that the assessor be someone high up the company --  as good ethical principles tends to [flow top-down](https://pmc.ncbi.nlm.nih.gov/articles/PMC6180164/)
+>
+> Manager's [^headcount]:
+> ~~[ ] O(1)~~
+> - [ ] O(10)
+> - [ ] O(100)
+> - [ ] Director
+
+Background:
+
+Few companies actually [fairly](https://en.wikipedia.org/wiki/Justice) enforce the ethical principle they espouse.  To illustrate this using a constrasting analogy: Compare HR to a goverment judiciary.  Both do defer (nominally) to an established ["supreme" law](https://en.wikipedia.org/wiki/Supremacy_Clause: Constitution vs Code of Ethics.  The judiciary *must* resolve any conflicts and set precedents related to the Constitution as matter for public record.  HR tends to exercise unfair (discretion)[https://en.wikipedia.org/wiki/Prosecutorial_discretion] in what violations to pursue -- typically violations with legal liabilities, e.g. discrimination, sexual harassment -- and leaves no public record to set further precedent.  
+
+This typically leads to two unfortunate attitudes:
+
+1.  "You can do whatever you want as long as the company doesn't risk a lawsuit" and
+2.  "If you do something the company does not like, the lack of public precedent allows the use of the code of ethics as a reason for termination"
+
+You can observe this to be true based on how much the average employee knows about the code of ethics (in contrast to how much the average citizen knows about their constitution).  Understanding the code of ethics has no actual value to the employee, and thus is ineffectual as an ethical control process in the company. 
+
+The only ethical principles that do persist are those implicitly propagated [memetically](https://en.wikipedia.org/wiki/Meme) -- for example consider "do no evil" as a meme that people even outside of that company **do** remember.  Thus companies exhibit  *explicit ethical principles* that "no-one knows of" because there is no functioning judiciary HR function to upkeep them and *implicit ethical principles* that persists via [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism). We assess for the latter mostly.
+
+The test therefore is to get the assesee to see what implicit ethical principles they do adhere to. Doing so is especially difficult however because it is difficult to tease out the ethical principles that belong to the invidual and the ones grounded in company culture.  The only way I can think to do this is to do multiple interviews with different people and see if I can ascertain the principles which are consistently given.  
+
+The other pitfall here is that the the assessee might say "[how you should behave](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/)" rather than how they would actually behave.  I'm not sure how to control for this.  This is blunted by the fact that the "how you should behave" when interviewing for the company is often note the right answer for "how you should behave" if you want to recruit someone to a company.  Most have more experience only in the former.
+
+The questions are all [no-solve problems](#no-solve-problem), however instead tweaking the problem to evaluate for a breadth of answers we tweak the problems to ascertain the moral principles in use.  This is necessary because [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism) is common.  At the end of the question we ask the assessee to explicitly to explain their moral reasoning.  This appraoch is similar to the classic ["Heinz's Dilemma"](https://en.wikipedia.org/wiki/Heinz_dilemma) type of questions.
+
+> **Question**: "Your report sends you an expense report.  He expenses a phone he uses for oncall work, but you know for a fact that the existing phone he uses is less than 1 years old and works fine."
+
+Common answers and folow up:
+
+- "Ask the report why he needs the phone"
+  - Follow up: "He wants to send it back to his poor relative in Vietnam where it's difficult to get electronics"
+  - Follow up: "He wants to give it to his friend."
+- "I reject the request. It would be immoral to do so because the money belongs to the company.  Use your own money"
+  - Follow up: "Do companies have the same inherent moral property rights that humans do?"
+  - Follow up: "Reports tell him that doing it on company money actually saves money because it's a non-taxable business expense"
+    - Follow up: "That's illegal.... yes... does illegality always imply immorality?"
+
+
+
 
 > [!TODO]
 > Finish this section. It should focus on two ideas:
@@ -494,6 +535,18 @@ If there was a stated goal, **Follow Up*** : "What were the success criteria to 
 > "All religious stuff aside, the fact is, people who can't kill will always be subject to those who can" - Sergeant Brad "Iceman" Colbert
 >
 > Similarly people without morals will always be an disadvantage to those without morals -- since an immoral person is bound by strictly fewer rules than a moral one. Thus at the level of the individual, natural selection in social contests tends to [select](https://pmc.ncbi.nlm.nih.gov/articles/PMC10558718/) for the immoral over the moral. The only question then is given a company's processes, how much of an advantage does immorality net you?
+
+
+
+## Personal Ethics (Unfinished)
+
+This section isn't putting ethics under a microscope per se, it's assessing whether the company at face value (e.g. it's role in progressing/harming society, charitable initiatives, etc) is compatible with my own set of ethics.  As such there are a lot of [trolly problems](https://en.wikipedia.org/wiki/Trolley_problem) at play.
+
+> [!IMPORTANT]
+> This section is unfinished. It remains unfinished because unless I'm interviewing for a particularly "evil" company or one that doesn't pay well (e.g. a charity), this section isn't necessary to fill out. My opinion is that money solves most social problems, therefore the ability to provide money for charities (through donation matching or just large salary) satisfies my personal ethical requirements.
+> 
+> In terms of ethical preferences, I tend to favor [individualizing moral foundations](https://en.wikipedia.org/wiki/Moral_foundations_theory#Main_five) which explains why [charitable donations](https://journals.sagepub.com/doi/10.1002/per.2256) is important.
+
 
 ## Appendix
 
