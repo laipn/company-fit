@@ -130,7 +130,9 @@ _Common answers_:
 ## Engineering Culture
 
 > [!IMPORTANT]
-> Only ICs should answer
+> Only ICs should answer.
+>
+> Some of these might be too technical. Because we are evaluating the company and not the IC, allow the IC to choose a (yet-unanswered) section.
 
 _Background_
 
