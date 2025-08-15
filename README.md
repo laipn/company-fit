@@ -154,10 +154,12 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
   - Note: Typically requires some tight between build and IDE (or code-search) tools
 - Coding standards
   - Additional tools: [Auto-formatting]((https://github.com/google/yapf). Presubmit checks for coding standards. [Example])
-- Functional testing code-coverage and other tools
-
-  - More info: Are all tests run on every build or is there pruning?
-
+- Functional vs Systems vs Integration testing, code-coverage requirements, etc
+  - Informational: Are all tests run on every build or is there pruning?
+- Code Analysis tools
+  - Examples: Code-coverage, race-conditions code-analysis, memory leak code-analysis
+  - Presubmit checks on this?
+    
 - [ ] No Red Flags
 - [ ] Red Flags. <_List them_>
 
