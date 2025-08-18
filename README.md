@@ -355,17 +355,46 @@ If the issue was escalated:
 > - [ ] O(100)
 > - [ ] Director
 
+### Leadership Qualities
+
+> [!NOTE]
+> While these questions are useful for anyone, the rubrics scoring would depend on your own persoal preferences
+
+**Question**: "Does your org use agile practices? Which ones and why?"
+
+Background:
+Note all orgs tend to use at least some agile practices.  The question is if leadership has a good understanding why they've chosen the practices they have or if teams have the agency to choose which ones to use.
+
+_Common answers_:
+  - Teams decides which to use.  Follow up: "How was this decided? Through surveys? How was the decision revisited"
+  - Whiever ones that studies show to be effective.  *Follow up*: Are those studies specifically tailored for software engineering? In your problem space?
+
+- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
+**Question**: "Does your org use KPI practices? How strictly? Does it directly affect promo?"
+
+_Common answers_:
+  - Same as in the above
+
+Background:
+- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
+
+### Promoting leaders
+
 Selecting good leaders is often more critical than having good processes because:
 
 > “Good governance never depends upon laws, but upon the personal qualities of those who govern. The machinery of government is always subordinate to the will of those who administer that machinery. The most important element of government, therefore, is the method of choosing leaders." - Frank Hebert
 
 Leader are created from either promotion process, from reorganizations and lost via [attrition](https://www.gartner.com/en/human-resources/glossary/attrition). This section examines these processes to see if they select for good leaders. Specifically leaders that won't produce "jerks".
 
-### Promoting leaders
-
 _Background_
 
-Managers are usually evaluated accounting for excellence org healthiness and strategy execution. 
+Managers are usually evaluated accounting for excellence org healthiness and strategy execution.  The following stresses the former.
 
 > [!NOTE]
 > These questions have no perfect [solutions](#no-solve-problem). Consider giving the assesee a pre-amble stating this.
@@ -401,32 +430,6 @@ _Common answers_:
 - [ ] Additional novelty present. <_Describe Them_>
 
 
-**Question**: "Does your org use agile practices? Which ones and why?"
-
-Background:
-Note all orgs tend to use at least some agile practices.  The question is if leadership has a good understanding why they've chosen the practices they have or if teams have the agency to choose which ones to use.
-
-_Common answers_:
-  - Teams decides which to use.  Follow up: "How was this decided? Through surveys? How was the decision revisited"
-  - Whiever ones that studies show to be effective.  *Follow up*: Are those studies specifically tailored for software engineering? In your problem space?
-
-- [ ] One or multiple answers above were given. <_List answers_>
-- [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
-
-**Question**: "Does your org use KPI practices? How strictly? Does it directly affect promo?"
-
-_Common answers_:
-  - Same as in the above
-
-Background:
-- [ ] One or multiple answers above were given. <_List answers_>
-- [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
-
-
-
-
 ### Reorganizations
 
 _Background_
@@ -435,7 +438,11 @@ Constant reorganizations are known to choose leaders poorly:
 
 > "When power sensitized teams are confronted with organizational change, internal power struggles are a likely consequence. " - [The dysfunctions of power in teams: A review and emergent conflict perspective](https://www.sciencedirect.com/science/article/pii/S0191308517300084)
 
+Therefore re-orgs should be minimized to as little as necessary.  The right number could vary from company to company.  The test here is to see if employees in a re-org understand the reason for that re-org.  If employees do not possess a good rationale for that re-org, then the assumption is that the re-org was likely unhealthy.
+
 **Question**: "How often does the average employee experience a re-org affecting <100 people[^min_reorg]?"
+
+*Background*: 
 
 - [ ] Once a 1 year
 - [ ] Once every 2 years
@@ -444,33 +451,32 @@ Constant reorganizations are known to choose leaders poorly:
 
 [^min_reorg] Large re-orgs rarely matter to ICs because they'll continue reporting to the same line-manager. Average manager to ratio is about 1:10 so any re-org with more than 100 people won't affect ICs usually.
 
-**Question**: "When was your last re-org affecting >100 people"
+If too many (3+ years then):
 
-- [ ] < 1 year
-- [ ] < 2 year
-- [ ] < 3 year
-- [ ] 3+ years
-- [ ] N/A
-
-**Follow Up**: "What was the reason for that reorg?"
+**Follow Up**: "What was the reason for your last reorg?"
 
 - [ ] Assesee could not recall the reason
-- [ ] Assesse did recall the reason
-- [ ] Assesee had good understooding why the re-org was necessary
+- [ ] Assesse did recall the reason.
 - [ ] N/A
 
-**Question**: "What was the stated goal in your last re-org? 
+If assesee did recall the reason: 
+
+**Follow Up**: "What was the goal (explicit or implicit) in your last re-org?  
+
+*Background*
+
+Constant re-orgs are a sign of bad management as it indicates that teams were not able to organically self-organize to resolve a problem. Similarly in SREs if a service is constantly failing SLOs an incident is often declared which requires a [blame-free](https://sre.google/sre-book/postmortem-culture/) Post-Mortem.  The same is rarely true for re-orgs or failure-to-deliver in general.  
+
+**Question**: 
+
+Answers:
 
 - [ ] To better align with a business need
 - [ ] No explicit goal was stated
 - [ ] Implicit goal was inferred <_Provide details_>
 - [ ] Other. <_Provide details_>
 
-*if no stated goal*, **Follow up** :  "Did the re-org involve any kind of post-mortem on why the previos organization failed?"
-
-*Background*
-
-Constant re-orgs are a sign of bad management as it indicates that teams were not able to organically self-organize to resolve a problem. Similarly in SREs if a service is constantly failing SLOs an incident is often declared which requires a [blame-free](https://sre.google/sre-book/postmortem-culture/) Post-Mortem.  The same is rarely true for re-orgs or failure-to-deliver in general.  
+*if no stated goal*, **Follow up** :  "Did the re-org involve any kind of post-mortem on why the previous organization failed?"
 
 If there was a stated goal, **Follow Up*** : "What were the success criteria to determine if the re-org was successful?"
 
