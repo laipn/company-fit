@@ -688,9 +688,9 @@ Note: This is a deceptively simple question. Most will observe that companies wi
 
 **Question**: "Companies do not form strict meritorious hierarchies. For example HR is typically silo-ed from the rest of the company. In what situation should we consider creating that kind of vertical silo?"
 
-## Tech Debt Attitudes
+### Tech Debt Attitudes
 
-### Production philosophy 
+#### Production philosophy 
 
 **Question**: "When do you prefer to fail fast or fail open?"
 
@@ -704,7 +704,7 @@ Note: This is a deceptively simple question. Most will observe that companies wi
 - Red/blue push pipelines
 - Cloud regions
 
-### Dev philosophy
+#### Dev philosophy
 
 **Question**: "Can you list a "favorite" language that you've used often but actually consider another language superior?"
 
