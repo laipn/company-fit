@@ -493,7 +493,7 @@ If there was a stated goal, **Follow Up*** : "What were the success criteria to 
 
 Background:
 
-Few companies actually [fairly](https://en.wikipedia.org/wiki/Justice) enforce the ethical principle they espouse.  To illustrate this using a constrasting analogy: Compare HR to a goverment judiciary.  Both do defer (nominally) to an established ["supreme" law](https://en.wikipedia.org/wiki/Supremacy_Clause: Constitution vs Code of Ethics.  The judiciary *must* resolve any conflicts and set precedents related to the Constitution as matter for public record.  HR tends to exercise unfair (discretion)[https://en.wikipedia.org/wiki/Prosecutorial_discretion] in what violations to pursue -- typically violations with legal liabilities, e.g. discrimination, sexual harassment -- and leaves no public record to set further precedent.  
+Few companies actually [fairly](https://en.wikipedia.org/wiki/Justice) enforce the ethical principle they espouse.  To illustrate this, consider a constrasting example: Compare HR to a goverment judiciary.  Both do defer (nominally) to an established ["supreme" law](https://en.wikipedia.org/wiki/Supremacy_Clause: Constitution vs Code of Ethics.  The judiciary *must* resolve any conflicts and set precedents related to the Constitution as matter for public record.  HR tends to exercise unfair (discretion)[https://en.wikipedia.org/wiki/Prosecutorial_discretion] in what violations to pursue -- typically violations with legal liabilities, e.g. discrimination, sexual harassment -- and leaves no public record to set further precedent.  
 
 This typically leads to two unfortunate attitudes:
 
@@ -502,11 +502,11 @@ This typically leads to two unfortunate attitudes:
 
 You can observe this to be true based on how much the average employee knows about the code of ethics (in contrast to how much the average citizen knows about their constitution).  Understanding the code of ethics has no actual value to the employee, and thus is ineffectual as an ethical control process in the company. 
 
-The only ethical principles that do persist are those implicitly propagated [memetically](https://en.wikipedia.org/wiki/Meme) -- for example consider "do no evil" as a meme that people even outside of that company **do** remember.  Thus companies exhibit  *explicit ethical principles* that "no-one knows of" because there is no functioning judiciary HR function to upkeep them and *implicit ethical principles* that persists via [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism). We assess for the latter mostly.
+The only ethical principles that do persist are those implicitly propagated [memetically](https://en.wikipedia.org/wiki/Meme) -- for example consider "do no evil" as a meme that people even outside of that company **do** remember even if they cannot exactly express what it means.  Thus companies exhibit  *explicit ethical principles* that "no-one understands" because there is no functioning judiciary HR function to regularly [rationalize](https://en.wikipedia.org/wiki/Moral_rationalism) them and *implicit ethical principles* that persists via [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism). We assess for the latter mostly.  The former is too rare.
 
 The test therefore is to get the assesee to see what implicit ethical principles they do adhere to. Doing so is especially difficult however because it is difficult to tease out the ethical principles that belong to the invidual and the ones grounded in company culture.  The only way I can think to do this is to do multiple interviews with different people and see if I can ascertain the principles which are consistently given.  
 
-The other pitfall here is that the the assessee might say "[how you should behave](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/)" rather than how they would actually behave.  I'm not sure how to control for this.  This is blunted by the fact that the "how you should behave" when interviewing for the company is often note the right answer for "how you should behave" if you want to recruit someone to a company.  Most have more experience only in the former.
+The other pitfall here is that the the assessee might say "[how you should behave](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/)" rather than how they would actually behave.  I'm not sure how to control for this.  This is blunted by the fact that the "how you should behave" when interviewing for the company is often note the right answer for "how you should behave" if you want to recruit someone to a company.  Most have more experience only in the former. Still this all suggests there's little [rote-memorization](#rote-memorization) resistance here.
 
 The questions are all [no-solve problems](#no-solve-problem), however instead tweaking the problem to evaluate for a breadth of answers we tweak the problems to ascertain the moral principles in use.  This is necessary because [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism) is common.  At the end of the question we ask the assessee to explicitly to explain their moral reasoning.  This appraoch is similar to the classic ["Heinz's Dilemma"](https://en.wikipedia.org/wiki/Heinz_dilemma) type of questions.
 
@@ -549,6 +549,44 @@ This section isn't putting ethics under a microscope per se, it's assessing whet
 
 
 ## Appendix
+
+## Interview methodology
+
+A lot of the design in these questions take inspiration form existing interviewn methods.  We list common interview strategies below for reference.  Note however because we are evaluating an organization rather than an invidiual, one should not assume that the same reasoning behind their use and measumre is re-used.
+
+### Resistance to rote memorization {#rote-memorization}
+
+It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the skill being assessed for.  
+
+The modern equivalent of this is to see if AIs assistants would enable someone to pass an interview.
+
+### Programming Puzzle 
+
+This is the most common type of technical interview anbd there exists a [lot](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) of [material](https://leetcode.com/).  However much of that material are simply enumerations of commonm interview questions, they fail to actuallys state *why* companies ask these questions and rubrics used to measure success.  What I notice is that the majority of companies ask these questions primarily because:
+
+- By asking the *same* questions with the *same* solution, fairness and stability can be maintined in the interview process.  Quality of candidates that pass remain above a certain bar.
+- Studies show that candidates that do pass tend to do well at the company
+
+However without an actual stated objective and stated rationale why an interview satisfies that objective, the result still is just a ["cargo-cult"](https://en.wikipedia.org/wiki/Cargo_cult#As_a_metaphor) of what other companies.  As such most companies focus on the "pass-fail" aspect and not establishing explicit rubrics around the questions. "Pass-Fail" is easy to measure, creating "rubrics" to fairly assess desired candidate skills is hard.
+
+There are a handful of companies that I think *do* have an udnerstanding of the objectives.  Simply stated, the objective is to figure out whether:
+
+1.  A candidate has the problem-solving skills to be able to decompose difficult technical problems.
+2.  A candiate has the problem-solving skills to be able to teach and prove their correctness of the solution in 1.
+
+Evidence for 1 can be glaned by observing that "Programming Puzzles" "comp sci" questions were preceeded by lateral-thinking "round man-hole" kinds of test.  The former replaced the latter mostly because
+
+> "Methods that had a transparent relationship between test content and job duties, such as interviews, work samples, and reference checks were perceived more favorably,"
+
+However the necesscity to measure problem-solving skills still remained a necessity.  
+
+Similary evidence for 2 has some precedent:
+
+>  "If you want to master something, teach it" - [Richard Feynman](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics), "the great Explainer". Nobel Prize-winning American theoretical physicist.
+
+Additionally It is unheard for a mathematician to publich a solution without being able to provide a proof for correctness.  The same is true for computer scientists and solutions -- note that there is a [logical proof](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) on how "mathematical proofs" and "computer program correctness" are related.
+
+"Cargo-cult"-ers generally only look for 1, whereas good companies will focus on 2.  You'll actually see good companies ask problems with no practical solution (e.g. O(N^2) time) for that reason.  The solution isn't important, the problem-solving process (and being able to explain it) *is* what is important.  Good companeis have rubrics centered around exactly this.
 
 ### No-solve problem {#no-solve-problem}
 
@@ -594,6 +632,16 @@ Strictly speaking, a solution could exist in these scenarios. However ample huma
 
 These questions can also be used to evaluate companies by asking an employee to run through typical company processes. Examples: promotion, exit-interviews, etc. Same as in systems design/debugging, the goal is to evaluate whether
 the candidate company has institutional understands of the common breadth of solutions and if companies have their own novel spin on them. As such it is important for such questions to include "common solutions" to provide a common baseline on what constitutes novelty.
+
+### Spot the issues
+
+These interviews typically start by giving a candidate a code-base (often ahead of an interview) and ask them to explain all the issues present in that code.  These can be actual bugs in the code or simply just known software [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern).
+
+For some reason I don't see this used much in FANGG interviews.  I suspect this is mostly because it's hard to get a concensus on "good code" vs "bad code" and even harder to measure the value in having "good coders" at a company.
+
+### ["Situation, task, action, result"](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+
+Putting this here just for reference.  Technically all the questions above *are* situational questions.  In practice I see classical STAR used most often to filter out toxic employee.  However studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for the efficacy of STAR is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave".  This implies STAR is particularly ill-suited for testing for toxicity and show poor [rote-memorization](#rote-memorization) resistance
 
 ## Unused Work
 
