@@ -522,7 +522,7 @@ Common answers and follow up:
   - Follow up: "Reports tell him that doing it on company money actually saves money because it's a non-taxable business expense"
     - Follow up: "That's illegal.... yes... does illegality always imply immorality?"
 
-> *Follow Up**: Explain (e.g. flow-chart) the ethical decision-making you used to derive at your solution.
+> *Follow Up*: Explain (e.g. flow-chart) the ethical decision-making you used to derive at your solution.
 
 > **Question**: "You catch some gossip stating that one of your direct reports underperforms. What do you do?"
 
@@ -533,9 +533,11 @@ Common answers and follow up:
 - "I contact the gossiper's manager and ask how that employee can improve?"
   - Follow up: "The employee retracts and apologizes for their statement"
 
-
 > *Follow Up**: Explain (e.g. flow-chart) the ethical decision-making you used to derive at your solution.
 
+**Follow Up**: Same question but you are the report.
+
+**Follow Up**: Same question but you are the manager's manager.
 
 > [!TODO]
 > Finish this section. It should focus on two ideas:
