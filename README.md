@@ -499,16 +499,16 @@ If there was a stated goal, **Follow Up*** : "What were the success criteria to 
 
 Background:
 
-Few companies actually [fairly](https://en.wikipedia.org/wiki/Justice) enforce the ethical principle they espouse.  To illustrate this, consider a constrasting example: Compare HR to a goverment judiciary.  Both do defer (nominally) to an established ["supreme" law](https://en.wikipedia.org/wiki/Supremacy_Clause: Constitution vs Code of Ethics.  The judiciary *must* resolve any conflicts and set precedents related to the Constitution as matter for public record.  HR tends to exercise unfair (discretion)[https://en.wikipedia.org/wiki/Prosecutorial_discretion] in what violations to pursue -- typically violations with legal liabilities, e.g. discrimination, sexual harassment -- and leaves no public record to set further precedent.  
+All companies of a certain size will have a published code of conduct. However application of that code is rarely equal nor equitable.  To illustrate compare HR to a goverment judiciary branch.  Both do defer (nominally) to an codified ["supreme" law](https://en.wikipedia.org/wiki/Supremacy_Clause): U.S. Constitution vs Company Code of Ethics.  Both HR and the supreme court are responsible for ruling on that code. However in government, courts **must** resolve any conflicts and set precedents related to the Constitution as matter for public record.  HR however tends to exercise arbitrary (discretion)[https://en.wikipedia.org/wiki/Prosecutorial_discretion] in what ethical violations to pursue -- typically only violations with legal liabilities, e.g. discrimination, sexual harassment -- and leaves no record to set further precedent.
 
 This typically leads to two unfortunate attitudes:
 
 1.  "You can do whatever you want as long as the company doesn't risk a lawsuit" and
 2.  "If you do something the company does not like, the lack of public precedent allows the use of the code of ethics as a reason for termination"
 
-You can observe this to be true based on how much the average employee knows about the code of ethics (in contrast to how much the average citizen knows about their constitution).  Understanding the code of ethics has no actual value to the employee, and thus is ineffectual as an ethical control process in the company. 
+This also leads to the average employee knowing nothing about their code of ethics, whereas the average citizen can at least quote some constitutional law.  Understanding the code of ethics has no actual value to the employee, and thus is ineffectual as an ethical control process in the company. 
 
-The only ethical principles that do persist are those implicitly propagated [memetically](https://en.wikipedia.org/wiki/Meme) -- for example consider "do no evil" as a meme that people even outside of that company **do** remember even if they cannot exactly express what it means.  Thus companies exhibit  *explicit ethical principles* that "no-one understands" because there is no functioning judiciary HR function to regularly [rationalize](https://en.wikipedia.org/wiki/Moral_rationalism) them and *implicit ethical principles* that persists via [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism). We assess for the latter mostly.  The former is too rare.
+The only ethical principles that do persist are those implicitly propagated [memetically](https://en.wikipedia.org/wiki/Meme) -- for example consider "do no evil" as a meme that people even outside of that company **do** remember even if they cannot exactly express what it means.  Thus companies exhibit  *explicit ethical principles* that "no-one understands" because there is no judiciary function to regularly [rationalize](https://en.wikipedia.org/wiki/Moral_rationalism) them and *implicit ethical principles* that persists via [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism). We assess for the latter mostly.  The former is too rare.
 
 > [!WARNING]
 > The other pitfall here is that the the assessee might say "[how you should behave](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/)" rather than how they would actually behave.  I'm not sure how to control for this.  This is blunted by the fact that the "how you should behave" when interviewing for the company is often note the right answer for "how you should behave" if you want to recruit someone to a company.  Most have more experience only in the former. Still this all suggests there's little [rote-memorization](#rote-memorization) resistance here. OTOH, the lack of resistance doesnt' matter much because the "correct" answer heavily depends on my own ethical preferences.  So maybe it doesn't matter.
@@ -553,7 +553,6 @@ Common answers and follow up:
 ## [Normative](https://en.wikipedia.org/wiki/Normative_ethics) Ethics
 
 This section seeks to determine how ethical norms are being decided.
-
 
 > [!TODO]
 > Finish this section. Some ideas:
