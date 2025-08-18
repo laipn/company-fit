@@ -510,11 +510,14 @@ You can observe this to be true based on how much the average employee knows abo
 
 The only ethical principles that do persist are those implicitly propagated [memetically](https://en.wikipedia.org/wiki/Meme) -- for example consider "do no evil" as a meme that people even outside of that company **do** remember even if they cannot exactly express what it means.  Thus companies exhibit  *explicit ethical principles* that "no-one understands" because there is no functioning judiciary HR function to regularly [rationalize](https://en.wikipedia.org/wiki/Moral_rationalism) them and *implicit ethical principles* that persists via [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism). We assess for the latter mostly.  The former is too rare.
 
-The test therefore is to get the assesee to see what implicit ethical principles they do adhere to. Doing so is especially difficult however because it is difficult to tease out the ethical principles that belong to the invidual and the ones grounded in company culture.  The only way I can think to do this is to do multiple interviews with different people and see if I can ascertain the principles which are consistently given.  
+> [!WARNING]
+> The other pitfall here is that the the assessee might say "[how you should behave](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/)" rather than how they would actually behave.  I'm not sure how to control for this.  This is blunted by the fact that the "how you should behave" when interviewing for the company is often note the right answer for "how you should behave" if you want to recruit someone to a company.  Most have more experience only in the former. Still this all suggests there's little [rote-memorization](#rote-memorization) resistance here. OTOH, the lack of resistance doesnt' matter much because the "correct" answer heavily depends on my own ethical preferences.  So maybe it doesn't matter.
 
-The other pitfall here is that the the assessee might say "[how you should behave](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/)" rather than how they would actually behave.  I'm not sure how to control for this.  This is blunted by the fact that the "how you should behave" when interviewing for the company is often note the right answer for "how you should behave" if you want to recruit someone to a company.  Most have more experience only in the former. Still this all suggests there's little [rote-memorization](#rote-memorization) resistance here. OTOH, the lack of resistance doesnt' matter much because the "correct" answer heavily depends on my own ethical preferences.  So maybe it doesn't matter.
+The questions are all [no-solve problems](#no-solve-problem). Problems constraints are adjusted to ascertain the moral principles in use.  This is necessary because [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism) is common.  At the end of the question we ask the assessee to explicitly to explain their moral reasoning. This mirrors ["Heinz's Dilemma"](https://en.wikipedia.org/wiki/Heinz_dilemma) style of questions.
 
-The questions are all [no-solve problems](#no-solve-problem), however instead tweaking the problem to evaluate for a breadth of answers we tweak the problems to ascertain the moral principles in use.  This is necessary because [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism) is common.  At the end of the question we ask the assessee to explicitly to explain their moral reasoning.  This appraoch is similar to the classic ["Heinz's Dilemma"](https://en.wikipedia.org/wiki/Heinz_dilemma) type of questions.
+## [Applied](https://en.wikipedia.org/wiki/Applied_ethics) Ethics
+
+This section infers the set of ethical principles practiced at a company.
 
 > **Question**: "Your report sends you an expense report.  He expenses a phone he uses for oncall work, but you know for a fact that the existing phone he uses is less than 1 years old and works fine."
 
@@ -547,8 +550,13 @@ Common answers and follow up:
 
 **Follow Up**: Same question but you are X's manager.
 
+## [Normative](https://en.wikipedia.org/wiki/Normative_ethics) Ethics
+
+This section seeks to determine how ethical norms are being decided.
+
+
 > [!TODO]
-> Finish this section. It should focus on two ideas:
+> Finish this section. Some ideas:
 >
 > > "I do not expect leadership to have perfect ethic principles. However, I do expect them to be able articulate those ethical principles." - Unknown Engineer. He was pretty cool though.
 >
@@ -557,7 +565,6 @@ Common answers and follow up:
 > "All religious stuff aside, the fact is, people who can't kill will always be subject to those who can" - Sergeant Brad "Iceman" Colbert
 >
 > Similarly people without morals will always be an disadvantage to those without morals -- since an immoral person is bound by strictly fewer rules than a moral one. Thus at the level of the individual, natural selection in social contests tends to [select](https://pmc.ncbi.nlm.nih.gov/articles/PMC10558718/) for the immoral over the moral. The only question then is given a company's processes, how much of an advantage does immorality net you?
-
 
 
 ## Personal Ethics (Unfinished)
