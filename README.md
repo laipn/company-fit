@@ -512,7 +512,7 @@ The questions are all [no-solve problems](#no-solve-problem), however instead tw
 
 > **Question**: "Your report sends you an expense report.  He expenses a phone he uses for oncall work, but you know for a fact that the existing phone he uses is less than 1 years old and works fine."
 
-Common answers and folow up:
+Common answers and follow up:
 
 - "Ask the report why he needs the phone"
   - Follow up: "He wants to send it back to his poor relative in Vietnam where it's difficult to get electronics"
@@ -522,7 +522,19 @@ Common answers and folow up:
   - Follow up: "Reports tell him that doing it on company money actually saves money because it's a non-taxable business expense"
     - Follow up: "That's illegal.... yes... does illegality always imply immorality?"
 
+> *Follow Up**: Explain (e.g. flow-chart) the ethical decision-making you used to derive at your solution.
 
+> **Question**: "You catch some gossip stating that one of your direct reports underperforms. What do you do?"
+
+Common answers and follow up:
+- "Do nothing".  People are entitled to their own opinion.
+  - Follow up: "What if instead of underperforming, the gossip is that the report is toxic?"
+- "It depends, do I hear this in public? Or accdientally from a supposedly private convo?.  If it's public, I inform my report of that feedback"
+- "I contact the gossiper's manager and ask how that employee can improve?"
+  - Follow up: "The employee retracts and apologizes for their statement"
+
+
+> *Follow Up**: Explain (e.g. flow-chart) the ethical decision-making you used to derive at your solution.
 
 
 > [!TODO]
