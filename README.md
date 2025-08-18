@@ -524,7 +524,7 @@ Common answers and follow up:
 
 > *Follow Up*: Explain (e.g. flow-chart) the ethical decision-making you used to derive at your solution.
 
-> **Question**: "You catch some gossip stating that one of your direct reports underperforms. What do you do?"
+> **Question**: "You overhead an employee X stating that one of your direct reports underperforms. What do you do?"
 
 Common answers and follow up:
 - "Do nothing".  People are entitled to their own opinion.
@@ -538,6 +538,8 @@ Common answers and follow up:
 **Follow Up**: Same question but you are the report.
 
 **Follow Up**: Same question but you are the manager's manager.
+
+**Follow Up**: Same question but you are X's manager.
 
 > [!TODO]
 > Finish this section. It should focus on two ideas:
