@@ -584,7 +584,7 @@ A lot of the design in these questions take inspiration form existing interviewn
 
 ### Resistance to rote memorization {#rote-memorization}
 
-It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the skill being assessed for.  The modern equivalent of this is to see if AIs assistants would enable someone to pass an interview.
+It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the (suitably difficult) skill being assessed for.  
 
 Note that a good interview process does the following:
 
@@ -597,11 +597,17 @@ Note that a good interview process does the following:
 1. Prepare a pool of interview questions.
 2. Have a candidate go through the interview process for a randomly chosen question.
 3. Gather the rubrics and perform commitee scoreing.  
-4. Give the rubrics and comitte scores back to the candidate for study.
+4. Give the rubrics and comitte scores back to the candidate for study.  Wait X days.
 5. Repeat 2.
 6. Repeat 3
 
-If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable.  Note this isn't a novel technique.  [Example similar study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/).  This can be repeated a number of rounds as well, however it would require a large pool of interview questions.  
+If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable -- which implies the skill we are **actually** testing for is trivially learn-able.
+
+Note this isn't a novel test for interview validity. See ["Why Do Situational Interviews Predict Performance? Is it Saying How You Would Behave or Knowing How You Should Behave?"](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/).  
+
+> **Interviewees’ Ability to Identify Criteria (ATIC) and the Validity of Situational Interviews**
+>
+>  Recently, Kleinmann et al. (2011) presented another explanation for the criterion-related validity of personnel selection procedures in general, including situational interviews. Their explanation assumes that individuals actively strive to successfully handle the situations that they are faced with during the selection procedures, so as to attain positive evaluations. According to Kleinmann et al., this ATIC refers to whether individuals are able to correctly decipher the situational demand characteristics and use them to guide their behavior. ATIC reflects an ability that not only helps individuals to better read the situational demands in interviews, but also those in work contexts. Thus, situational interviews predict performance because they capture whether interviewees are able to read situational demands—or in other words know how they should behave to master performance-relevant situations—both during the interview and on the job (cf. Ingold et al. 2015; Jansen et al. 2013). Thus, for this explanation, it is relevant that ATIC as a common cause is positively related to both performance in the interview and performance in work-related situations. Thereby, ATIC contributes to the criterion-related validity of situational interviews because these interviews capture interviewees standing on this general ability that helps individuals to better read the situational demands in varying social situations, including selection and job contexts.
 
 ### Programming Puzzle 
 
