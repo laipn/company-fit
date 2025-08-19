@@ -586,21 +586,22 @@ A lot of the design in these questions take inspiration form existing interviewn
 
 It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the skill being assessed for.  The modern equivalent of this is to see if AIs assistants would enable someone to pass an interview.
 
-Note that a good interview process does the follow:
+Note that a good interview process does the following:
 
 1. Perform interview and collect rubrics
 2. Send rubrics to committee, anonymizing all personal information.
 3. Comittee uses rubrics to assess performance.  Committee scores using those rubrics
 
-"Rote memorization" resistance can be measured by:
+"Rote memorization" resistance can be measured by the following study:
 
-1. Prepare a set of interview questions.
-2. Having a candidate go through the interview process.
-3. Gather the rubrics and commitee scores.  Give them back to the candidate for study.
-4. Repeat the interview again usually with another random question.
-5. Re-asses the second round of interviews.
+1. Prepare a pool of interview questions.
+2. Have a candidate go through the interview process for a randomly chosen question.
+3. Gather the rubrics and perform commitee scoreing.  
+4. Give the rubrics and comitte scores back to the candidate for study.
+5. Repeat 2.
+6. Repeat 3
 
-If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable.  Note this isn't a novel technique.  [Example similar study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/).
+If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable.  Note this isn't a novel technique.  [Example similar study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/).  This can be repeated a number of rounds as well, however it would require a large pool of interview questions.  
 
 ### Programming Puzzle 
 
@@ -681,9 +682,15 @@ These interviews typically start by giving a candidate a code-base (often ahead 
 
 For some reason I don't see this used much in FANGG interviews.  I suspect this is mostly because it's hard to get a concensus on "good code" vs "bad code" and even harder to measure the value in having "good coders" at a company.
 
+### "Homework Assignment" interviews
+
+These interviews typically start by giving a candidate a full specification for a problem.  The problems are not programming-puzzle because looking up a solution would be too easy.  Typically they tend to be real-world problems (e.g. design a banking ledger that tracks debit/credits to account ledgers) and often provide a skeleton code base to use.  Providing a working solution is not hard, the interview relies on the interviewers reviewing the code and asking about certain red-flags or (in rare cases) novelties in the solution.
+
+This type of interview requires a lot of effort on both of the interviewer and candidate.  I don't see it used often.
+
 ### ["Situation, task, action, result"](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 
-Putting this here just for reference.  Technically all the questions above *are* situational questions.  In practice I see classical STAR used most often to filter out toxic employee.  However studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for the efficacy of STAR is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave".  This implies STAR is particularly ill-suited for testing for toxicity and show poor [rote-memorization](#rote-memorization) resistance
+Putting this here just for reference.  Technically all the questions above *are* situational questions.  In practice I see classical STAR interviews used most often to filter out behavior.  However studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for the efficacy of STAR is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave".  This suggests STAR is particularly ill-suited for testing for toxicity and has poor [rote-memorization](#rote-memorization) resistance.  This is why other interview methods outlined above are used for technical interviews.
 
 ## Unused Work
 
