@@ -584,9 +584,23 @@ A lot of the design in these questions take inspiration form existing interviewn
 
 ### Resistance to rote memorization {#rote-memorization}
 
-It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the skill being assessed for.  
+It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the skill being assessed for.  The modern equivalent of this is to see if AIs assistants would enable someone to pass an interview.
 
-The modern equivalent of this is to see if AIs assistants would enable someone to pass an interview.
+Note that a good interview process does the follow:
+
+1. Perform interview and collect rubrics
+2. Send rubrics to committee, anonymizing all personal information.
+3. Comittee uses rubrics to assess performance.  Committee scores using those rubrics
+
+"Rote memorization" resistance can be measured by:
+
+1. Prepare a set of interview questions.
+2. Having a candidate go through the interview process.
+3. Gather the rubrics and commitee scores.  Give them back to the candidate for study.
+4. Repeat the interview again usually with another random question.
+5. Re-asses the second round of interviews.
+
+If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable.  Note this isn't a novel technique.  [Example similar study](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/).
 
 ### Programming Puzzle 
 
