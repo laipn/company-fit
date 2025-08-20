@@ -37,7 +37,7 @@ The company characteristics examined:
 1. Work Culture: What company-wide mechanisms exist to ensure a non-toxic workplace.
 2. Engineering Culture: Measured by reviewing tech-infrastructure decisions and employee attitudes towards tech-debt.
 3. Management Culture: Employee engagement with management and management transparency with employees
-4. Leadership: What mechanisms exists to ensure leaders produce healthy orgs.
+4. Leadership Culture: What mechanisms exists to ensure leaders produce healthy orgs.
 5. (Experimental) Company Ethics: Whether the company acts with a consistent set of ethical principles.
 6. (Unfinished) Personal Ethics: Whether the company is compatible with my own set of ethics.
 
@@ -262,7 +262,7 @@ Common Answers:
 
 
 
-## Management Culture:
+## Management Culture
 
 > [!IMPORTANT]
 > Only ICs should answer
@@ -342,7 +342,7 @@ If the issue was escalated:
 - [ ] The issue bubbled up to HR
 - [ ] N/A
 
-## Leadership
+## Leadership Culture
 
 > [!IMPORTANT]
 > Only managers should answer the following
