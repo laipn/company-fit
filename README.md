@@ -512,7 +512,7 @@ The only ethical principles that do persist are those implicitly propagated [mem
 > [!WARNING]
 > There's little [rote-memorization](#rote-memorization) resistance here. OTOH, the lack of resistance doesnt' matter much because the "correct" answer heavily depends on my own ethical preferences.  So maybe it doesn't matter. 
 
-The questions are all [no-solve problems](#no-solve-problem). Problems constraints are adjusted to ascertain the moral principles in use.  This is necessary because [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism) is common.  At the end of the question we ask the assessee to explicitly to explain their moral reasoning. This mirrors ["Heinz's Dilemma"](https://en.wikipedia.org/wiki/Heinz_dilemma) style of questions.
+The questions are all [no-solve problems](#no-solve-problem). Problems constraints are adjusted to ascertain the moral principles in use.  This is necessary because [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism) is common.  At the end of the question the assessee should ideally be able to outline the moral reasoning they used.  This mirrors ["Heinz's Dilemma"](https://en.wikipedia.org/wiki/Heinz_dilemma) style of questions.  If they cannot explain their moral reasoning, there is a good chance to don't exercise moral reasoning often.  For ICs this is fine, for leadership this is concerning.
 
 ### [Applied](https://en.wikipedia.org/wiki/Applied_ethics) Ethics
 
