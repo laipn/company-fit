@@ -515,7 +515,7 @@ The only ethical principles that do persist are those implicitly propagated [mem
 
 The questions are all [no-solve problems](#no-solve-problem). Problems constraints are adjusted to ascertain the moral principles in use.  This is necessary because [social intuitionism](https://en.wikipedia.org/wiki/Social_intuitionism) is common.  At the end of the question we ask the assessee to explicitly to explain their moral reasoning. This mirrors ["Heinz's Dilemma"](https://en.wikipedia.org/wiki/Heinz_dilemma) style of questions.
 
-## [Applied](https://en.wikipedia.org/wiki/Applied_ethics) Ethics
+### [Applied](https://en.wikipedia.org/wiki/Applied_ethics) Ethics
 
 This section infers the set of ethical principles practiced at a company.
 
@@ -550,7 +550,7 @@ Common answers and follow up:
 
 **Follow Up**: Same question but you are X's manager.
 
-## [Normative](https://en.wikipedia.org/wiki/Normative_ethics) Ethics
+### [Normative](https://en.wikipedia.org/wiki/Normative_ethics) Ethics
 
 This section seeks to determine how ethical norms are being decided.
 
@@ -578,11 +578,11 @@ This section isn't putting ethics under a microscope per se, it's assessing whet
 
 ## Appendix
 
-## Interview methodology
+### Interview methodology
 
 A lot of the design in these questions take inspiration form existing interviewn methods.  We list common interview strategies below for reference.  Note however because we are evaluating an organization rather than an invidiual, one should not assume that the same reasoning behind their use and measumre is re-used.
 
-### Resistance to rote memorization {#rote-memorization}
+#### Resistance to rote memorization {#rote-memorization}
 
 It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the (suitably difficult) skill being assessed for.  
 
@@ -611,7 +611,7 @@ Note this isn't a novel test for interview validity. See ["Why Do Situational In
 >
 >  Recently, Kleinmann et al. (2011) presented another explanation for the criterion-related validity of personnel selection procedures in general, including situational interviews. Their explanation assumes that individuals actively strive to successfully handle the situations that they are faced with during the selection procedures, so as to attain positive evaluations. According to Kleinmann et al., this ATIC refers to whether individuals are able to correctly decipher the situational demand characteristics and use them to guide their behavior. ATIC reflects an ability that not only helps individuals to better read the situational demands in interviews, but also those in work contexts. Thus, situational interviews predict performance because they capture whether interviewees are able to read situational demands—or in other words know how they should behave to master performance-relevant situations—both during the interview and on the job (cf. Ingold et al. 2015; Jansen et al. 2013). Thus, for this explanation, it is relevant that ATIC as a common cause is positively related to both performance in the interview and performance in work-related situations. Thereby, ATIC contributes to the criterion-related validity of situational interviews because these interviews capture interviewees standing on this general ability that helps individuals to better read the situational demands in varying social situations, including selection and job contexts.
 
-### Programming Puzzle 
+#### Programming Puzzle 
 
 This is the most common type of technical interview anbd there exists a [lot](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) of [material](https://leetcode.com/).  However much of that material are simply enumerations of commonm interview questions, they fail to actuallys state *why* companies ask these questions and rubrics used to measure success.  What I notice is that the majority of companies ask these questions primarily because:
 
@@ -639,7 +639,7 @@ Additionally It is unheard for a mathematician to publich a solution without bei
 
 "Cargo-cult"-ers generally only look for 1, whereas good companies will focus on 2.  You'll actually see good companies ask problems with no practical solution (e.g. O(N^2) time) for that reason.  The solution isn't important, the problem-solving process (and being able to explain it) *is* what is important.  Good companeis have rubrics centered around exactly this.
 
-### No-solve problem {#no-solve-problem}
+#### No-solve problem {#no-solve-problem}
 
 An example of a [no-**win** scenario](https://en.wikipedia.org/wiki/No-win_situation) is the [Kobayashi Maru](https://en.wikipedia.org/wiki/Kobayashi_Maru) wherein the goal is in "testing the character of cadets rather than their actual skills".
 
@@ -684,19 +684,19 @@ Strictly speaking, a solution could exist in these scenarios. However ample huma
 These questions can also be used to evaluate companies by asking an employee to run through typical company processes. Examples: promotion, exit-interviews, etc. Same as in systems design/debugging, the goal is to evaluate whether
 the candidate company has institutional understands of the common breadth of solutions and if companies have their own novel spin on them. As such it is important for such questions to include "common solutions" to provide a common baseline on what constitutes novelty.
 
-### Spot the issues
+#### Spot the issues
 
 These interviews typically start by giving a candidate a code-base (often ahead of an interview) and ask them to explain all the issues present in that code.  These can be actual bugs in the code or simply just known software [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern).
 
 For some reason I don't see this used much in FANGG interviews.  I suspect this is mostly because it's hard to get a concensus on "good code" vs "bad code" and even harder to measure the value in having "good coders" at a company.
 
-### "Homework Assignment" interviews
+#### "Homework Assignment" interviews
 
 These interviews typically start by giving a candidate a full specification for a problem.  The problems are not programming-puzzle because looking up a solution would be too easy.  Typically they tend to be real-world problems (e.g. design a banking ledger that tracks debit/credits to account ledgers) and often provide a skeleton code base to use.  Providing a working solution is not hard, the interview relies on the interviewers reviewing the code and asking about certain red-flags or (in rare cases) novelties in the solution.
 
 This type of interview requires a lot of effort on both of the interviewer and candidate.  I don't see it used often.
 
-### ["Situation, task, action, result"](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+#### ["Situation, task, action, result"](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 
 Putting this here just for reference.  Technically all the questions above *are* situational questions.  In practice I see classical STAR interviews used most often to filter out behavior.  However studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for the efficacy of STAR is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave".  This suggests STAR is particularly ill-suited for testing for toxicity and has poor [rote-memorization](#rote-memorization) resistance.  This is why other interview methods outlined above are used for technical interviews.
 
