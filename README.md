@@ -601,9 +601,9 @@ Note that a good interview process does the following:
 5. Repeat 2.
 6. Repeat 3
 
-If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable -- which implies the skill we are **actually** testing for is trivially learn-able.
+If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable -- which implies the skill we are **actually** testing for is trivially learn-able.  
 
-*Aside*: The statistical model here is tricky to get right.  If for example question quality is of very high variance then it may skew results.  As such it's important to to ensure that the 1-st round "pass-rates" for all interview questions remain about the same.
+*Aside*: The statistical model here is tricky to get right.  If for example question quality is of very high variance then it may skew results.  As such it's important to to ensure that the 1-st round "pass-rates" for all interview questions remain about the same.  Another tweak on this methodlogy is to just repeat interiews until an assesee hits a point of diminishing returns (upper-limit) on pass-rate.  The statical inference here would be for both the upper-limit *and* the number of tries to reach that upper limit.
 
 Note this isn't a novel test for interview validity. See ["Why Do Situational Interviews Predict Performance? Is it Saying How You Would Behave or Knowing How You Should Behave?"](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/).  
 
