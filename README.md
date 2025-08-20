@@ -597,7 +597,7 @@ To evaluate whether an interview has good rote-memorization resistance consider 
 
 - Perform interview and collect rubrics
 - Send rubrics to committee, anonymizing all personal information.
-- Comittee uses rubrics to assess performance.  Committee provides a final scoring (or pass/fail).
+- Comittee uses rubrics to assess performance.  Committee provides a final scoring or pass/fail.
 
 Consequentially, "Rote memorization" resistance can be measured by the following study:
 
@@ -608,7 +608,7 @@ Consequentially, "Rote memorization" resistance can be measured by the following
 5. Repeat 2.
 6. Repeat 3
 
-If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable -- which implies the skill we are **actually** testing for is trivially learn-able.  
+If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable -- which implies the skill we are **actually** testing for is trivially learn-able.  Similarly if we want to confirm that a pool of questions *is* actually testing for a particular skill, simply confirm that candidates passing on the first round also consistentl pass on the second.
 
 *Aside*: The statistical model here is tricky to get right.  If for example question quality is of very high variance then it may skew results.  As such it's important to to ensure that the 1-st round "pass-rates" for all interview questions remain about the same.  Another tweak on this methodlogy is to just repeat interiews until an assesee hits a point of diminishing returns (upper-limit) on pass-rate.  The statical inference here would be for both the upper-limit *and* the number of tries to reach that upper limit.
 
