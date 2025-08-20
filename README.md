@@ -584,15 +584,23 @@ A lot of the design in these questions take inspiration form existing interviewn
 
 #### Resistance to rote memorization {#rote-memorization}
 
-It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the (suitably difficult) skill being assessed for.  
+It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the (suitably difficult) skill being assessed for.  Or put yet another modern way, "if you can ask an AI assistant to give you the correct answer, it's not a good question".
 
-Note that a good interview process does the following:
+**Examples**
 
-1. Perform interview and collect rubrics
-2. Send rubrics to committee, anonymizing all personal information.
-3. Comittee uses rubrics to assess performance.  Committee scores using those rubrics
+Question with bad rote-memorization resistance: "Can you tell me why a hostname lookup fails?" 
+Answer: "nslookup, hostname... TLD DNS servers, etc.  First lookup is usually in /etc/hosts... ".  A quick AI promt give syouo the answer.
 
-"Rote memorization" resistance can be measured by the following study:
+Question with good rote-memorization resistance: "Why is hostname lookup implemented the way it is?  How do you prefer to ipmlement DNS resolution at a company?" 
+Answer: "Originally for historical reasons.  Memorizing IP addresses was difficult. However this was when security was not a concern.  Nowadadays control over DNS is a very easy way to DDoS an entire service.  There is technically no reason why you can't roll out your own resolution protocol for internal usage.  Externally however DNS is langua franca and in that case it typically fucntions as a very coarse grained load-balancer.  Only touch it if your public-facing load-balancers are problematic. The bulk of actual load-balancing though is still better left to dedicated servers which reverse-proxy traffic".
+
+To evaluate whether an interview has good rote-memorization resistance consider that a interview process typically involves:
+
+- Perform interview and collect rubrics
+- Send rubrics to committee, anonymizing all personal information.
+- Comittee uses rubrics to assess performance.  Committee scores using those rubrics
+
+Consequentially, "Rote memorization" resistance can be measured by the following study:
 
 1. Prepare a pool of interview questions.
 2. Have a candidate go through the interview process for a randomly chosen question.
