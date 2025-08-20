@@ -597,7 +597,7 @@ To evaluate whether an interview has good rote-memorization resistance consider 
 
 - Perform interview and collect rubrics
 - Send rubrics to committee, anonymizing all personal information.
-- Comittee uses rubrics to assess performance.  Committee scores using those rubrics
+- Comittee uses rubrics to assess performance.  Committee provides a final scoring (or pass/fail).
 
 Consequentially, "Rote memorization" resistance can be measured by the following study:
 
