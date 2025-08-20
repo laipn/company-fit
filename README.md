@@ -584,12 +584,12 @@ A lot of the design in these questions take inspiration form existing interviewn
 
 #### Resistance to rote memorization {#rote-memorization}
 
-It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the (suitably difficult) skill being assessed for.  Or put yet another modern way, "if you can ask an AI assistant to give you the correct answer, it's not a good question".
+It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the (suitably difficult) skill being assessed for. 
 
 **Examples**
 
 Question with bad rote-memorization resistance: "Can you tell me why a hostname lookup fails?" 
-Answer: "nslookup, hostname... TLD DNS servers, etc.  First lookup is usually in /etc/hosts... ".  A quick AI promt give syouo the answer.
+Answer: "nslookup, hostname... TLD DNS servers, etc.  First lookup is usually in /etc/hosts... ".  An AI prompt *will* give you the answer.  
 
 Question with good rote-memorization resistance: "Why is hostname lookup implemented the way it is?  How do you prefer to ipmlement DNS resolution at a company?" 
 Answer: "Originally for historical reasons.  Memorizing IP addresses was difficult. However this was when security was not a concern.  Nowadadays control over DNS is a very easy way to DDoS an entire service.  There is technically no reason why you can't roll out your own resolution protocol for internal usage.  Externally however DNS is langua franca and in that case it typically fucntions as a very coarse grained load-balancer.  Only touch it if your public-facing load-balancers are problematic. The bulk of actual load-balancing though is still better left to dedicated servers which reverse-proxy traffic".
