@@ -577,6 +577,7 @@ This section isn't putting ethics under a microscope per se, it's assessing whet
 
 ## Appendix
 
+
 ### Interviewing Philosophy
 
 #### Resistance to rote memorization {#rote-memorization}
@@ -730,6 +731,43 @@ This type of interview requires a lot of effort on both of the interviewer and c
 #### ["Situation, task, action, result"](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 
 Putting this here just for reference.  Technically all the questions above *are* situational questions.  In practice I see classical STAR interviews used most often to filter out behavior.  However studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for the efficacy of STAR is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave".  This suggests STAR is particularly ill-suited for testing for toxicity and has poor [rote-memorization](#rote-memorization) resistance.  This is why other interview methods outlined above are used for technical interviews.
+
+## Theories on the nature of Leadership
+
+### Defining Individual Contributors, Management and Leadership
+
+I find it best to think of management as as anyone-who-is-not-an-independent-contributor where "independent contributor" (IC) are people who are promoted based on their individual accomplishment rather than the team they might be leading.  This suggests mapping suggests a commonality in corporate organization and military organization.  Military orgs have enlistees (IC equivalent) ranks and officers (informally [POG](https://en.wikipedia.org/wiki/Pogue)). Each of those operate under their own strict hiearachy with strict ranks (e.g. [E1 to E9]((https://www.defense.gov/resources/insignia/) which mirror corporate ranks (e.g. [L3-L9](https://www.levels.fyi/?compare=Google&track=Software%20Engineer).  
+
+An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. It is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have backgrounds in academia which favor a flat hiearachy.  They tend however towards military-style hierachies over time.
+
+In both militaries and coporations, "leaders" don't refer to people higher in the hierarchy. They refer to those with "leadership" skills that enable those others around them to perform better -- even if those people are not under their chain of command.  Good militaries stress leadership precisely because of their inability to place leaders into the strict hierarchy they must operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  
+
+I conjecture that this is one of the main reasons why the military must outsource functions like innovative weapons development to academia or the private sector.  Recall that strict hierachies necessitate from operating in an "fast-paced environment where indecision is costly".  Strict hierachies produce poorer leaders. Given an environment with no such contraints, it is generally better not to enforce strict hierarchies.  
+
+> [!TODO]
+> Flesh out this theory more
+
+### Poor Leadership and Power Structures
+
+This section presumes the claim that strict hiearchies create poor leaders.  We summarizes some hypotheses for why this happens. 
+
+Strict hiearchies create [power structures](https://www.sciencedirect.com/topics/social-sciences/power-structure) and over time poor leaders are placed in charge of those power structures.  A number of reasons have been given why:
+
+> 1. “Power tends to corrupt and absolute power corrupts absolutely. Great men are almost always bad men, even when they exercise influence and not authority; still more when you superadd the tendency of the certainty of corruption by authority.” - Lord Acton
+
+> 2. "All governments suffer a recurring problem: Power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible." - Frank Hebert
+
+> 3. "Power is always dangerous, it attracts the worst, and it corrupts the best... Power is only given to those who are prepared to lower themselves to pick it up." - Ragnar Lothbrok from "Vikings"
+
+> 4. "Power doesn't make people bad—it just shows who they really are. Good people will protect others, greedy people will take advantage, and insecure people will become bullies. Power doesn't change you—it reveals your true self when you're no longer afraid of getting in trouble" — Anthony Hopkins 
+
+Hypothesis 1: When placed in a position of power, good leaders become bad leaders.
+Hypothesis 2: Positions of power attract bad leaders.
+Hypothesis 3: When deciding leaders, bad (or immoral) leaders have a [selective](https://en.wikipedia.org/wiki/Natural_selection) advantage.
+Hypothesis 4: Null Hypothesis.  The average person just thinks more highly of people than they really should.
+
+> [!TODO]
+> Find some relevant studies
 
 ## Unused Work
 
