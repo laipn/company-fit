@@ -749,9 +749,11 @@ I conjecture that this is one of the main reasons why the military must outsourc
 
 ### Poor Leadership and Power Structures
 
-This section presumes the "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hiearchies create poor leaders.  We summarizes some hypotheses for why that might be the case: 
+The previous seciton made "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hiearchies create poor leaders.  We summarizes some hypotheses for mechanism causing that.  Fir observe that strict hiearchies always create power structures.
 
-Strict hiearchies create [power structures](https://www.sciencedirect.com/topics/social-sciences/power-structure) and over time poor leaders are placed in charge of those power structures.  A number of reasons have been given why:
+> Power structures can be defined as the arrangements and systems of authority that depend on various modes of communication, signs, and expressive forms to convey and legitimize dominance within social groups. They are influenced by material arrangements, rituals, and large social institutions, which facilitate the functioning of these structures in society. - https://www.sciencedirect.com/topics/social-sciences/power-structure
+
+Our hypotheses assumes that it is "power" aspect in a strict hiearachy that ends up causing poor leadership.  Some observations:
 
 > 1. “Power tends to corrupt and absolute power corrupts absolutely. Great men are almost always bad men, even when they exercise influence and not authority; still more when you superadd the tendency of the certainty of corruption by authority.” - Lord Acton
 
@@ -764,7 +766,7 @@ Strict hiearchies create [power structures](https://www.sciencedirect.com/topics
 Hypothesis 1: When placed in a position of power, good leaders become bad leaders.
 Hypothesis 2: Positions of power attract bad leaders.
 Hypothesis 3: When choose leaders, bad (or immoral) leaders have a [selective](https://en.wikipedia.org/wiki/Natural_selection) advantage.
-Hypothesis 4: People are typically worse leaders than they portray.  The power structures either allow or force the facade to be dropped.
+Hypothesis 4: People are typically worse leaders than they outwardly portray.  Power structures either allow or force the facade to be dropped.
 
 Note that the hypotheses influencess the [Leadership Culture](#leadership-culture) section of this document.  It's also possible that all are correct.
 
