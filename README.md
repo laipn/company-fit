@@ -577,9 +577,7 @@ This section isn't putting ethics under a microscope per se, it's assessing whet
 
 ## Appendix
 
-### Interview methodology
-
-A lot of the design in these questions take inspiration form existing interviewn methods.  We list common interview strategies below for reference.  Note however because we are evaluating an organization rather than an invidiual, one should not assume that the same reasoning behind their use and measumre is re-used.
+### Interviewing Philosophy
 
 #### Resistance to rote memorization {#rote-memorization}
 
@@ -617,6 +615,30 @@ Note this isn't a novel test for interview validity. See ["Why Do Situational In
 > **Interviewees’ Ability to Identify Criteria (ATIC) and the Validity of Situational Interviews**
 >
 >  Recently, Kleinmann et al. (2011) presented another explanation for the criterion-related validity of personnel selection procedures in general, including situational interviews. Their explanation assumes that individuals actively strive to successfully handle the situations that they are faced with during the selection procedures, so as to attain positive evaluations. According to Kleinmann et al., this ATIC refers to whether individuals are able to correctly decipher the situational demand characteristics and use them to guide their behavior. ATIC reflects an ability that not only helps individuals to better read the situational demands in interviews, but also those in work contexts. Thus, situational interviews predict performance because they capture whether interviewees are able to read situational demands—or in other words know how they should behave to master performance-relevant situations—both during the interview and on the job (cf. Ingold et al. 2015; Jansen et al. 2013). Thus, for this explanation, it is relevant that ATIC as a common cause is positively related to both performance in the interview and performance in work-related situations. Thereby, ATIC contributes to the criterion-related validity of situational interviews because these interviews capture interviewees standing on this general ability that helps individuals to better read the situational demands in varying social situations, including selection and job contexts.
+
+#### Generating Final Scores, Rubrics and Interview Question
+
+Even once we do collect quantitative measures (rubrics) from candidates, it is often difficult to decide how to turn those rubrics into a final score (pass/fail, percentage or otherwise). 
+
+My general strategy for generating interview questions, rubrics and scoring is as follows:
+
+1. Choose a particular skill set to evaluate.
+   *Examples*: [Programming problem](#programming-puzzle) solving, linux systems debugging, software engineering, ethics, etc.
+2. From experience or research, come up with specific problems that require that skill set to solve.
+   *Examples*: Reverse-a-linked-list, "Why can't I resolve a hostname on this linux server", "Show me the issues or anti-patterns in this snippet of code", etc
+3. Choose only problems whether the skills necessary are "[simple to learn, difficult to master](https://en.wikipedia.org/wiki/Bushnell%27s_Law)".  This ensures some level of [rote-memorization]{#rote-memorization} resistance.
+   *Examples*: "Reject: reverse-a-linked-list, there is only one single solution", "Accept: Resolve-a-hostname.  DNS resolution strategies remains a difficult problem with no ideal solution", "Accept: Show me the errors in this code".
+4. From accepted problems, develop what are decided common solutions and what are more nuanced solutions or "observations" on the problem.
+   *Example*: "Show me the issues or anti-patterns in this snippet of code"
+     - Common: 'Code: (int *) 0x42'. This type cast is bad because 0x42 is a magic number and it's not clear why we're casting to an integer pointer'
+     - Nuanced: 'Code: (x instanceof List).  This explicit type-check is code-smelly.  It breaks encapsulation principles because there's no reason why we should assume that a List can be in here.  Even if we did, it's not clear why a List gets speccial behavior"
+5. Confer in committee that we agree on what are common and what are nuanced solutions.  Develop a scoring algorithms.
+    *Example*: Apply a point value to each solution.  Note negative points can be given for common incorrect or "red-flags" solutions. Nuanced solutions get higher score.  Total the points to get a final score.  Score must be above some value to pass.  
+6. Define rubrics as whether an candidate has acceptably described a given solution.
+
+### Interview methodologies
+
+A lot of the design in these questions take inspiration form existing interviewn methods.  We list common interview strategies below for reference.  Note however because we are evaluating an organization rather than an invidiual, one should not assume that the same reasoning behind their use and measumre is re-used.
 
 #### Programming Puzzle 
 
