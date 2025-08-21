@@ -766,6 +766,8 @@ Hypothesis 2: Positions of power attract bad leaders.
 Hypothesis 3: When deciding leaders, bad (or immoral) leaders have a [selective](https://en.wikipedia.org/wiki/Natural_selection) advantage.
 Hypothesis 4: Null Hypothesis.  The average person just thinks more highly of people than they really should.
 
+Note that the correct hypothesis heavily influences the [Leadership Culture](#leadership-culture) section of this document.
+
 > [!TODO]
 > Find some relevant studies
 
