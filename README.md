@@ -616,7 +616,7 @@ Note this isn't a novel test for interview validity. See ["Why Do Situational In
 >
 >  Recently, Kleinmann et al. (2011) presented another explanation for the criterion-related validity of personnel selection procedures in general, including situational interviews. Their explanation assumes that individuals actively strive to successfully handle the situations that they are faced with during the selection procedures, so as to attain positive evaluations. According to Kleinmann et al., this ATIC refers to whether individuals are able to correctly decipher the situational demand characteristics and use them to guide their behavior. ATIC reflects an ability that not only helps individuals to better read the situational demands in interviews, but also those in work contexts. Thus, situational interviews predict performance because they capture whether interviewees are able to read situational demands—or in other words know how they should behave to master performance-relevant situations—both during the interview and on the job (cf. Ingold et al. 2015; Jansen et al. 2013). Thus, for this explanation, it is relevant that ATIC as a common cause is positively related to both performance in the interview and performance in work-related situations. Thereby, ATIC contributes to the criterion-related validity of situational interviews because these interviews capture interviewees standing on this general ability that helps individuals to better read the situational demands in varying social situations, including selection and job contexts.
 
-#### Generating Final Scores, Rubrics and Interview Question
+#### Brainstorming Questions, Rubrics and Scoring
 
 Even once we do collect quantitative measures (rubrics) from candidates, it is often difficult to decide how to turn those rubrics into a final score (pass/fail, percentage or otherwise). 
 
@@ -635,6 +635,8 @@ My general strategy for generating interview questions, rubrics and scoring is a
 5. Confer in committee that we agree on what are common and what are nuanced solutions.  Develop a scoring algorithms.
     *Example*: Apply a point value to each solution.  Note negative points can be given for common incorrect or "red-flags" solutions. Nuanced solutions get higher score.  Total the points to get a final score.  Score must be above some value to pass.  
 6. Define rubrics as whether an candidate has acceptably described a given solution.
+
+Note that this methodology isn't specific to technical interviews.  Assessing for company culture applies the same way. 
 
 ### Interview methodologies
 
