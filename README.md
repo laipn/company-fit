@@ -667,7 +667,7 @@ Similary evidence for 2 has some precedent:
 
 >  "If you want to master something, teach it" - [Richard Feynman](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics), "the great Explainer". Nobel Prize-winning American theoretical physicist.
 
-Additionally It is unheard for a mathematician to publich a solution without being able to provide a proof for correctness.  The same is true for computer scientists and solutions -- note that there is a [logical proof](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) on how "mathematical proofs" and "computer program correctness" are related.
+Additionally It is unheard for a mathematician to publich a solution without being able to provide a proof for correctness.  The same is true for computer scientists and solutions -- note that there is a [logical theory](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) relating "mathematical proofs" to (computer) program "correctness".
 
 "Cargo-cult"-ers generally only look for 1, whereas good companies will focus on 2.  You'll actually see good companies ask problems with no practical solution (e.g. O(N^2) time) for that reason.  The solution isn't important, the problem-solving process (and being able to explain it) *is* what is important.  Good companeis have rubrics centered around exactly this.
 
