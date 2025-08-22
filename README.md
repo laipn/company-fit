@@ -740,20 +740,24 @@ I find it best to think of management as as anyone-who-is-not-an-independent-con
 
 An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. It is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have backgrounds in academia which favor a flat hiearachy.  They tend however towards military-style hierachies over time.
 
-In both militaries and coporations, "leaders" don't refer to people higher in the hierarchy. They refer to those with "leadership" skills that enable those others around them to perform better -- even if those people are not under their chain of command.  Good militaries stress leadership precisely because of their inability to place leaders into the strict hierarchy they must operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  The military must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.
+In both militaries and coporations, "leaders" don't refer to people higher in the hierarchy. They refer to those with "leadership" skills that enable those others around them to perform better -- even if those people are not under their chain of command. Good militaries stress leadership precisely because of their inability to place leaders into the strict hierarchy they must operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  
+
+The military must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The operating assumption there is that leadership explains most organizational failures. It's possibly that I over-estimate the importance of leaders and that failures.  I am reminded though of a quote:
+
+> “Good governance never depends upon laws, but upon the personal qualities of those who govern. The machinery of government is always subordinate to the will of those who administer that machinery. The most important element of government, therefore, is the method of choosing leaders.” - Frank Hebert
 
 > [!TODO]
 > Flesh out this theory more
 
 ### Poor Leadership and Power Structures
 
-The previous seciton made "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hiearchies create poor leaders.  We propose some theories why.  Firstly we define:
+The previous section made "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hiearchies create poor leaders.  We propose some theories why.  Firstly we define:
 
 > Power structures can be defined as the arrangements and systems of authority that depend on various modes of communication, signs, and expressive forms to convey and legitimize dominance within social groups. They are influenced by material arrangements, rituals, and large social institutions, which facilitate the functioning of these structures in society. - https://www.sciencedirect.com/topics/social-sciences/power-structure
 
 **Theory**: Strict hierachies in practice create power strutures.  These same power strutures end up placing poor leaders in charge of that hiearchy.
 
-There are plenty of [studies](https://psycnet.apa.org/record/2018-03097-001) supporting thie theory.  There are few studies proving the underlying mechanism which causes this occur. Some relevant observations:
+There are plenty of [studies](https://psycnet.apa.org/record/2018-03097-001) supporting thie theory.  There are few studies providing the underlying mechanism by which this occurs. Some relevant anecdotal observations:
 
 > 1. “Power tends to corrupt and absolute power corrupts absolutely. Great men are almost always bad men, even when they exercise influence and not authority; still more when you superadd the tendency of the certainty of corruption by authority.” - Lord Acton
 
@@ -763,10 +767,15 @@ There are plenty of [studies](https://psycnet.apa.org/record/2018-03097-001) sup
 
 > 4. "Power doesn't make people bad—it just shows who they really are. Good people will protect others, greedy people will take advantage, and insecure people will become bullies. Power doesn't change you—it reveals your true self when you're no longer afraid of getting in trouble" — Anthony Hopkins 
 
-Hypothesis 1: When placed in a position of power, good leaders become bad leaders.
-Hypothesis 2: Positions of power attract bad leaders.
-Hypothesis 3: When choose leaders, bad (or immoral) leaders have a [selective](https://en.wikipedia.org/wiki/Natural_selection) advantage.
-Hypothesis 4: People are typically worse leaders than they outwardly portray.  Power structures either allow or force the facade to be dropped.
+Suggets the following:
+
+*Hypothesis 1*: When placed in a position of power, good leaders become bad leaders.
+
+*Hypothesis 2*: Positions of power attract bad leaders.
+
+*Hypothesis 3*: When choose leaders, bad (or immoral) leaders have a [selective](https://en.wikipedia.org/wiki/Natural_selection) advantage.
+
+*Hypothesis 4*: People are typically worse leaders than they outwardly portray.  Power structures either allow or force the facade to be dropped.
 
 Note that the correct hypothesis influences the [Leadership Culture](#leadership-culture) section of this document.  It's also possible that all are to some degree correct.
 
