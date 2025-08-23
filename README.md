@@ -315,7 +315,21 @@ Most companies don't do exit-interviews for legal [reasons](https://www.law.com/
 - [ ] Company provides credible reason for not doing exit-interview. <_State reason_>
 - [ ] Company does not do exit interview.
 
-**Question**: "Have you ever stronglydisagreed with a management decision? Preferably one that ultimately you had to agree to disagree."
+**Question**: "How many times a year should do average employee be affected by a re-org?"
+See [Reorganization](#reorg) for more info.
+
+- [ ] Ever 1 year
+- [ ] Every 2 years
+- [ ] Every 3 years
+- [ ] 3 year+
+
+If < 3 years then: **Follow Up**: "What was the reason for your last reorg?"
+
+- [ ] Assesee could not recall the reason
+- [ ] Assesse did recall the reason.
+- [ ] N/A
+
+**Question**: "Have you ever strongly disagreed with a management decision? Preferably one that ultimately you had to agree to disagree."
 
 _Background_
 
@@ -429,7 +443,7 @@ _Common answers_:
 - [ ] Additional novelty present. <_Describe Them_>
 
 
-### Reorganizations
+### Reorganizations {#reorg}
 
 _Background_
 
@@ -439,26 +453,16 @@ Constant reorganizations are known to choose leaders poorly:
 
 Therefore re-orgs should be minimized to as little as necessary.  The right number could vary from company to company.  The test here is to see if employees in a re-org understand the reason for that re-org.  If employees do not possess a good rationale for that re-org, then the assumption is that the re-org was likely unhealthy.
 
-The goal of the following questions is to figure out how often an employee experiences a "disruptive" (one that changes their day-to-day" and "unhealthy" (one that likely triggered a power struggle) re-organization.
-
-**Question**: "How often does the average employee (or yourself) experience a re-org affecting <100 people[^min_reorg]?"
-
-If not sure then:
-
-**Question**: "How often have you experienced a re-org that caused you to lose or gain a report?"
-
-
+**Question** for manager: "How often have you experienced a re-org that caused you to lose or gain a report?"
 
 - [ ] Once a 1 year
 - [ ] Once every 2 years
 - [ ] Once every 3 years
 - [ ] 3+ years
 
-[^min_reorg] Large re-orgs rarely matter to ICs because they'll continue reporting to the same line-manager. Average manager to ratio is about 1:10 so any re-org with more than 100 people won't affect ICs usually.  
+[^min_reorg] Large re-orgs rarely matter to ICs because they'll continue reporting to the same line-manager. Average manager to ratio is about 1:10 so any re-org with more than 1000 people won't affect ICs usually.
 
-If too many (3+ years then):
-
-**Follow Up**: "What was the reason for your last reorg?"
+If < 3 years then: **Follow Up**: "What was the reason for your last reorg?"
 
 - [ ] Assesee could not recall the reason
 - [ ] Assesse did recall the reason.
