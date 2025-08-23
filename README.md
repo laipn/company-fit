@@ -439,16 +439,22 @@ Constant reorganizations are known to choose leaders poorly:
 
 Therefore re-orgs should be minimized to as little as necessary.  The right number could vary from company to company.  The test here is to see if employees in a re-org understand the reason for that re-org.  If employees do not possess a good rationale for that re-org, then the assumption is that the re-org was likely unhealthy.
 
-**Question**: "How often does the average employee experience a re-org affecting <100 people[^min_reorg]?"
+The goal of the following questions is to figure out how often an employee experiences a "disruptive" (one that changes their day-to-day" and "unhealthy" (one that likely triggered a power struggle) re-organization.
 
-*Background*: 
+**Question**: "How often does the average employee (or yourself) experience a re-org affecting <100 people[^min_reorg]?"
+
+If not sure then:
+
+**Question**: "How often have you experienced a re-org that caused you to lose or gain a report?"
+
+
 
 - [ ] Once a 1 year
 - [ ] Once every 2 years
 - [ ] Once every 3 years
 - [ ] 3+ years
 
-[^min_reorg] Large re-orgs rarely matter to ICs because they'll continue reporting to the same line-manager. Average manager to ratio is about 1:10 so any re-org with more than 100 people won't affect ICs usually.
+[^min_reorg] Large re-orgs rarely matter to ICs because they'll continue reporting to the same line-manager. Average manager to ratio is about 1:10 so any re-org with more than 100 people won't affect ICs usually.  
 
 If too many (3+ years then):
 
