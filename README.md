@@ -26,7 +26,10 @@ _Defnitions_:
 - _Assessor_ refers to the person using this doc to assess a company
 - _Assessee_ refers to the person being asked questions
 
-It is important to observe that we aren't trying to "interview the interviewer". The actual management or technical skills of the interviewer is irrelevant. We are "interviewing the company" and its processes. The assessee serves as proxy for their company.
+It is important to observe that we aren't trying to "interview the interviewer". The actual management or technical skills of the interviewer is irrelevant. We are "interviewing the company (culture)" and its processes. The assessee serves as proxy for their company.  This is inferred primarily in two ways:
+
+1. Looking for red-flags indicating that those processes (or viable alternatives) do not exist.  e.g. Engineering culture: "Does a standardized IDE exist at your company?"
+2. Checking if the assessee has good working knowledge of those processes.  This assumes that the assesee is in a position to know about those processes. "Describe to me how the company conducts exit interviews."
 
 The idea is to fork this doc for each company I interview for and answer questions inline[^markdown_form_support]. Sections can be filled out piecemeal during the "Q&A" stage of an interview but the assessor should note the assesee's job role (IC, manager, etc).
 
@@ -131,9 +134,7 @@ _Common answers_:
 ## Engineering Culture
 
 > [!IMPORTANT]
-> Only ICs should answer.
->
-> Some of these might be too technical. Because we are evaluating the company and not the IC, allow the IC to choose a (yet-unanswered) section.
+> Prefer for ICs to answer.  Most of these are technical.
 
 _Background_
 
@@ -261,7 +262,6 @@ Common Answers:
 - [ ] None of the above
 
 
-
 ## Management Culture
 
 > [!IMPORTANT]
@@ -315,20 +315,6 @@ Most companies don't do exit-interviews for legal [reasons](https://www.law.com/
 - [ ] Company provides credible reason for not doing exit-interview. <_State reason_>
 - [ ] Company does not do exit interview.
 
-**Question**: "How many times a year should do average employee be affected by a re-org?"
-See [Reorganization](#reorg) for more info.
-
-- [ ] Ever 1 year
-- [ ] Every 2 years
-- [ ] Every 3 years
-- [ ] 3 year+
-
-If < 3 years then: **Follow Up**: "What was the reason for your last reorg?"
-
-- [ ] Assesee could not recall the reason
-- [ ] Assesse did recall the reason.
-- [ ] N/A
-
 **Question**: "Have you ever strongly disagreed with a management decision? Preferably one that ultimately you had to agree to disagree."
 
 _Background_
@@ -358,20 +344,19 @@ If the issue was escalated:
 
 ## Leadership Culture
 
-> [!IMPORTANT]
-> Only managers should answer the following
->
-> Manager's [headcount](^manager_ratio).
->
-> - [ ] O(1)
-> - [ ] O(10)
-> - [ ] O(100)
-> - [ ] Director
+Is the assessee is an:
 
-### Leadership Qualities
+- [ ] Indepedendent Contributor
+- [ ] Manager
 
-> [!NOTE]
-> While these questions are useful for anyone, the rubrics scoring would depend on your own persoal preferences
+If assess is a manager then for [headcount](^manager_ratio):
+
+- [ ] O(1)
+- [ ] O(10)
+- [ ] O(100)
+- [ ] Director
+
+### Leadership Practices
 
 **Question**: "Does your org use agile practices? Which ones and why?"
 
@@ -451,44 +436,32 @@ Constant reorganizations are known to choose leaders poorly:
 
 > "When power sensitized teams are confronted with organizational change, internal power struggles are a likely consequence. " - [The dysfunctions of power in teams: A review and emergent conflict perspective](https://www.sciencedirect.com/science/article/pii/S0191308517300084)
 
-Therefore re-orgs should be minimized to as little as necessary.  The right number could vary from company to company.  The test here is to see if employees in a re-org understand the reason for that re-org.  If employees do not possess a good rationale for that re-org, then the assumption is that the re-org was likely unhealthy.
+Therefore re-orgs should be minimized, thouogh the minimum healthy number could varies.  The test here is to see if employees in a re-org understand the reason for that re-org.  If employees do not possess a good rationale for that re-org, then the assumption is that the re-org was likely unhealthy.
 
-**Question** for manager: "How often have you experienced a re-org that caused you to lose or gain a report?"
+**Question**: "How often does the average employee experience a re-org that affects their day-to-day life?  For example who they work with or if their manager's manager reports has changed."
 
 - [ ] Once a 1 year
 - [ ] Once every 2 years
 - [ ] Once every 3 years
 - [ ] 3+ years
 
-[^min_reorg] Large re-orgs rarely matter to ICs because they'll continue reporting to the same line-manager. Average manager to ratio is about 1:10 so any re-org with more than 1000 people won't affect ICs usually.
 
 If < 3 years then: **Follow Up**: "What was the reason for your last reorg?"
 
 - [ ] Assesee could not recall the reason
-- [ ] Assesse did recall the reason.
+- [ ] Assesse did recall the reason. 
 - [ ] N/A
 
-If assesee did recall the reason: 
-
-**Follow Up**: "What was the goal (explicit or implicit) in your last re-org?  
-
-*Background*
-
-Constant re-orgs are a sign of bad management as it indicates that teams were not able to organically self-organize to resolve a problem. Similarly in SREs if a service is constantly failing SLOs an incident is often declared which requires a [blame-free](https://sre.google/sre-book/postmortem-culture/) Post-Mortem.  The same is rarely true for re-orgs or failure-to-deliver in general.  
-
-**Question**: 
-
-Answers:
+If reason was recollected:
 
 - [ ] To better align with a business need
 - [ ] No explicit goal was stated
 - [ ] Implicit goal was inferred <_Provide details_>
 - [ ] Other. <_Provide details_>
 
-*if no stated goal*, **Follow up** :  "Did the re-org involve any kind of post-mortem on why the previous organization failed?"
+*if no reason*, **Follow up** :  "Did the re-org involve any kind of post-mortem on why the previous organization failed? What were the success criteria to determine if the re-org was successful?"
 
-If there was a stated goal, **Follow Up*** : "What were the success criteria to determine if the re-org was successful?"
-
+- [ ] No post-mortem
 - [ ] No criteria
 - [ ] Qualitative success criteria. <_Provide Details_>
 - [ ] Quantifiable success criteria (KPI). <_Provide Details_>
@@ -742,7 +715,7 @@ This type of interview requires a lot of effort on both of the interviewer and c
 
 Putting this here just for reference.  Technically all the questions above *are* situational questions.  In practice I see classical STAR interviews used most often to filter out behavior.  However studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for the efficacy of STAR is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave".  This suggests STAR is particularly ill-suited for testing for toxicity and has poor [rote-memorization](#rote-memorization) resistance.  This is why other interview methods outlined above are used for technical interviews.
 
-## Theories on the nature of Leadership
+## Theories on the nature of Leadership {#leadership}
 
 ### Defining Individual Contributors, Management and Leadership
 
