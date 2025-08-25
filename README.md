@@ -356,7 +356,15 @@ If assess is a manager then for [headcount](^manager_ratio):
 - [ ] O(100)
 - [ ] Director
 
+_Background_
+
+See [Leadership Section](#leadership)
+
 ### Leadership Practices
+
+_Background_
+
+Check to see if leadership uses (or knows how to use) common execution strategies.
 
 **Question**: "Does your org use agile practices? Which ones and why?"
 
