@@ -740,14 +740,13 @@ I find it best to think of management as as anyone-who-is-not-an-independent-con
 
 An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. It is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have backgrounds in academia which favor a flat hiearachy.  They tend however towards military-style hierachies over time.
 
-In both militaries and coporations, "leaders" don't refer to people higher in the hierarchy. They refer to those with "leadership" skills that enable those others around them to perform better -- even if those people are not under their chain of command. Good militaries stress leadership precisely because of their inability to place leaders into the strict hierarchy they must operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  
+In both militaries and coporations, "leaders" don't refer to people higher in the hierarchy. Rather, irregardless of chain of command:
 
-The military must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The operating assumption there is that leadership explains most organizational failures. It's possibly that I over-estimate the importance of leaders and that failures.  I am reminded though of a quote:
+> Leadership, is defined as the ability of an individual, group, or organization to "lead", influence, or guide other individuals, teams, or organizations. - Wikipedia
 
-> “Good governance never depends upon laws, but upon the personal qualities of those who govern. The machinery of government is always subordinate to the will of those who administer that machinery. The most important element of government, therefore, is the method of choosing leaders.” - Frank Hebert
+Good militaries and late-stage coporations stress leadership in all ranks precisely because of their inability to place leaders into the strict hierarchy they operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  
 
-> [!TODO]
-> Flesh out this theory more
+As suchh, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups.
 
 ### Poor Leadership and Power Structures
 
