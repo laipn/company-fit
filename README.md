@@ -746,7 +746,7 @@ In both militaries and coporations, "leaders" don't refer to people higher in th
 
 Good militaries and late-stage coporations stress leadership in all ranks precisely because of their inability to place leaders into the strict hierarchy they operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  
 
-As suchh, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups.
+As suchh, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups to play "catch-up". 
 
 ### Poor Leadership and Power Structures
 
