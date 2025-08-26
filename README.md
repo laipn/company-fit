@@ -390,6 +390,15 @@ Background:
 - [ ] Additional novelty present. <_Describe Them_>
 
 
+**Question**: "Does your hiring practice use a "blind" (data sent is anonymized) committee?"
+
+Background:
+- [ ] Yes
+- [ ] No. No reason why not.
+- [ ] No but complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
+
 ### Promoting leaders
 
 Selecting good leaders is often more critical than having good processes because:
