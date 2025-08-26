@@ -445,7 +445,7 @@ _Common answers_:
 - [ ] Additional novelty present. <_Describe Them_>
 
 
-### Reorganizations {#reorg}
+### [Reorganizations](#reorg)
 
 _Background_
 
@@ -580,7 +580,7 @@ This section isn't putting ethics under a microscope per se, it's assessing whet
 
 ### Interviewing Philosophy
 
-#### Resistance to rote memorization {#rote-memorization}
+#### [Resistance to rote memorization](#rote-memorization)
 
 It's important to note that regardless of interviewing method, all good interview methods must be resistance to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the (suitably difficult) skill being assessed for. 
 
@@ -627,7 +627,7 @@ My general strategy for generating interview questions, rubrics and scoring is a
    *Examples*: [Programming problem](#programming-puzzle) solving, linux systems debugging, software engineering, ethics, etc.
 2. From experience or research, come up with specific problems that require that skill set to solve.
    *Examples*: Reverse-a-linked-list, "Why can't I resolve a hostname on this linux server", "Show me the issues or anti-patterns in this snippet of code", etc
-3. Choose only problems whether the skills necessary are "[simple to learn, difficult to master](https://en.wikipedia.org/wiki/Bushnell%27s_Law)".  This ensures some level of [rote-memorization]{#rote-memorization} resistance.
+3. Choose only problems whether the skills necessary are "[simple to learn, difficult to master](https://en.wikipedia.org/wiki/Bushnell%27s_Law)".  This ensures some level of [rote-memorization](#rote-memorization) resistance.
    *Examples*: "Reject: reverse-a-linked-list, there is only one single solution", "Accept: Resolve-a-hostname.  DNS resolution strategies remains a difficult problem with no ideal solution", "Accept: Show me the errors in this code".
 4. From accepted problems, develop what are decided common solutions and what are more nuanced solutions or "observations" on the problem.
    *Example*: "Show me the issues or anti-patterns in this snippet of code"
@@ -671,7 +671,7 @@ Additionally It is unheard for a mathematician to publich a solution without bei
 
 "Cargo-cult"-ers generally only look for 1, whereas good companies will focus on 2.  You'll actually see good companies ask problems with no practical solution (e.g. O(N^2) time) for that reason.  The solution isn't important, the problem-solving process (and being able to explain it) *is* what is important.  Good companeis have rubrics centered around exactly this.
 
-#### No-solve problem {#no-solve-problem}
+#### (No-solve problem)[#no-solve-problem]
 
 An example of a [no-**win** scenario](https://en.wikipedia.org/wiki/No-win_situation) is the [Kobayashi Maru](https://en.wikipedia.org/wiki/Kobayashi_Maru) wherein the goal is in "testing the character of cadets rather than their actual skills".
 
@@ -732,11 +732,11 @@ This type of interview requires a lot of effort on both of the interviewer and c
 
 Putting this here just for reference.  Technically all the questions above *are* situational questions.  In practice I see classical STAR interviews used most often to filter out behavior.  However studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for the efficacy of STAR is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave".  This suggests STAR is particularly ill-suited for testing for toxicity and has poor [rote-memorization](#rote-memorization) resistance.  This is why other interview methods outlined above are used for technical interviews.
 
-## Theories on the nature of Leadership {#leadership}
+## [Theories on the nature of Leadership](#leadership)
 
 ### Defining Individual Contributors, Management and Leadership
 
-I find it best to think of management as as anyone-who-is-not-an-independent-contributor where "independent contributor" (IC) are people who are promoted based on their individual accomplishment rather than the team they might be leading.  This suggests mapping suggests a commonality in corporate organization and military organization.  Military orgs have enlistees (IC equivalent) ranks and officers (informally [POG](https://en.wikipedia.org/wiki/Pogue)). Each of those operate under their own strict hiearachy with strict ranks (e.g. [E1 to E9]((https://www.defense.gov/resources/insignia/) which mirror corporate ranks (e.g. [L3-L9](https://www.levels.fyi/?compare=Google&track=Software%20Engineer).  
+I find it best to think of management as as anyone-who-is-not-an-independent-contributor where "independent contributor" (IC) are people who are promoted based on their individual accomplishment rather than the team they might be leading.  This suggests mapping suggests a commonality in corporate organization and military organization.  Military orgs have enlistees (IC equivalent) ranks and [officers](https://en.wikipedia.org/wiki/Pogue). Each of those operate under their own strict hiearachy with strict ranks (e.g. [E1 to E9]((https://www.defense.gov/resources/insignia/) which mirror corporate ranks (e.g. [L3-L9](https://www.levels.fyi/?compare=Google&track=Software%20Engineer).  
 
 An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. It is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have backgrounds in academia which favor a flat hiearachy.  They tend however towards military-style hierachies over time.
 
