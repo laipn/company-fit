@@ -663,7 +663,7 @@ Example: Common Law
 
 Bad interview questions will often just ask *what* a thing (e.g. networking) is and it is usually easy to memorize the answer to that. 
 Decent interview questions will ask questions demanding they know *how* a thing works. e.g. What tools would you use to verify a network link is down? 
-Good interview questions will ask questions demanding they know *why* a thing was built the way it is. e.g. Suppose you havev infinite money to design a network between internal servers only.  How would you design it?
+Good interview questions will ask questions demanding they know *why* a thing was built the way it is, shortcomings and tradeoffs. e.g. What network protocols should be used if you want to design a network link for high-frequency trading?
 
 When interviewing, selecting for peopele who understand **why** is critical.  Consider ths following:
 
