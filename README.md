@@ -676,7 +676,7 @@ However also consider the counterpoint:
 "It's easy in this line of work to become superstitious: "this part of the system is risky -- let's not touch it." That’s a haunted graveyard. I will argue, I assume compellingly, that we should invade and re-consecrate any area that is showing
 signs of turning into a haunted graveyard." - John Reese (jtr) 
 
-Not tearing down the fence leads to tech-debt, but tearing it down risks monetary or brand damage. The only safe option is to hire people who can understand **why** things were built the way they were.  Only then can you make unimpeded progress.
+Not tearing down the fence leads to tech-debt, but tearing it down risks monetary or brand damage. The only safe option is to hire people who can understand **why** things were built the way they were.  Only then can you make unimpeded progress.  Thus most thsi doc consists of either singular complex *why* questions, or multiple *how* questions.  Keep this in mind when coming up with a rubric scoring system.
 
 ### Interview methodologies
 
