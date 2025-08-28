@@ -486,7 +486,7 @@ If reason was recollected:
 ## Company Ethics (Experimental)
 
 > [!IMPORTANT]
-> This section is **Experimental** because it is interviewing the assessee's skills rather than company processes. The problem with trying to assess a company ethical principles is that company ethics are often implicit rather than explcit.  There are good reasons for this (see "Don't be evil [lawsuit](https://en.wikipedia.org/wiki/Don%27t_be_evil#Lawsuit)").  Thus the only way to assess a company's implicit ethics are to assess an individual's understanding of it.
+> This section is **Experimental** because it is interviewing the assessee's skills rather than company processes. The problem with trying to assess a company ethical principles is that company ethics are often implicit rather than explcit.  There are good reasons for this (see "Don't be evil [lawsuit](https://en.wikipedia.org/wiki/Don%27t_be_evil#Lawsuit)").  Thus the only way to assess a company's implicit ethics are to assess an individual's understanding of it.  But it remainds stated ethics are in practical use nor whether those ethics belonged to the assesee rather than the company.
 
 > [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) does apply here however.  An incorrect answer could just mean that an individual lacks understanding of those ethics.  The only useful control mechanism I can see here, is to require that the assessor be someone high up the company --  as good ethical principles tends to [flow top-down](https://pmc.ncbi.nlm.nih.gov/articles/PMC6180164/)
 >
