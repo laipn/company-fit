@@ -617,7 +617,7 @@ Note this isn't a novel test for interview validity. See ["Why Do Situational In
 >
 >  Recently, Kleinmann et al. (2011) presented another explanation for the criterion-related validity of personnel selection procedures in general, including situational interviews. Their explanation assumes that individuals actively strive to successfully handle the situations that they are faced with during the selection procedures, so as to attain positive evaluations. According to Kleinmann et al., this ATIC refers to whether individuals are able to correctly decipher the situational demand characteristics and use them to guide their behavior. ATIC reflects an ability that not only helps individuals to better read the situational demands in interviews, but also those in work contexts. Thus, situational interviews predict performance because they capture whether interviewees are able to read situational demands—or in other words know how they should behave to master performance-relevant situations—both during the interview and on the job (cf. Ingold et al. 2015; Jansen et al. 2013). Thus, for this explanation, it is relevant that ATIC as a common cause is positively related to both performance in the interview and performance in work-related situations. Thereby, ATIC contributes to the criterion-related validity of situational interviews because these interviews capture interviewees standing on this general ability that helps individuals to better read the situational demands in varying social situations, including selection and job contexts.
 
-#### Brainstorming Questions, Rubrics and Scoring
+#### Rubrics and Scoring
 
 Even once we do collect quantitative measures (rubrics) from candidates, it is often difficult to decide how to turn those rubrics into a final score (pass/fail, percentage or otherwise). 
 
@@ -638,6 +638,45 @@ My general strategy for generating interview questions, rubrics and scoring is a
 6. Define rubrics as whether an candidate has acceptably described a given solution.
 
 Note that this methodology isn't specific to technical interviews.  Assessing for company culture applies the same way. 
+
+#### Brainstorming Questions
+
+Mastering any subject area (e.g. code-base, philosophy, trade skill) follows the progression of:
+
+1. Learning **what** a thing is supposed to do.
+2. Learning **how** that thing currently does it.
+3. Learning **why** it was built that way, its shortcoming and thus how to improve it.
+
+You generally need to understand *what* a thing does before you can understand *how* a thing does it.  And you generally need to understad *how* a thing works before you can understand *why* it is presently built that way.
+
+Example: Computer networking
+
+*What*: Most people in tech understand that "computer networking" exists to send byte from one place to another.  
+*How*: Technical specialists understand [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) and relevant tools (tpcdump, ping).
+*Why*: Experts understand TCP/IP as an imperfect [abstraction](https://en.wikipedia.org/wiki/OSI_model#Comparison_with_TCP/IP_model) of may possible networking implementations.  They understand the shortcoming of the network model that we do use.  For example that it was never built with [security](https://www.linkedin.com/pulse/tcpip-original-sin-networking-john-spiegel-isxec/) in mind.
+
+Example: Common Law
+
+*What*: Most people understand: "the purpose of law is to maintain social order, establish standards for acceptable behavior, resolve disputes, and protect individual rights and freedoms."
+*How*: Specialists (attornies) understand the nuances of "judicial precedent", "due process", etc
+*Why*: Experts (supreme court judges) understand why we have the current laws we do and when that law ought to be overturned.  e.g. See the history of [substantive due process](https://en.wikipedia.org/wiki/Substantive_due_process#Later_development).
+
+Bad interview questions will often just ask *what* a thing (e.g. networking) is and it is usually easy to memorize the answer to that. 
+Decent interview questions will ask questions demanding they know *how* a thing works. e.g. What tools would you use to verify a network link is down? 
+Good interview questions will ask questions demanding they know *why* a thing was built the way it is. e.g. Suppose you havev infinite money to design a network between internal servers only.  How would you design it?
+
+When interviewing, selecting for peopele who understand **why** is critical.  Consider ths following:
+
+> “There [is] a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, ‘I don’t see the use of this; let us clear it away.’ To which the more intelligent type of reformer will do well to answer: ‘If you don’t see the use of it, I certainly won’t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.’” -- G.K. Chesterton 
+
+However also consider the counterpoint:
+
+![Haunted Graveyard]([https://xkcd.com/1172/](https://imgs.xkcd.com/comics/workflow_2x.png) "Workflow")
+
+"It's easy in this line of work to become superstitious: "this part of the system is risky -- let's not touch it." That’s a haunted graveyard. I will argue, I assume compellingly, that we should invade and re-consecrate any area that is showing
+signs of turning into a haunted graveyard." - John Reese (jtr) 
+
+Not tearing down the fence leads to tech-debt, but tearing it down risks monetary or brand damage. The only safe option is to hire people who can understand **why** things were built the way they were.  Only then can you make unimpeded progress.
 
 ### Interview methodologies
 
