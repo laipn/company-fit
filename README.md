@@ -1,4 +1,4 @@
-# Company Fit Interview
+# Company Fit
 
 ## Foreword
 
