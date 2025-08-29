@@ -781,7 +781,7 @@ I find it best to think of management as as anyone-who-is-not-an-independent-con
 
 An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. Though it is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have backgrounds in academia which favor a flat hiearachy.  However they trends towards strict hierachies over time:
 
-> 'Governments, if they endure, always tend increasingly toward aristocratic forms. No government in history has been known to evade this pattern. And as the aristocracy develops, government tends more and more to act exclusively in the interests of the ruling class -- whether that class be hereditary royalty, oligarchs of financial empires, or entrenched bureaucracy.' 
+> 'Governments, if they endure, always tend increasingly toward aristocratic forms. No government in history has been known to evade this pattern. And as the aristocracy develops, government tends more and more to act exclusively in the interests of the ruling class -- whether that class be hereditary royalty, oligarchs of financial empires, or entrenched bureaucracy.' - Frank Herbert
 
 ### Defining Leadership
 
