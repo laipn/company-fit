@@ -775,11 +775,15 @@ Putting this here just for reference.  Technically all the questions above *are*
 
 ## [Theories on the nature of Leadership](#leadership)
 
-### Defining Individual Contributors, Management and Leadership
+### Defining Individual Contributors and Management
 
 I find it best to think of management as as anyone-who-is-not-an-independent-contributor where "independent contributor" (IC) are people who are promoted based on their individual accomplishment rather than the team they might be leading.  This suggests mapping suggests a commonality in corporate organization and military organization.  Military orgs have enlistees (IC equivalent) ranks and officers. Each of those operate under their own strict hiearachy with strict ranks (e.g. [E1 to E9]((https://www.defense.gov/resources/insignia/) mirroring corporate ranks (e.g. [L3-L9](https://www.levels.fyi/?compare=Google&track=Software%20Engineer).  
 
-An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. Though it is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have backgrounds in academia which favor a flat hiearachy.  However they trends towards strict hierachies over time.
+An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. Though it is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have backgrounds in academia which favor a flat hiearachy.  However they trends towards strict hierachies over time:
+
+> 'Governments, if they endure, always tend increasingly toward aristocratic forms. No government in history has been known to evade this pattern. And as the aristocracy develops, government tends more and more to act exclusively in the interests of the ruling class -- whether that class be hereditary royalty, oligarchs of financial empires, or entrenched bureaucracy.' 
+
+### Defining Leadership
 
 In both militaries and coporations, "leaders" don't refer to people higher in the hierarchy. Rather, irregardless of chain of command:
 
@@ -787,7 +791,7 @@ In both militaries and coporations, "leaders" don't refer to people higher in th
 
 Good militaries and late-stage coporations stress leadership in all ranks precisely because of their inability to place leaders into the strict hierarchy they operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  
 
-As suchh, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups to play "catch-up". 
+As such, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups to play "catch-up". 
 
 ### Poor Leadership and Power Structures
 
