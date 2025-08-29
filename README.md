@@ -44,6 +44,12 @@ The company characteristics examined:
 5. (Experimental) Company Ethics: Whether the company acts with a consistent set of ethical principles.
 6. (Unfinished) Personal Ethics: Whether the company is compatible with my own set of ethics.
 
+In order to calibrate scoring of rubrics, ask:
+
+**Question**: What is the headcount of your company?
+
+<*Insert answer here*>
+
 ## Work Culture
 
 > [!IMPORTANT]
