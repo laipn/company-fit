@@ -28,7 +28,7 @@ Providing questions would be pointless without also providing the goal in asking
 I've attempted to make the question resilient to [Hawthorne Effects](https://en.wikipedia.org/wiki/Hawthorne_effect). That is to say while HR could attempt to coach interviewers on which rubrics to target, it would ultimately erode trust in HR. For example few things would be more discouraging than say being made to memorize corporate values for an interview. Neverthless, I have ommitted details for a handful of rubrics.
 
 > [!TODO]
-> If other people find this useful, then this document should be templated for re-use and sections conditioned on the personal values of the assessor. GPL license has been used to encourage that. Feel free to send a commit for review.
+> If other people find this useful, then this document should be templated for re-use and sections conditioned on the personal values of the assessor. The copyleft license has been used to encourage that. Feel free to send a commit for review.
 
 ## Introduction
 
