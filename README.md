@@ -408,15 +408,15 @@ _Common answers_:
 _Common answers_:
   - Same as in the above
 
-Background:
+Rubrics:
 - [ ] One or multiple answers above were given. <_List answers_>
 - [ ] Complexities understood.
 - [ ] Additional novelty present. <_Describe Them_>
 
 
-**Question**: "Does your hiring practice use a "blind" (data sent is anonymized) committee?"
+**Question**: "Does your company hiring practices use a "blind" (data sent is anonymized) committee?"
 
-Background:
+Rubrics:
 - [ ] Yes
 - [ ] No. No reason why not.
 - [ ] No but complexities understood.
@@ -665,7 +665,7 @@ My general strategy for generating interview questions, rubrics and scoring is a
 
 Note that this methodology isn't specific to technical interviews.  Assessing for company culture applies the same way. 
 
-#### Brainstorming Questions
+#### Brainstorming Questions and Rubrics
 
 Mastering any subject area (e.g. code-base, philosophy, trade skill) follows the progression of:
 
@@ -702,7 +702,54 @@ However also consider the counterpoint:
 "It's easy in this line of work to become superstitious: "this part of the system is risky -- let's not touch it." That’s a haunted graveyard. I will argue, I assume compellingly, that we should invade and re-consecrate any area that is showing
 signs of turning into a haunted graveyard." - John Reese (jtr) 
 
-Not tearing down the fence leads to tech-debt, but tearing it down risks monetary or brand damage. The only safe option is to hire people who can understand **why** things were built the way they were.  Only then can you make unimpeded progress.  Thus most thsi doc consists of either singular complex *why* questions, or multiple *how* questions.  Keep this in mind when coming up with a rubric scoring system.
+Not tearing down the fence leads to tech-debt, but tearing it down risks monetary or brand damage. The only safe option is to hire people who can understand **why** things were built the way they were.  Only then can you make unimpeded progress.  Thus the question in this doc doc consists of either singular complex *why* questions, or multiple *how* questions.  
+
+Here are a couple of examplee of people-interview (**not** company fit) question:
+
+#### "How" questions
+The idea is to look for common red-flags that show missing gaps in knowledge. 
+
+*Example question*
+Networking: What are the tools you use for debugging if
+  - Hostname not being resolved. *Answer*: nslookup, ping or equivalents
+  - Your server times out on an RPC call to the back-end, but ping succeeds. *Follow-up*: ping fails instead
+    - *Answer*: curl, tcpdump or equivalents
+  - A client gets an HTTP error
+    - *Answer*: f12 develoepr tools
+
+The rubrics for these look like:
+- [ ] No Red Flags
+- [ ] Red Flags. <_List them_>
+
+#### "Why" questions
+
+These question are known not to have any single answer.  The idea is to figure out how much nuance a candidate understands and if they have established rules or reasoning to resolve those nuances.
+
+**Question**: "What are the pros and cons of creating new teams?"
+
+_Common answers_:
+  - Pro:
+    - More room for promotion. Keeps managers happy. Follow up:
+      - How does company promotion process tie into this?
+    - Each team can better align with business needs. Follow up:
+      - How do you know 
+  - Cons:
+    - Reduced communication between each team (silo)
+    - Less flat hiearachy
+    - Power struggles
+
+**Rubrics**:
+- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
+**Follow up**:  "How does your company decide when it is necessary to create a new team?"
+
+**Rubrics**:
+- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
 
 ### Interview methodologies
 
