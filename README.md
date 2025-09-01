@@ -37,12 +37,19 @@ _Defnitions_:
 - _Assessor_ refers to the person using this doc to assess a company
 - _Assessee_ refers to the person being asked questions
 
-It is important to observe that we aren't trying to "interview the interviewer". The actual management or technical skills of the interviewer is irrelevant. We are "interviewing the company (culture)" and its processes. The assessee serves as proxy for their company.  This is inferred primarily in two ways:
+It is important to observe that we aren't trying to "interview the interviewer". The actual management or technical skills of the interviewer is irrelevant. We are "interviewing the company (culture)" and its processes. The assessee serves as proxy for their company.  
+
+> [!IMPORTANT]
+> To reinforce this point allow the assesee to choose the question they would like to answer
+
+This is inferred primarily in two ways:
 
 1. Looking for red-flags indicating that those processes (or viable alternatives) do not exist.  e.g. Engineering culture: "Does a standardized IDE exist at your company?"
 2. Checking if the assessee has good working knowledge of those processes.  This assumes that the assesee is in a position to know about those processes. "Describe to me how the company conducts exit interviews."
 
 The idea is to fork this doc for each company I interview for and answer questions inline[^markdown_form_support]. Sections can be filled out piecemeal during the "Q&A" stage of an interview but the assessor should note the assesee's job role (IC, manager, etc).
+
+
 
 [^markdown_form_support]: Markdown doesn't have great form input support
 
