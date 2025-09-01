@@ -606,9 +606,11 @@ This section isn't putting ethics under a microscope per se, it's assessing whet
 
 #### [Resistance to rote memorization](#rote-memorization)
 
-It's important to note that regardless of interviewing method, good interview methods should be resistant to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the skill being assessed for.  
+Regardless of interviewing method, good interview methods should be resistant to rote memoriation.  Specifically one could provide the candidate solution to the question being asked before-hand, but even with that solution a candidate without the assessed skills will still be unlikely to pass.  Put another way, studying to pass an the interview ought to guarantee that the candidate has learned the skill being assessed for.  
 
-Note that the importance in having interview questions with good rote memorization resistance isn't just to prevent candidate exploit, but also to ensure that the skills being assessed are *not* trivially learn-able.  If a candidate can pick up a the relevant skill in a couple of weeks then they could just as well do so on the job.
+Rote memorization resistance isn't just to prevent candidate exploit, but also to ensure that the skills being assessed are *not* trivially learn-able.  If a candidate can pick up a the relevant skill in a couple of weeks then they could just as well do so on the job.
+
+Today this is taken even further with AI chat bots.  If your interview questions can be passed by a person with a chat-bot, it is not a good interview question.
 
 **Examples**
 
