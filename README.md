@@ -723,6 +723,8 @@ The rubrics for these look like:
 - [ ] No Red Flags
 - [ ] Red Flags. <_List them_>
 
+Note that this question has very poor [rote-memorization](#rote-memorization) resistance.  ChatGPT will readily give you an answer -- which is why when interviewing people candidates, "why" questions should be preferred when interviewing people for tech roles. This question could easily be tweaked however to ask whether these tools exists on production servers during a "company interview".
+
 #### "Why" questions
 
 These question are known not to have any single answer.  The idea is to figure out how much nuance a candidate understands and if they have established rules or reasoning to resolve those nuances.
