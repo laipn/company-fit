@@ -669,13 +669,13 @@ Note that this methodology isn't specific to technical interviews.  Assessing fo
 
 #### Brainstorming Questions and Rubrics
 
-Mastering any subject area (e.g. code-base, philosophy, trade skill) follows the progression of:
+Mastering any engineering skill -- whether that is electrical engineering, software engineering or oganizational engineering -- follows the progression of:
 
 1. Learning **what** a thing is supposed to do.
-2. Learning **how** that thing currently does it.
-3. Learning **why** it was built that way, its shortcoming and thus how to improve it.
+2. Learning **how** the thing is implemented.
+3. Learning **why** the thing was built that way, its shortcoming and thus how to improve it.
 
-You generally need to understand *what* a thing does before you can understand *how* a thing does it.  And you generally need to understad *how* a thing works before you can understand *why* it is presently built that way.
+You generally need to understand *what* a thing does before you can understand *how* a thing does it.  And you generally need to understand *how* a thing works before you can understand *why* it is presently built that way.
 
 Example: Computer networking
 
@@ -693,7 +693,7 @@ Bad interview questions will often just ask *what* a thing (e.g. networking) is 
 Decent interview questions will ask questions demanding they know *how* a thing works. e.g. What tools would you use to verify a network link is down? 
 Good interview questions will ask questions demanding they know *why* a thing was built the way it is, shortcomings and tradeoffs. e.g. What network protocols should be used if you want to design a network link for high-frequency trading?
 
-When interviewing, selecting for peopele who understand **why** is critical.  Consider ths following:
+When interviewing, selecting for people who understand **why** is critical.  Consider ths following:
 
 > “There [is] a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, ‘I don’t see the use of this; let us clear it away.’ To which the more intelligent type of reformer will do well to answer: ‘If you don’t see the use of it, I certainly won’t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.’” -- G.K. Chesterton 
 
