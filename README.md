@@ -860,7 +860,7 @@ An enlistee just like an IC cannot disobey their manager's orders (indeed even H
 
 The quote while sensational but does bring up an interesting historical observation.
 
-An additional factor in this trend is that hierachies *must* form in any endeavor where specialization occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitabley occurs.  If Bob from Sales want a feature to show Walmart, that Alice from engineering feels is infeasible, someone must tie-break. Barring absolute commitment to the company, the indecision -- whose consequences are negligible to both Bob and Alice -- must be decided for the good company.  Inspiring "commitment" is a leadership quality we discuss in the next section.
+An additional factor in this trend is that hierachies *must* form in any endeavor where [specialization](https://www.researchgate.net/publication/246368812_Hierarchies_and_the_Organization_of_Specialization) occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitabley occurs.  If Bob from Sales want a feature to show Walmart, that Alice from engineering feels is infeasible, someone must tie-break. Barring absolute commitment to the company, the indecision -- whose consequences are negligible to both Bob and Alice -- must be decided for the good company.  Inspiring "commitment" is a leadership quality we discuss in the next section.
 
 ### Defining Leadership
 
