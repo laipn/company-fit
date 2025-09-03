@@ -848,15 +848,19 @@ This type of interview requires a lot of effort on both of the interviewer and c
 
 Putting this here just for reference.  Technically all the questions above *are* situational questions.  In practice I see classical STAR interviews used most often to filter out behavior.  However studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for the efficacy of STAR is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave".  This suggests STAR is particularly ill-suited for testing for toxicity and has poor [rote-memorization](#rote-memorization) resistance.  This is why other interview methods outlined above are used for technical interviews.
 
-## [Theories on the nature of Leadership](#leadership)
+## [Leadership Theory](#leadership)
 
 ### Defining Individual Contributors and Management
 
 I find it best to think of management as as anyone-who-is-not-an-independent-contributor where "independent contributor" (IC) are people who are promoted based on their individual accomplishment rather than the team they might be leading.  This suggests mapping suggests a commonality in corporate organization and military organization.  Military orgs have enlistees (IC equivalent) ranks and officers. Each of those operate under their own strict hiearachy with strict ranks (e.g. [E1 to E9]((https://www.defense.gov/resources/insignia/) mirroring corporate ranks (e.g. [L3-L9](https://www.levels.fyi/?compare=Google&track=Software%20Engineer).  
 
-An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. Though it is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have backgrounds in academia which favor a flat hiearachy.  However they trends towards strict hierachies over time:
+An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. Though it is debatable however whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to initially their startup backgrounds in academia and initially favor a flat hiearachy.  However larger companies trends towards strict hierachies over time:
 
 > 'Governments, if they endure, always tend increasingly toward aristocratic forms. No government in history has been known to evade this pattern. And as the aristocracy develops, government tends more and more to act exclusively in the interests of the ruling class -- whether that class be hereditary royalty, oligarchs of financial empires, or entrenched bureaucracy.' - Frank Herbert
+
+The quote while sensational but does bring up an interesting historical observation.
+
+An additional factor in this trend is that hierachies *must* form in any endeavor where specialization occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitabley occurs.  If Bob from Sales want a feature to show Walmart, that Alice from engineering feels is infeasible, someone must tie-break. Barring absolute commitment to the company, the indecision -- whose consequences are negligible to both Bob and Alice -- must be decided for the good company.  Inspiring "commitment" is a leadership quality we discuss in the next section.
 
 ### Defining Leadership
 
@@ -870,7 +874,7 @@ As such, militaries must outsource functions like innovative weapons development
 
 ### Poor Leadership and Power Structures
 
-The previous section made "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hiearchies create poor leaders.  We propose some theories why.  Firstly we define:
+The previous section made "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hiearchies create poor leaders.  We propose some theories why.  First we define:
 
 > Power structures can be defined as the arrangements and systems of authority that depend on various modes of communication, signs, and expressive forms to convey and legitimize dominance within social groups. They are influenced by material arrangements, rituals, and large social institutions, which facilitate the functioning of these structures in society. - https://www.sciencedirect.com/topics/social-sciences/power-structure
 
