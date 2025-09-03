@@ -860,7 +860,22 @@ An enlistee just like an IC cannot disobey their manager's orders (indeed even H
 
 The quote while sensational but does bring up an interesting historical observation.
 
-An additional factor in this trend is that hierachies *must* form in any endeavor where [specialization](https://www.researchgate.net/publication/246368812_Hierarchies_and_the_Organization_of_Specialization) occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitabley occurs.  If Bob from Sales want a feature to show Walmart, that Alice from engineering feels is infeasible, someone must tie-break. Barring absolute commitment to the company, the indecision -- whose consequences are negligible to both Bob and Alice -- must be decided for the good company.  Inspiring "commitment" is a leadership quality we discuss in the next section.
+#### Prisoner's Dilemmas and the Necessity of Management
+
+An additional factor in this trend is that hierachies *must* form in any endeavor where [specialization](https://www.researchgate.net/publication/246368812_Hierarchies_and_the_Organization_of_Specialization) occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitabley occurs.  If Bob from Sales want a feature to show Walmart, that Alice from engineering feels is infeasible, someone must tie-break. Barring absolute commitment to the company, the indecision -- whose consequences are negligible to both Bob and Alice -- must be decided for the good company.  Inspiring "commitment" is a leadership quality we discuss in the next section. Thus the introduction of a strict-hierachial management class **is** necessary for an organization to function. Fully egalitarian organization tend to fail for the same reasons that communes and socialism tends to fail.
+
+Experience shows that it is often not the more technically competent manager that is the better decidier, is it often the one with better people skills.  The inability for Bob and Alice to agree  does not stem from an unresolvable technical disagreement; it stems from the fact that they both acting [rationally](https://en.wikipedia.org/wiki/Rational_agent) to futher their own self itnerests.  Both actors often *will* be able to provide a convincing technical justication for their decisions, the manager just needs to decide which actor is being disgengenuous. As such the process is typically:
+
+1. Bob and Alice disagree technically.  Figure out whether it is worth the company's time and effort to intervene. If yes, continue.
+2. Take each of them offline and find out whether they likely disagree because of existing personal issues.  If "potential profit is high", continue.  Else, use personal judgement on reading biases to make a decision.
+3. If no pre-existing biases, then ask each to provide a technical justification in a document.  If no-one backs off, continue. Else read the documents yourself.  If disgengenuous is detected, favor the opposing party.
+4. If there are political aspects at play (denying Bob or Alice would annoy their own management), esclate up the management hierarchy.  Else escalate up the technical hierarchy. 
+
+> [!TODO]:
+> Add the above to the company fit assessment
+
+Not much of the above depends on the manager having good technical skills.  It does however requires a separate strict technical hierarchy in place.  Which is what you see in practice in tech coportation.  Tech and management tracks are separate.
+
 
 #### Defining Leadership
 
