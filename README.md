@@ -787,7 +787,7 @@ Additionally It is unheard for a mathematician to publich a solution without bei
 
 "Cargo-cult"-ers generally only look for 1, whereas good companies will focus on 2.  You'll actually see good companies ask problems with no practical solution (e.g. O(N^2) time) for that reason.  The solution isn't important, the problem-solving process (and being able to explain it) *is* what is important.  Good companeis have rubrics centered around exactly this.
 
-#### (No-solve problem)[#no-solve-problem]
+#### [No-solve problem](#no-solve-problem)
 
 An example of a [no-**win** scenario](https://en.wikipedia.org/wiki/No-win_situation) is the [Kobayashi Maru](https://en.wikipedia.org/wiki/Kobayashi_Maru) wherein the goal is in "testing the character of cadets rather than their actual skills".
 
