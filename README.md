@@ -876,6 +876,8 @@ Experience shows that it is often not the more technically competent manager tha
 
 Not much of the above depends on the manager having good technical skills.  It does however requires a separate strict technical hierarchy in place.  Which is what you see in practice in tech coportation.  Tech and management tracks are separate.
 
+Note that neither Alice or Bob is acting maliciously in this situation, it is often just a case of [unconscious bias](https://pubmed.ncbi.nlm.nih.gov/36933917/) or [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor).
+
 
 #### Defining Leadership
 
