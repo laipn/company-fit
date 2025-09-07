@@ -38,7 +38,7 @@ This work is licensed under a
     - [Leadership Theory](#leadership-theory)
     - [Poor Leadership and Power Structures](#poor-leadership-and-power-structures)
   - [Unused Work](#unused-work)
-    - [Organization building theory](#organization-building-theory)
+    - [Org Building theory](#org-building-theory)
     - [Tech Debt Attitudes](#tech-debt-attitudes)
 
 
@@ -71,14 +71,14 @@ _Defnitions_:
 It is important to observe that we aren't trying to "interview the interviewer". The actual management or technical skills of the interviewer is irrelevant. We are "interviewing the company (culture)" and its processes. The assessee serves as proxy for their company.  
 
 > [!IMPORTANT]
-> To reinforce this point allow the assesee to choose the question they would like to answer
+> To reinforce this point allow the assessee to choose the question they would like to answer
 
 This is inferred primarily in two ways:
 
 1. Looking for red-flags indicating that those processes (or viable alternatives) do not exist.  e.g. Engineering culture: "Does a standardized IDE exist at your company?"
-2. Checking if the assessee has good working knowledge of those processes.  This assumes that the assesee is in a position to know about those processes. "Describe to me how the company conducts exit interviews."
+2. Checking if the assessee has good working knowledge of those processes.  This assumes that the assessee is in a position to know about those processes. "Describe to me how the company conducts exit interviews."
 
-The idea is to fork this doc for each company I interview for and answer questions inline[^markdown_form_support]. Sections can be filled out piecemeal during the "Q&A" stage of an interview but the assessor should note the assesee's job role (IC, manager, etc).
+The idea is to fork this doc for each company I interview for and answer questions inline[^markdown_form_support]. Sections can be filled out piecemeal during the "Q&A" stage of an interview but the assessor should note the assessee's job role (IC, manager, etc).
 
 [^markdown_form_support]: Markdown doesn't have great form input support
 
@@ -246,7 +246,7 @@ _Definition_: We use the term ["jerks"](https://en.wikipedia.org/wiki/The_No_Ass
 Each subsection describes a known mechanism commonly used to control for jerks. The goal of each subsection is to see if the company uses those mechanisms and understands their weaknesses.
 
 > [!NOTE]
-> These questions have no perfect [solutions](#no-solve-problem). Consider giving the assesee a pre-amble stating this.
+> These questions have no perfect [solutions](#no-solve-problem). Consider giving the assessee a pre-amble stating this.
 
 **Question**: "How do you filter our jerks during the interview process?"
 
@@ -310,13 +310,13 @@ This question assumes that an workforce engaged with leadership ought to know th
 - [ ] Some Core values given
 - [ ] No Core values given
 - [ ] Company does not have core values
-- [ ] Assesee states company is too small to have core values
+- [ ] assessee states company is too small to have core values
 
 **Follow Up**: "Can you give an example of how you (or your management) employed these values in the past?"
 
 - [ ] Concrete example given
 - [ ] Vague example given
-- [ ] Assesee cannot recall
+- [ ] assessee cannot recall
 - [ ] N/A
 
 **Question**: "Does your company do Q&As?. If not, why not?"
@@ -326,9 +326,9 @@ This question assumes that an workforce engaged with leadership ought to know th
 
 **Follow Up**: "Can you give an example of an Q&A that resulted in an action taken by management."
 
-- [ ] Assesee provides a concrete example
-- [ ] Assesee provides a vague answer
-- [ ] Assesee cannot recall
+- [ ] assessee provides a concrete example
+- [ ] assessee provides a vague answer
+- [ ] assessee cannot recall
 - [ ] N/A
 
 ### Management transparency with employees
@@ -357,9 +357,9 @@ The goal of this question is to figure out of how if employees are reluctant to 
 
 **Follow Up**: "What did you do about it?"
 
-- [ ] Assesee did nothing
-- [ ] Assesee escalated the issue but was eventually convinced they were wrong
-- [ ] Assesee escalated the issue but agreed to disagree
+- [ ] assessee did nothing
+- [ ] assessee escalated the issue but was eventually convinced they were wrong
+- [ ] assessee escalated the issue but agreed to disagree
 - [ ] Aassese escalated the issue initially but eventually gave up
 - [ ] N/A
 
@@ -445,7 +445,7 @@ _Background_
 Managers are usually evaluated accounting for excellence org healthiness and strategy execution.  The following stresses the former.
 
 > [!NOTE]
-> These questions have no perfect [solutions](#no-solve-problem). Consider giving the assesee a pre-amble stating this.
+> These questions have no perfect [solutions](#no-solve-problem). Consider giving the assessee a pre-amble stating this.
 
 **Question**: "How does the company measure org health?"
 
@@ -496,7 +496,7 @@ Therefore re-orgs should be minimized, thouogh the minimum healthy number could 
 
 If < 3 years then: **Follow Up**: "What was the reason for your last reorg?"
 
-- [ ] Assesee could not recall the reason
+- [ ] assessee could not recall the reason
 - [ ] Assesse did recall the reason.
 - [ ] N/A
 
@@ -517,7 +517,7 @@ _if no reason_, **Follow up** :  "Did the re-org involve any kind of post-mortem
 ## Company Ethics (Experimental)
 
 > [!IMPORTANT]
-> This section is **Experimental** because it is interviewing the assessee's skills rather than company processes. The problem with trying to assess a company ethical principles is that company ethics are often implicit rather than explcit.  There are good reasons for this (see "Don't be evil [lawsuit](https://en.wikipedia.org/wiki/Don%27t_be_evil#Lawsuit)").  Thus the only way to assess a company's implicit ethics are to assess an individual's understanding of it.  But it remainds stated ethics are in practical use nor whether those ethics belonged to the assesee rather than the company.
+> This section is **Experimental** because it is interviewing the assessee's skills rather than company processes. The problem with trying to assess a company ethical principles is that company ethics are often implicit rather than explcit.  There are good reasons for this (see "Don't be evil [lawsuit](https://en.wikipedia.org/wiki/Don%27t_be_evil#Lawsuit)").  Thus the only way to assess a company's implicit ethics are to assess an individual's understanding of it.  But it remainds stated ethics are in practical use nor whether those ethics belonged to the assessee rather than the company.
 
 > [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) does apply here however.  An incorrect answer could just mean that an individual lacks understanding of those ethics.  The only useful control mechanism I can see here, is to require that the assessor be someone high up the company --  as good ethical principles tends to [flow top-down](https://pmc.ncbi.nlm.nih.gov/articles/PMC6180164/)
 >
@@ -643,7 +643,7 @@ Consequentially, "Rote memorization" resistance can be measured by the following
 
 If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable -- which implies the skill we are **actually** testing for is trivially learn-able.  Similarly if we want to confirm that a pool of questions _is_ actually testing for a particular skill, simply confirm that candidates passing on the first round also consistentl pass on the second.
 
-_Aside_: The statistical model here is tricky to get right.  If for example question quality is of very high variance then it may skew results.  As such it's important to to ensure that the 1-st round "pass-rates" for all interview questions remain about the same.  Another tweak on this methodlogy is to just repeat interiews until an assesee hits a point of diminishing returns (upper-limit) on pass-rate.  The statical inference here would be for both the upper-limit _and_ the number of tries to reach that upper limit.
+_Aside_: The statistical model here is tricky to get right.  If for example question quality is of very high variance then it may skew results.  As such it's important to to ensure that the 1-st round "pass-rates" for all interview questions remain about the same.  Another tweak on this methodlogy is to just repeat interiews until an assessee hits a point of diminishing returns (upper-limit) on pass-rate.  The statical inference here would be for both the upper-limit _and_ the number of tries to reach that upper limit.
 
 Note this isn't a novel test for interview validity. See ["Why Do Situational Interviews Predict Performance? Is it Saying How You Would Behave or Knowing How You Should Behave?"](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/).  
 
@@ -936,7 +936,7 @@ Note that the correct hypothesis influences the [Leadership Culture](#leadership
 
 Most of these are too difficult to solve or lack good rubrics.
 
-### Organization building theory
+### Org Building theory
 
 **Question**: "Companies tend to form hierarchies? Why?"
 
