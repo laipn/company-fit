@@ -14,13 +14,13 @@ This work is licensed under a
 - [Company Fit Assessment](#company-fit-assessment)
   - [Foreword](#foreword)
   - [Introduction](#introduction)
-  - [Work Culture](#work-culture)
   - [Engineering Culture](#engineering-culture)
     - [Source Code Eco-System](#source-code-eco-system)
     - [Build and Deployment](#build-and-deployment)
     - [Production Tools](#production-tools)
     - [Debugging Tools](#debugging-tools)
     - [Security](#security)
+  - [People Culture](#people-culture)
   - [Management Culture](#management-culture)
     - [Employee engagement with management](#employee-engagement-with-management)
     - [Management transparency with employees](#management-transparency-with-employees)
@@ -34,27 +34,12 @@ This work is licensed under a
   - [Personal Ethics (Unfinished)](#personal-ethics-unfinished)
   - [Appendix](#appendix)
     - [Interviewing Philosophy](#interviewing-philosophy)
-      - [Resistance to rote memorization](#resistance-to-rote-memorization)
-      - [Rubrics and Scoring](#rubrics-and-scoring)
-      - [Brainstorming Questions and Rubrics](#brainstorming-questions-and-rubrics)
-      - ["How" questions](#how-questions)
-      - ["Why" questions](#why-questions)
     - [Interview methodologies](#interview-methodologies)
-      - [Programming Puzzle](#programming-puzzle)
-      - [No-solve problem](#no-solve-problem)
-      - [Spot the issues](#spot-the-issues)
-      - ["Homework Assignment" interviews](#homework-assignment-interviews)
-      - ["Situation, task, action, result"](#situation-task-action-result)
     - [Leadership Theory](#leadership-theory)
-      - [Defining Individual Contributors and Management](#defining-individual-contributors-and-management)
-      - [Prisoner's Dilemmas and the Necessity of Management](#prisoners-dilemmas-and-the-necessity-of-management)
-      - [Defining Leadership](#defining-leadership)
     - [Poor Leadership and Power Structures](#poor-leadership-and-power-structures)
   - [Unused Work](#unused-work)
-    - [Organizational building theory](#organizational-building-theory)
+    - [Organization building theory](#organization-building-theory)
     - [Tech Debt Attitudes](#tech-debt-attitudes)
-      - [Production philosophy](#production-philosophy)
-      - [Dev philosophy](#dev-philosophy)
 
 
 ## Foreword
@@ -111,92 +96,6 @@ In order to calibrate scoring of rubrics, ask:
 **Question**: What is the headcount of your company?
 
 <_Insert answer here_>
-
-## Work Culture
-
-> [!IMPORTANT]
-> Only managers should answer this section
->
-> Manager's [headcount](^manager_ratio).
->
-> - [ ] O(1)
-> - [ ] O(10)
-> - [ ] O(100)
-> - [ ] Director
-
-
-_Definition_: We use the term ["jerks"](https://en.wikipedia.org/wiki/The_No_Asshole_Rule) as shorthand indicating employees who create a toxic workplace.
-
-Each subsection describes a known mechanism commonly used to control for jerks. The goal of each subsection is to see if the company uses those mechanisms and understands their weaknesses.
-
-> [!NOTE]
-> These questions have no perfect [solutions](#no-solve-problem). Consider giving the assesee a pre-amble stating this.
-
-**Question**: "How do you filter our jerks during the interview process?"
-
-_Background_
-
-Situational interviews (e.g. [STAR](https://capd.mit.edu/resources/the-star-method-for-behavioral-interviews/)) have a proven track records in interviews. There is little evidence however around their efficacy in removing jerks despite heavy use for exactly that in the tech industry [citation needed].
-
-Studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for their efficacy is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave". My experience is that most toxicity in a tech workplace stems from workplace [chameleons](https://newworkplace.wordpress.com/2016/01/25/beware-the-workplace-chameleon/) with self-serving adaptability. Situational interviews selects for these individuals and in fact they are usually [promoted](https://www.researchgate.net/publication/350589033_How_So_Many_Toxic_Employees_Ascend_to_Leadership).
-
-- [ ] Process is in use
-- [ ] Complexities understood
-- [ ] Additional novelty present. <_Describe Them_>
-
-**Question**: "What mechanisms exists to ensure jerks are selected out in the promotion process?"
-
-_Background_
-
-Strictly speaking, this does not remove jerks. It only ensures they aren't placed in positions of power where toxicity spreads further. Common mechanisms are to use peer feedback as artifacts informing the promotion process. The weaknesses in this mechanisms is that this enforcement is typically at the candidate's manager discretion; and managers are disincentivized to block a promotion if they want to keep their reports happy.
-
-- [ ] Process is in use.
-- [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
-
-**Question**: "In what circumstances will HR intervene to remove a jerk?"
-
-_Background_
-
-This typically happens if enough HR complaints are levied. I've only seen this happen for gross violations of explicit HR rules. This leaves a lot of leeway where toxicity can spread especially given that HR has little day-to-day interaction with an employee.
-
-- [ ] Process is in use.
-- [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
-
-**Question**: "Have you ever [managed out](https://medium.com/@janetkahr/the-managing-out-process-d60f94704564) out an employee? What rationale and methods did you use?"
-
-_Background_
-
-Typically hiring and firing is an HR prerogative. "Mangaging out" is the primary way for a manager to remove an toxic or lower-performing employee. The weakness of this approach is that "managing out" usually typically results in an employee leaving for a different team -- which from a company perspective is just a lateral move.
-
-The reason that managers can't easily fire employees is for ["separation of powers"](https://www.investopedia.com/terms/s/separation-powers.asp). Without a separation of powers, you'd see manager favoritism and nepotism abound. By separating the organization that creates HR policies and the organization that executes those policies, no individual can arbitrarily hire/fire people and objectivity is maintained in both.
-
-- [ ] Process is in use.
-- [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
-
-**Question**: "What is the purpose of the technical hiearchy at the company? Do mechanisms exist to avoid promoting jerks?"
-
-_Background_
-
-Power has a [corrupting effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/) on orgs. Care must be taken when creating power structures to minimize those effects. For example, not creating hierachy in the first place is one the reasons why [flatter orgs](https://www.tandfonline.com/doi/full/10.1080/00221309.2024.2317247) tend to be less corrupt than taller ones -- though don't mistake cause for effect in that case. While management requires a hierarchy for [compartmentalization](<https://en.wikipedia.org/wiki/Compartmentalization_(information_security)>) reasons, this is less justifiable in a technical hiearachy. The goal of this section is to assess whether a tech hiearachy is in a way that does not select jerks.
-
-_Common answers_:
-
-- Projects are delivered top-down. Project leads are assigned to those at appropriate tech levels.
-  - Weakness: Requires people to ascend the tech hiearachy in order to work on fun problems. Difficulty is also determined by management and smart engineers can exploit this. e.g. sandbagging
-- Promotion requires delivering value to a company. Seniority is incentive for employees to work on projects more valuable to the company.
-  - Weakness: Requires HR to be able to align tech skills with business needs and so is likely to promote people with better tech skills.
-- Tech hierarchy is meritocratic. Higher level indicates higher technical skill. Tech leads are involved in the promo process.
-  - Weakness: Less alignment with business needs. Hard to determine what "technical skill" implies.
-- Promotion level has no actual power (implicit or otherwise)
-
-  - Weakness: How do technical disagreements get resolved?
-
-- [ ] One or multiple of answers above were given. <_List answers_>
-- [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
 
 ## Engineering Culture
 
@@ -327,6 +226,72 @@ Common Answers:
 - [ ] Plan for removal
 - [ ] Rationale for continuing tech-debt provided
 - [ ] None of the above
+
+
+## People Culture
+
+> [!IMPORTANT]
+> Only managers should answer this section
+>
+> Manager's [headcount](^manager_ratio).
+>
+> - [ ] O(1)
+> - [ ] O(10)
+> - [ ] O(100)
+> - [ ] Director
+
+
+_Definition_: We use the term ["jerks"](https://en.wikipedia.org/wiki/The_No_Asshole_Rule) as shorthand indicating employees who create a toxic workplace.
+
+Each subsection describes a known mechanism commonly used to control for jerks. The goal of each subsection is to see if the company uses those mechanisms and understands their weaknesses.
+
+> [!NOTE]
+> These questions have no perfect [solutions](#no-solve-problem). Consider giving the assesee a pre-amble stating this.
+
+**Question**: "How do you filter our jerks during the interview process?"
+
+_Background_
+
+Situational interviews (e.g. [STAR](https://capd.mit.edu/resources/the-star-method-for-behavioral-interviews/)) have a proven track records in interviews. There is little evidence however around their efficacy in removing jerks despite heavy use for exactly that in the tech industry [citation needed].
+
+Studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the reason for their efficacy is that it selects for individuals "Knowing How You Should Behave" rather than "How You Would Behave". My experience is that most toxicity in a tech workplace stems from workplace [chameleons](https://newworkplace.wordpress.com/2016/01/25/beware-the-workplace-chameleon/) with self-serving adaptability. Situational interviews selects for these individuals and in fact they are usually [promoted](https://www.researchgate.net/publication/350589033_How_So_Many_Toxic_Employees_Ascend_to_Leadership).
+
+- [ ] Process is in use
+- [ ] Complexities understood
+- [ ] Additional novelty present. <_Describe Them_>
+
+**Question**: "What mechanisms exists to ensure jerks are selected out in the promotion process?"
+
+_Background_
+
+Strictly speaking, this does not remove jerks. It only ensures they aren't placed in positions of power where toxicity spreads further. Common mechanisms are to use peer feedback as artifacts informing the promotion process. The weaknesses in this mechanisms is that this enforcement is typically at the candidate's manager discretion; and managers are disincentivized to block a promotion if they want to keep their reports happy.
+
+- [ ] Process is in use.
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
+**Question**: "In what circumstances will HR intervene to remove a jerk?"
+
+_Background_
+
+This typically happens if enough HR complaints are levied. I've only seen this happen for gross violations of explicit HR rules. This leaves a lot of leeway where toxicity can spread especially given that HR has little day-to-day interaction with an employee.
+
+- [ ] Process is in use.
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
+**Question**: "Have you ever [managed out](https://medium.com/@janetkahr/the-managing-out-process-d60f94704564) out an employee? What rationale and methods did you use?"
+
+_Background_
+
+Typically hiring and firing is an HR prerogative. "Mangaging out" is the primary way for a manager to remove an toxic or lower-performing employee. The weakness of this approach is that "managing out" usually typically results in an employee leaving for a different team -- which from a company perspective is just a lateral move.
+
+The reason that managers can't easily fire employees is for ["separation of powers"](https://www.investopedia.com/terms/s/separation-powers.asp). Without a separation of powers, you'd see manager favoritism and nepotism abound. By separating the organization that creates HR policies and the organization that executes those policies, no individual can arbitrarily hire/fire people and objectivity is maintained in both.
+
+- [ ] Process is in use.
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
 
 ## Management Culture
 
@@ -624,13 +589,13 @@ This section seeks to determine how ethical norms are being decided.
 > [!TODO]
 > Finish this section. Some ideas:
 >
-> > "I do not expect leadership to have perfect ethic principles. However, I do expect them to be able articulate those ethical principles." - Unknown Engineer. He was pretty cool though.
+> > "I do not expect leadership to have perfect ethic principles. However, I do expect them to be able articulate those ethical principles." - Unknown Engineer (jtr?). He was pretty cool though.
 >
 > Ask about a ["past behavior"](https://pmc.ncbi.nlm.nih.gov/articles/PMC4803420/) ethical problem encountered by the company and ask for the ethical principles used to resolve it.
 >
 > "All religious stuff aside, the fact is, people who can't kill will always be subject to those who can" - Sergeant Brad "Iceman" Colbert
 >
-> Similarly people without morals will always be an disadvantage to those without morals -- since an immoral person is bound by strictly fewer rules than a moral one. Thus at the level of the individual, natural selection in social contests tends to [select](https://pmc.ncbi.nlm.nih.gov/articles/PMC10558718/) for the immoral over the moral. The only question then is given a company's processes, how much of an advantage does immorality net you?
+> Similarly people without morals will always be an disadvantage to those without morals -- since an immoral person is bound by strictly fewer principles than a moral one. Thus at the level of the individual, natural selection in social contests tends to [select](https://pmc.ncbi.nlm.nih.gov/articles/PMC10558718/) for the immoral over the moral. The only question then is given a company's processes, how much of an advantage does immorality net you? Note that the [opposite](https://pmc.ncbi.nlm.nih.gov/articles/PMC8882060/) is true at the company level.  This contributes to the "double-think" mentality so common at large companies.  [High stress](https://pubmed.ncbi.nlm.nih.gov/21297280/) in management is the result.
 
 ## Personal Ethics (Unfinished)
 
@@ -971,7 +936,7 @@ Note that the correct hypothesis influences the [Leadership Culture](#leadership
 
 Most of these are too difficult to solve or lack good rubrics.
 
-### Organizational building theory
+### Organization building theory
 
 **Question**: "Companies tend to form hierarchies? Why?"
 
@@ -983,6 +948,30 @@ Note: This is a deceptively simple question. Most will observe that companies wi
   - Weakness: Meritocracy [alone](https://gap.hks.harvard.edu/paradox-meritocracy-organizations) isn't enough. Ask for elaboration on what determines merit.
 
 **Question**: "Companies do not form strict meritorious hierarchies. For example HR is typically silo-ed from the rest of the company. In what situation should we consider creating that kind of vertical silo?"
+
+
+**Question**: "What is the purpose of the technical hiearchy at the company? Do mechanisms exist to avoid promoting jerks?"
+
+_Background_
+
+Power has a [corrupting effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/) on orgs. Care must be taken when creating power structures to minimize those effects. For example, not creating hierachy in the first place is one the reasons why [flatter orgs](https://www.tandfonline.com/doi/full/10.1080/00221309.2024.2317247) tend to be less corrupt than taller ones -- though don't mistake cause for effect in that case. While management requires a hierarchy for [compartmentalization](<https://en.wikipedia.org/wiki/Compartmentalization_(information_security)>) reasons, this is less justifiable in a technical hiearachy. The goal of this section is to assess whether a tech hiearachy is in a way that does not select jerks.
+
+_Common answers_:
+
+- Projects are delivered top-down. Project leads are assigned to those at appropriate tech levels.
+  - Weakness: Requires people to ascend the tech hiearachy in order to work on fun problems. Difficulty is also determined by management and smart engineers can exploit this. e.g. sandbagging
+- Promotion requires delivering value to a company. Seniority is incentive for employees to work on projects more valuable to the company.
+  - Weakness: Requires HR to be able to align tech skills with business needs and so is likely to promote people with better tech skills.
+- Tech hierarchy is meritocratic. Higher level indicates higher technical skill. Tech leads are involved in the promo process.
+  - Weakness: Less alignment with business needs. Hard to determine what "technical skill" implies.
+- Promotion level has no actual power (implicit or otherwise)
+
+  - Weakness: How do technical disagreements get resolved?
+
+- [ ] One or multiple of answers above were given. <_List answers_>
+- [ ] Complexities understood.
+- [ ] Additional novelty present. <_Describe Them_>
+
 
 ### Tech Debt Attitudes
 
