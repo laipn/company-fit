@@ -923,7 +923,7 @@ _Hypothesis 1_: When placed in a position of power, good leaders become bad lead
 
 _Hypothesis 2_: Positions of power attract bad leaders.
 
-_Hypothesis 3_: When choose leaders, bad (or immoral) leaders have a [selective](https://en.wikipedia.org/wiki/Natural_selection) advantage.
+_Hypothesis 3_: When choosing leaders, bad (or immoral) leaders have a [selective](https://en.wikipedia.org/wiki/Natural_selection) advantage.
 
 _Hypothesis 4_: People are typically worse leaders than they outwardly portray.  Power structures either allow or force the facade to be dropped.
 
