@@ -95,7 +95,7 @@ In order to calibrate scoring of rubrics, ask:
 
 **Question**: What is the headcount of your company?
 
-<_Insert answer here_>
+(**Insert answer here**)
 
 ## Engineering Culture
 
@@ -129,7 +129,7 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
   - Presubmit checks on this?
 
 - [ ] No Red Flags
-- [ ] Red Flags. <_List them_>
+- [ ] Red Flags. (**List them**)
 
 **Follow Up**
 
@@ -156,7 +156,7 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
   - How do you bisect changes in order to root-cause a bug?
 
 - [ ] No Red Flags
-- [ ] Red Flags. <_List them_>
+- [ ] Red Flags. (**List them**)
 
 **Follow Up**
 
@@ -178,7 +178,7 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
 - Customer log/core collection
 
 - [ ] No Red Flags
-- [ ] Red Flags. <_List them_>
+- [ ] Red Flags. (**List them**)
 
 **Follow Up**
 
@@ -201,7 +201,7 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
   - Examples: strace, tcpdump, eBPF program
 
 - [ ] No Red Flags
-- [ ] Red Flags. <_List them_>
+- [ ] Red Flags. (**List them**)
 
 **Follow Up**
 
@@ -258,7 +258,7 @@ Studies [suggests](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/) that the r
 
 - [ ] Process is in use
 - [ ] Complexities understood
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 **Question**: "What mechanisms exists to ensure jerks are selected out in the promotion process?"
 
@@ -268,7 +268,7 @@ Strictly speaking, this does not remove jerks. It only ensures they aren't place
 
 - [ ] Process is in use.
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 **Question**: "In what circumstances will HR intervene to remove a jerk?"
 
@@ -278,7 +278,7 @@ This typically happens if enough HR complaints are levied. I've only seen this h
 
 - [ ] Process is in use.
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 **Question**: "Have you ever [managed out](https://medium.com/@janetkahr/the-managing-out-process-d60f94704564) out an employee? What rationale and methods did you use?"
 
@@ -290,7 +290,7 @@ The reason that managers can't easily fire employees is for ["separation of powe
 
 - [ ] Process is in use.
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 
 ## Management Culture
@@ -322,7 +322,7 @@ This question assumes that an workforce engaged with leadership ought to know th
 **Question**: "Does your company do Q&As?. If not, why not?"
 
 - [ ] Yes
-- [ ] No. Reason: <_insert text_>
+- [ ] No. Reason: (**insert text**)
 
 **Follow Up**: "Can you give an example of an Q&A that resulted in an action taken by management."
 
@@ -343,7 +343,7 @@ Most companies don't do exit-interviews for legal [reasons](https://www.law.com/
 
 - [ ] Company does exit interviews with record.
 - [ ] Company does exit interview with records.
-- [ ] Company provides credible reason for not doing exit-interview. <_State reason_>
+- [ ] Company provides credible reason for not doing exit-interview. (**State reason**)
 - [ ] Company does not do exit interview.
 
 **Question**: "Have you ever strongly disagreed with a management decision? Preferably one that ultimately you had to agree to disagree."
@@ -407,9 +407,9 @@ _Common answers_:
 - Teams decides which to use.  Follow up: "How was this decided? Through surveys? How was the decision revisited"
 - Whiever ones that studies show to be effective.  _Follow up_: Are those studies specifically tailored for software engineering? In your problem space?
 
-- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] One or multiple answers above were given. (**List answers**)
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 **Question**: "Does your org use KPI practices? How strictly? Does it directly affect promo?"
 
@@ -419,9 +419,9 @@ _Common answers_:
 
 Rubrics:
 
-- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] One or multiple answers above were given. (**List answers**)
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 **Question**: "Does your company hiring practices use a "blind" (data sent is anonymized) committee?"
 
@@ -430,7 +430,7 @@ Rubrics:
 - [ ] Yes
 - [ ] No. No reason why not.
 - [ ] No but complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 ### Promoting leaders
 
@@ -459,9 +459,9 @@ _Common answers_:
 
   - Weakness: If peers are chosen by reviewee then this is often exploited. Report feedback is often non-valuable since it typically easy to figure out who provided an instance of negative feedback.
 
-- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] One or multiple answers above were given. (**List answers**)
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 **Question**: "How does the promotion process account for org health when evaluating managers for promotion? Specifically if a manager executes well but has poor org feedback."
 
@@ -473,9 +473,9 @@ _Common answers_:
 
   - Weakness: Not a transparent maneuver
 
-- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] One or multiple answers above were given. (**List answers**)
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 ### [Reorganizations](#reorg)
 
@@ -504,15 +504,15 @@ If reason was recollected:
 
 - [ ] To better align with a business need
 - [ ] No explicit goal was stated
-- [ ] Implicit goal was inferred <_Provide details_>
-- [ ] Other. <_Provide details_>
+- [ ] Implicit goal was inferred (**Provide details**)
+- [ ] Other. (**Provide details**)
 
 _if no reason_, **Follow up** :  "Did the re-org involve any kind of post-mortem on why the previous organization failed? What were the success criteria to determine if the re-org was successful?"
 
 - [ ] No post-mortem
 - [ ] No criteria
-- [ ] Qualitative success criteria. <_Provide Details_>
-- [ ] Quantifiable success criteria (KPI). <_Provide Details_>
+- [ ] Qualitative success criteria. (**Provide Details**)
+- [ ] Quantifiable success criteria (KPI). (**Provide Details**)
 
 ## Company Ethics (Experimental)
 
@@ -730,7 +730,7 @@ Networking: What are the tools you use for debugging if
 The rubrics for these look like:
 
 - [ ] No Red Flags
-- [ ] Red Flags. <_List them_>
+- [ ] Red Flags. (**List them**)
 
 Note that this question has very poor [rote-memorization](#rote-memorization) resistance.  ChatGPT will readily give you an answer -- which is why when interviewing people candidates, "why" questions should be preferred when interviewing people for tech roles. This question could easily be tweaked however to ask whether these tools exists on production servers during a "company interview".
 
@@ -754,17 +754,17 @@ _Common answers_:
 
 **Rubrics**:
 
-- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] One or multiple answers above were given. (**List answers**)
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 **Follow up**:  "How does your company decide when it is necessary to create a new team?"
 
 **Rubrics**:
 
-- [ ] One or multiple answers above were given. <_List answers_>
+- [ ] One or multiple answers above were given. (**List answers**)
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 ### Interview methodologies
 
@@ -968,9 +968,9 @@ _Common answers_:
 
   - Weakness: How do technical disagreements get resolved?
 
-- [ ] One or multiple of answers above were given. <_List answers_>
+- [ ] One or multiple of answers above were given. (**List answers**)
 - [ ] Complexities understood.
-- [ ] Additional novelty present. <_Describe Them_>
+- [ ] Additional novelty present. (**Describe Them**)
 
 
 ### Tech Debt Attitudes
