@@ -1,3 +1,5 @@
+Original [markdown](https://github.com/laipn/company-fit/).
+
 # Company Fit Assessment
 
 - [Company Fit Assessment](#company-fit-assessment)
@@ -67,7 +69,7 @@ This is inferred primarily in two ways:
 1. Looking for red-flags indicating that those processes (or viable alternatives) do not exist.  e.g. Engineering culture: "Does a standardized IDE exist at your company?"
 2. Checking if the assessee has good working knowledge of those processes.  This assumes that the assessee is in a position to know about those processes. "Describe to me how the company conducts exit interviews."
 
-The idea is to fork this doc for each company I interview for and answer questions inline[^markdown_form_support]. Sections can be filled out piecemeal during the "Q&A" stage of an interview but the assessor should note the assessee's job role (IC, manager, etc).
+The idea is to [fork](https://github.com/laipn/company-fit/) this doc for each company I interview for and answer questions inline[^markdown_form_support]. Sections can be filled out piecemeal during the "Q&A" stage of an interview but the assessor should note the assessee's job role (IC, manager, etc).
 
 [^markdown_form_support]: Markdown doesn't have great form input support
 
