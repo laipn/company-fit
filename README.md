@@ -1,8 +1,8 @@
 Original [markdown](https://github.com/laipn/company-fit/).
 
-# Company Fit Assessment
+# Company Fit Interview
 
-- [Company Fit Assessment](#company-fit-assessment)
+- [Company Fit Interview](#company-fit-interview)
   - [Foreword](#foreword)
   - [Introduction](#introduction)
   - [Engineering Culture](#engineering-culture)
@@ -874,7 +874,7 @@ Experience shows that it is often not the more technically competent manager tha
 4. If there are political aspects at play (denying Bob or Alice would annoy their own management), esclate up the management hierarchy.  Else escalate up the technical hierarchy.
 
 > [!TODO]:
-> Add the above to the company fit assessment
+> Add the above to the company fit interview
 
 Not much of the above depends on the manager having good technical skills.  It does however requires a separate strict technical hierarchy in place.  Which is what you see in practice in tech coportation.  Tech and management tracks are separate hierachies.
 
