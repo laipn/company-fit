@@ -377,7 +377,7 @@ If the issue was escalated:
 
 Is the assessee is an:
 
-- [ ] Indepedendent Contributor
+- [ ] Independent Contributor
 - [ ] Manager
 
 If assess is a manager then for [headcount](^manager_ratio):
@@ -517,7 +517,7 @@ _if no reason_, **Follow up** :  "Did the re-org involve any kind of post-mortem
 ## Company Ethics (Experimental)
 
 > [!IMPORTANT]
-> This section is **Experimental** because it is interviewing the assessee's skills rather than company processes. The problem with trying to assess a company ethical principles is that company ethics are often implicit rather than explcit.  There are good reasons for this (see "Don't be evil [lawsuit](https://en.wikipedia.org/wiki/Don%27t_be_evil#Lawsuit)").  Thus the only way to assess a company's implicit ethics are to assess an individual's understanding of it.  But it remainds stated ethics are in practical use nor whether those ethics belonged to the assessee rather than the company.
+> This section is **Experimental** because it is interviewing the assessee's skills rather than company processes. The problem with trying to assess a company ethical principles is that company ethics are often implicit rather than explicit.  There are good reasons for this (see "Don't be evil [lawsuit](https://en.wikipedia.org/wiki/Don%27t_be_evil#Lawsuit)").  Thus the only way to assess a company's implicit ethics are to assess an individual's understanding of it.  But it remains stated ethics are in practical use nor whether those ethics belonged to the assessee rather than the company.
 
 > [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) does apply here however.  An incorrect answer could just mean that an individual lacks understanding of those ethics.  The only useful control mechanism I can see here, is to require that the assessor be someone high up the company --  as good ethical principles tends to [flow top-down](https://pmc.ncbi.nlm.nih.gov/articles/PMC6180164/)
 >
@@ -779,18 +779,18 @@ This is the most common type of technical interview anbd there exists a [lot](ht
 
 However without an actual stated objective and stated rationale why an interview satisfies that objective, the result still is just a ["cargo-cult"](https://en.wikipedia.org/wiki/Cargo_cult#As_a_metaphor) of what other companies.  As such most companies focus on the "pass-fail" aspect and not establishing explicit rubrics around the questions. "Pass-Fail" is easy to measure, creating "rubrics" to fairly assess desired candidate skills is hard.
 
-There are a handful of companies that I think _do_ have an udnerstanding of the objectives.  Simply stated, the objective is to figure out whether:
+There are a handful of companies that I think _do_ have an understanding of the objectives.  Simply stated, the objective is to figure out whether:
 
 1. A candidate has the problem-solving skills to be able to decompose difficult technical problems.
-2. A candiate has the problem-solving skills to be able to teach and prove their correctness of the solution in 1.
+2. A candidate has the problem-solving skills to be able to teach and prove their correctness of the solution in 1.
 
-Evidence for 1 can be glaned by observing that "Programming Puzzles" "comp sci" questions were preceeded by lateral-thinking "round man-hole" kinds of test.  The former replaced the latter mostly because
+Evidence for 1 can be gleaned by observing that "Programming Puzzles" "comp sci" questions were preceded by lateral-thinking "round man-hole" kinds of test.  The former replaced the latter mostly because
 
 > "Methods that had a transparent relationship between test content and job duties, such as interviews, work samples, and reference checks were perceived more favorably,"
 
-However the necesscity to measure problem-solving skills still remained a necessity.  
+However the necessity to measure problem-solving skills still remained a necessity.  
 
-Similary evidence for 2 has some precedent:
+Similarly, suggestive evidence for 2:
 
 > "If you want to master something, teach it" - [Richard Feynman](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics), "the great Explainer". Nobel Prize-winning American theoretical physicist.
 
@@ -895,7 +895,7 @@ In both militaries and coporations, "leaders" don't refer to people higher in th
 
 > Leadership, is defined as the ability of an individual, group, or organization to "lead", influence, or guide other individuals, teams, or organizations. - Wikipedia
 
-Good militaries and late-stage coporations stress leadership in all ranks precisely because of their inability to place leaders into the strict hierarchy they operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  
+Good militaries and late-stage coporations stress leadership in all ranks precisely because of their inability to place leaders into the strict hierarchy they operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  The tradeoff however is that the are slower to do so.
 
 As such, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups to play "catch-up".
 
