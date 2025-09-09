@@ -37,7 +37,7 @@ Original [markdown](https://github.com/laipn/company-fit/).
 
 It has always seem odd to me that there's plenty of info on [structured](https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/) employee job interviews, but candidates themselves lack that same structure when deciding company fit. I thought I'd remedy that for myself.
 
-I've made the doc public because people have asked me about it. Coincidentally it also serves as good way for prospective companies to glean whether I would be a good fit.
+I've made the doc public because people have asked me about it. Coincidentally it also serves as good way for prospective companies to glean whether I would be a good fit. I've also found it to be a fun thing to chat about with HR and associates (feel free to reach out).
 
 I've written in a mostly third-person voice to help me maintain objectivity. First person voice is used for instances that I assume to be subjective to my own personal values.
 
