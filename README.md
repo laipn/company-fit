@@ -889,7 +889,7 @@ The separate hierarchy becomes appealing for the following reasons:
 
 #### Defining Leadership
 
-In both militaries and coporations, "leaders" don't refer to people higher in the hierarchy. Rather:
+In both militaries and corporations, "leaders" or "leadership" don't necessarily refer simply to people higher in the hierarchy. Rather:
 
 > Leadership, is defined as the ability of an individual, group, or organization to "lead", influence, or guide other individuals, teams, or organizations. - Wikipedia
 
