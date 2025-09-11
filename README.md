@@ -864,7 +864,7 @@ The quote while sensational but does have historical validity.
 
 #### Prisoner's Dilemmas and the Necessity of Management
 
-An additional factor in this trend is that hierarchies _must_ form in any endeavor where [specialization](https://www.researchgate.net/publication/246368812_Hierarchies_and_the_Organization_of_Specialization) occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitabley occurs.  If Bob from Sales want a feature to sell to Walmart that Alice from engineering feels is infeasible, someone must tie-break.  Bob has knowledge of Walmart sales and Alice has the engineering knowledge to implement the feature.  Bob's commission from the sale, and Alice's engineering effort are both much less than the value of the Walmart sale, so it makes sense for neither of them to do anything -- they are in a Nash [equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium).  The information [assymetry](https://en.wikipedia.org/wiki/Information_asymmetry#Market_impact) from specialization inevitably leads to prisoner's dilemmas detrimenting the company.  Thus the introduction of a hierarchy **is** necessary for a corporation to function, though that does not explain why that hierarchy has to be in the form of a separate management class with separate skill requirements. I have some theories:
+Note that hierarchies _must_ form in any endeavor where [specialization](https://www.researchgate.net/publication/246368812_Hierarchies_and_the_Organization_of_Specialization) occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitably occurs.  If Bob from Sales want a feature to sell to Walmart that Alice from engineering feels is infeasible, someone must tie-break.  Bob has knowledge of Walmart sales and Alice has the engineering knowledge to implement the feature.  Bob's commission from the sale, and Alice's engineering effort are both much less than the value of the Walmart sale, so it makes sense for neither of them to do anything -- they are in a Nash [equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium).  The information [assymetry](https://en.wikipedia.org/wiki/Information_asymmetry#Market_impact) from specialization inevitably leads to prisoner's dilemmas detrimenting the company.  Thus the introduction of a hierarchy **is** necessary for a corporation to function, though that does not explain why that hierarchy has to be in the form of a separate management class with separate skill requirements. I have some theories:
 
 Experience shows that it is often not the more technically competent manager that is the better decidier, is it often the one with better people skills.  The inability for Bob and Alice to agree  does not stem from an unresolvable technical disagreement; it stems from the fact that they both acting [rationally](https://en.wikipedia.org/wiki/Rational_agent) to further their own self itnerests.  Both actors often _will_ be able to provide a convincing technical justication for their decisions, the manager just needs to decide which actor is being disgengenuous. As such the process is typically:
 
@@ -876,16 +876,20 @@ Experience shows that it is often not the more technically competent manager tha
 > [!TODO]:
 > Add the above to the company fit interview
 
-Not much of the above depends on the manager having good technical skills.  It does however requires a separate strict technical hierarchy in place.  Which is what you see in practice in tech corporation.  Tech and management tracks are separate hierarchies.
+Not much of the above depends on the manager having good technical skills.  It does however require a separate strict technical hierarchy in place.  Which is what you see in practice in tech corporation.  Tech and management tracks are separate hierarchies.
+
 
 Note that neither Alice or Bob is acting maliciously in this situation, it is often just a case of [unconscious bias](https://pubmed.ncbi.nlm.nih.gov/36933917/) or "stupidity" ([Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)). From an organizational efficiency perspective, it's important to note that the way to get the optimal outcome is to either managers good at reading people or to get Alice and Bob to not disagree in the first place (or agree faster).  
 
-The separate hierarchy becomes appealing for the following reasons:
+Thus a separate hierarchy becomes appealing for the following reasons:
 
 * The skill set required to resolve conflict is fundamentally different than the skill set to solve technical problems.
 * The accountability chain becomes clear.  The manager is responsible for any action by the report outside of the report's technical responsibilities.
 * A management hierarchy allows a degree of [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)), whether that information are trade secrets or examples of (un)-ethical decision making.
 
+Are "prisoner's dilemma" the primary reasons management must exist?  Well consider the contrapositive.  If there were never prisoner's dilemma (employees could be trusted to always act in the best interest of the company), in what situations would a manager still be necessary?  What stops people from self-organizing themselves for the best interest of the company in such cases?  Again consider the academia, where managers are rare precisely because prisoner-dilemma situations are rare.  People self-organize and "manage themselves".  
+
+A legitimate company-wide strategy therefore is to reduce the pressures leading to those prisoner-dilemma situations. This leads to the next point:
 
 #### Defining Leadership
 
