@@ -740,7 +740,7 @@ _Common answers_:
     - How do you know
 - Cons:
   - Reduced communication between each team (silo)
-  - Less flat hiearachy
+  - Less flat hierarchy
   - Power struggles
 
 **Rubrics**:
@@ -854,9 +854,9 @@ Putting this here just for reference.  Technically all the questions above _are_
 
 #### Defining Individual Contributors and Management
 
-I find it best to think of management as as anyone-who-is-not-an-independent-contributor where "independent contributor" (IC) are people who are promoted based on their individual accomplishment rather than the team they might be leading.  This suggests mapping suggests a commonality in corporate organization and military organization.  Military orgs have enlistees (IC equivalent) ranks and officers. Each of those operate under their own strict hiearachy with strict ranks (e.g. [E1 to E9]((<https://www.defense.gov/resources/insignia/>) mirroring corporate ranks (e.g. [L3-L9](https://www.levels.fyi/?compare=Google&track=Software%20Engineer).  
+I find it best to think of management as as anyone-who-is-not-an-independent-contributor where "independent contributor" (IC) are people who are promoted based on their individual accomplishment rather than the team they might be leading.  This suggests mapping suggests a commonality in corporate organization and military organization.  Military orgs have enlistees (IC equivalent) ranks and officers. Each of those operate under their own strict hierarchy with strict ranks (e.g. [E1 to E9]((<https://www.defense.gov/resources/insignia/>) mirroring corporate ranks (e.g. [L3-L9](https://www.levels.fyi/?compare=Google&track=Software%20Engineer).  
 
-An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. Though it is debatable whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have their startup backgrounds in academia and initially favor a flat hiearachy.  The trends towards strict hierachies happens over time:
+An enlistee just like an IC cannot disobey their manager's orders (indeed even HR has the concept of [insubordination](https://www.aihr.com/blog/insubordination/).  And a manager cannot disobey their own manager's order (military calls this [disobeying a superior officer](https://www.ucmjlaw.com/disobey-a-superior-officer/)). The military opts for this approach because it operates in a fast-paced environment where indecision is costly. Though it is debatable whether corporations all operate in that kind of environment.  Consider that many successful tech companies (e.g. FANGG) tend to have their startup backgrounds in academia and initially favor a flat hierarchy.  The trends towards strict hierarchies happens over time:
 
 > 'Governments, if they endure, always tend increasingly toward aristocratic forms. No government in history has been known to evade this pattern. And as the aristocracy develops, government tends more and more to act exclusively in the interests of the ruling class -- whether that class be hereditary royalty, oligarchs of financial empires, or entrenched bureaucracy.' - Frank Herbert
 
@@ -864,9 +864,9 @@ The quote while sensational but does have historical validity.
 
 #### Prisoner's Dilemmas and the Necessity of Management
 
-An additional factor in this trend is that hierachies _must_ form in any endeavor where [specialization](https://www.researchgate.net/publication/246368812_Hierarchies_and_the_Organization_of_Specialization) occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitabley occurs.  If Bob from Sales want a feature to sell to Walmart that Alice from engineering feels is infeasible, someone must tie-break.  Bob has knowledge of Walmart sales and Alice has the engineering knowledge to implement the feature.  Bob's commission from the sale, and Alice's engineering effort are both much less than the value of the Walmart sale, so it makes sense for neither of them to do anything -- they are in a Nash [equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium).  The information [assymetry](https://en.wikipedia.org/wiki/Information_asymmetry#Market_impact) from specialization inevitably leads to prisoner's dilemmas detrimenting the company.  Thus the introduction of a strict-hierachial management class **is** necessary for a corporation to function. 
+An additional factor in this trend is that hierarchies _must_ form in any endeavor where [specialization](https://www.researchgate.net/publication/246368812_Hierarchies_and_the_Organization_of_Specialization) occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitabley occurs.  If Bob from Sales want a feature to sell to Walmart that Alice from engineering feels is infeasible, someone must tie-break.  Bob has knowledge of Walmart sales and Alice has the engineering knowledge to implement the feature.  Bob's commission from the sale, and Alice's engineering effort are both much less than the value of the Walmart sale, so it makes sense for neither of them to do anything -- they are in a Nash [equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium).  The information [assymetry](https://en.wikipedia.org/wiki/Information_asymmetry#Market_impact) from specialization inevitably leads to prisoner's dilemmas detrimenting the company.  Thus the introduction of a hierarchy **is** necessary for a corporation to function, though that does not explain why that hierarchy has to be in the form of a separate management class with separate skill requirements. I have some theories:
 
-Experience shows that it is often not the more technically competent manager that is the better decidier, is it often the one with better people skills.  The inability for Bob and Alice to agree  does not stem from an unresolvable technical disagreement; it stems from the fact that they both acting [rationally](https://en.wikipedia.org/wiki/Rational_agent) to futher their own self itnerests.  Both actors often _will_ be able to provide a convincing technical justication for their decisions, the manager just needs to decide which actor is being disgengenuous. As such the process is typically:
+Experience shows that it is often not the more technically competent manager that is the better decidier, is it often the one with better people skills.  The inability for Bob and Alice to agree  does not stem from an unresolvable technical disagreement; it stems from the fact that they both acting [rationally](https://en.wikipedia.org/wiki/Rational_agent) to further their own self itnerests.  Both actors often _will_ be able to provide a convincing technical justication for their decisions, the manager just needs to decide which actor is being disgengenuous. As such the process is typically:
 
 1. Bob and Alice disagree technically.  Figure out whether it is worth the company's time and effort to intervene. If yes, continue.
 2. Take each of them offline and find out whether they likely disagree because of existing personal issues.  If "potential profit is high", continue.  Else, use personal judgement on reading biases to make a decision.
@@ -876,9 +876,16 @@ Experience shows that it is often not the more technically competent manager tha
 > [!TODO]:
 > Add the above to the company fit interview
 
-Not much of the above depends on the manager having good technical skills.  It does however requires a separate strict technical hierarchy in place.  Which is what you see in practice in tech coportation.  Tech and management tracks are separate hierachies.
+Not much of the above depends on the manager having good technical skills.  It does however requires a separate strict technical hierarchy in place.  Which is what you see in practice in tech corporation.  Tech and management tracks are separate hierarchies.
 
-Note that neither Alice or Bob is acting maliciously in this situation, it is often just a case of [unconscious bias](https://pubmed.ncbi.nlm.nih.gov/36933917/) or "stupidity" ([Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)). From an organizational efficiency perspective, it's important to note that the way to get the optimal outcome is to either managers good at reading people or to get Alice and Bob to not disagree in the first place (or agree faster).  This brings us to the next section.
+Note that neither Alice or Bob is acting maliciously in this situation, it is often just a case of [unconscious bias](https://pubmed.ncbi.nlm.nih.gov/36933917/) or "stupidity" ([Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)). From an organizational efficiency perspective, it's important to note that the way to get the optimal outcome is to either managers good at reading people or to get Alice and Bob to not disagree in the first place (or agree faster).  
+
+The separate hierarchy becomes appealing for the following reasons:
+
+* The skill set required to resolve conflict is fundamentally different than the skill set to solve technical problems.
+* The accountability chain becomes clear.  The manager is responsible for any action by the report outside of the report's technical responsibilities.
+* A management hierarchy allows a degree of [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)), whether that information are trade secrets or examples of (un)-ethical decision making.
+
 
 #### Defining Leadership
 
@@ -888,7 +895,7 @@ In both militaries and coporations, "leaders" don't refer to people higher in th
 
 Good militaries and late-stage coporations stress leadership in all ranks precisely because of their inability to place good leaders into the strict hierarchy they operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  Collaboration (e.g. papers) happens naturally. The tradeoff however is that the are slower to do so.
 
-As such, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierachies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups to play "catch-up".
+As such, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierarchies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups to play "catch-up".
 
 ### Poor Leadership and Power Structures
 
@@ -896,7 +903,7 @@ The previous section made "[a posteriori](https://en.wikipedia.org/wiki/A_priori
 
 > Power structures can be defined as the arrangements and systems of authority that depend on various modes of communication, signs, and expressive forms to convey and legitimize dominance within social groups. They are influenced by material arrangements, rituals, and large social institutions, which facilitate the functioning of these structures in society. - <https://www.sciencedirect.com/topics/social-sciences/power-structure>
 
-**Theory**: Strict hierachies in practice create power strutures.  These same power strutures end up placing poor leaders in charge of that hiearchy.
+**Theory**: Strict hierarchies in practice create power strutures.  These same power strutures end up placing poor leaders in charge of that hiearchy.
 
 There are plenty of [studies](https://psycnet.apa.org/record/2018-03097-001) supporting thie theory.  There are few studies providing the underlying mechanism by which this occurs. Some relevant anecdotal observations:
 
@@ -945,12 +952,12 @@ Note: This is a deceptively simple question. Most will observe that companies wi
 
 _Background_
 
-Power has a [corrupting effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/) on orgs. Care must be taken when creating power structures to minimize those effects. For example, not creating hierachy in the first place is one the reasons why [flatter orgs](https://www.tandfonline.com/doi/full/10.1080/00221309.2024.2317247) tend to be less corrupt than taller ones -- though don't mistake cause for effect in that case. While management requires a hierarchy for [compartmentalization](<https://en.wikipedia.org/wiki/Compartmentalization_(information_security)>) reasons, this is less justifiable in a technical hiearachy. The goal of this section is to assess whether a tech hiearachy is in a way that does not select jerks.
+Power has a [corrupting effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC10461512/) on orgs. Care must be taken when creating power structures to minimize those effects. For example, not creating hierachy in the first place is one the reasons why [flatter orgs](https://www.tandfonline.com/doi/full/10.1080/00221309.2024.2317247) tend to be less corrupt than taller ones -- though don't mistake cause for effect in that case. While management requires a hierarchy for [compartmentalization](<https://en.wikipedia.org/wiki/Compartmentalization_(information_security)>) reasons, this is less justifiable in a technical hierarchy. The goal of this section is to assess whether a tech hierarchy is in a way that does not select jerks.
 
 _Common answers_:
 
 - Projects are delivered top-down. Project leads are assigned to those at appropriate tech levels.
-  - Weakness: Requires people to ascend the tech hiearachy in order to work on fun problems. Difficulty is also determined by management and smart engineers can exploit this. e.g. sandbagging
+  - Weakness: Requires people to ascend the tech hierarchy in order to work on fun problems. Difficulty is also determined by management and smart engineers can exploit this. e.g. sandbagging
 - Promotion requires delivering value to a company. Seniority is incentive for employees to work on projects more valuable to the company.
   - Weakness: Requires HR to be able to align tech skills with business needs and so is likely to promote people with better tech skills.
 - Tech hierarchy is meritocratic. Higher level indicates higher technical skill. Tech leads are involved in the promo process.
