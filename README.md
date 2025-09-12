@@ -28,7 +28,7 @@ Original [markdown](https://github.com/laipn/company-fit/).
     - [Interview methodologies](#interview-methodologies)
     - [Leadership Theory](#leadership-theory)
     - [Poor Leadership and Power Structures](#poor-leadership-and-power-structures)
-    - [Corporate Ethics](#corporate-ethics)
+    - [Company Ethics](#company-ethics)
   - [Unused Work](#unused-work)
     - [Org Building theory](#org-building-theory)
     - [Tech Debt Attitudes](#tech-debt-attitudes)
@@ -941,7 +941,7 @@ Note that the correct hypothesis influences the [Leadership Culture](#leadership
 
 This also suggests then that one of the best ways to ensure good leaders in positions of power is to reduce the "power" appeal in those position.  For example an increase in power should always be coupled with an increase in responsibilities.  Executive perks like offices, lunchrooms, etc should be disallowed.  You already see this in tech.
 
-### Corporate Ethics
+### Company Ethics
 
 > Doublethink is a process of indoctrination in which subjects are expected to simultaneously accept two conflicting beliefs as truth, often at odds with their own memory or sense of reality.[1] Doublethink is related to, but differs from, hypocrisy.
 
