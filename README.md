@@ -901,19 +901,19 @@ In both militaries and corporations, "leaders" or "leadership" don't necessarily
 
 > Leadership, is defined as the ability of an individual, group, or organization to "lead", influence, or guide other individuals, teams, or organizations. - Wikipedia
 
-Good militaries and late-stage coporations stress leadership in all ranks precisely because of their inability to place good leaders into the strict hierarchy they operate under. Academia has no explicitly-enforced hiearchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  Collaboration (e.g. papers) happens naturally. The tradeoff however is that the are slower to do so.
+Good militaries and late-stage corporations stress leadership in all ranks precisely because of their inability to place good leaders into the strict hierarchy they operate under. Academia has no explicitly-enforced hierarchies and thus better "leadership" mobility since there is no barrier for people to [naturally](https://en.wikipedia.org/wiki/Invisible_hand) organize around those who help them succeed.  Collaboration (e.g. papers) happens naturally. The tradeoff however is that the are slower to do so.
 
-As such, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierarchies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage coporations buying out startups to play "catch-up".
+As such, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierarchies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage corporations buying out startups to play "catch-up".
 
 ### Poor Leadership and Power Structures
 
-The previous section made "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hiearchies create poor leaders.  We propose some theories why.  First we define:
+The previous section made "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hierarchies create poor leaders.  We propose some theories why.  First we define:
 
 > Power structures can be defined as the arrangements and systems of authority that depend on various modes of communication, signs, and expressive forms to convey and legitimize dominance within social groups. They are influenced by material arrangements, rituals, and large social institutions, which facilitate the functioning of these structures in society. - <https://www.sciencedirect.com/topics/social-sciences/power-structure>
 
-**Theory**: Strict hierarchies in practice create power strutures.  These same power strutures end up placing poor leaders in charge of that hiearchy.
+**Theory**: Strict hierarchies in practice create power structures.  These same power structures end up placing poor leaders in charge of that hierarchy.
 
-There are plenty of [studies](https://psycnet.apa.org/record/2018-03097-001) supporting thie theory.  There are few studies providing the underlying mechanism by which this occurs. Some relevant anecdotal observations:
+There are plenty of [studies](https://psycnet.apa.org/record/2018-03097-001) supporting this theory.  There are few studies providing the underlying mechanism by which this occurs. Some relevant anecdotal observations:
 
 > 1. “Power tends to corrupt and absolute power corrupts absolutely. Great men are almost always bad men, even when they exercise influence and not authority; still more when you superadd the tendency of the certainty of corruption by authority.” - Lord Acton
 
@@ -923,7 +923,7 @@ There are plenty of [studies](https://psycnet.apa.org/record/2018-03097-001) sup
 
 > 4. "Power doesn't make people bad—it just shows who they really are. Good people will protect others, greedy people will take advantage, and insecure people will become bullies. Power doesn't change you—it reveals your true self when you're no longer afraid of getting in trouble" — Anthony Hopkins
 
-Suggets the following:
+Suggests the following:
 
 _Hypothesis 1_: When placed in a position of power, good leaders become bad leaders.
 
@@ -937,6 +937,8 @@ Note that the correct hypothesis influences the [Leadership Culture](#leadership
 
 > [!TODO]
 > Find some relevant studies.  Figure out the most likely hypothesis.
+
+This also suggests then that one of the best ways to ensure good leaders in positions of power is to reduce the "power" appeal in those position.  For example an increase in power should always be coupled with an increase in responsibilities.  Executive perks like offices, lunchrooms, etc should be disallowed.  You already see this in tech.
 
 ## Unused Work
 
