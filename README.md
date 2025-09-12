@@ -949,6 +949,7 @@ This also suggests then that one of the best ways to ensure good leaders in posi
 
 If you work at a large corporation or lived in a socialist country you will probably have on posters on walls espousing company/government ethics. Examples: "Please speak up if you see something wrong!", "We are not going back. Forward together".  
 
+While these slogans are not intrinsically wrong, they often point to a management/government out-of-touch with employees/citizens. These slogans ignores the actual practical difficulties in what they espouse. Ethical behavior is hard and only top-down transparent ethical decision-making can show a workforce (or citizenry) how to achieve it.
 
 
 > [!TODO]
