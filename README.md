@@ -28,6 +28,7 @@ Original [markdown](https://github.com/laipn/company-fit/).
     - [Interview methodologies](#interview-methodologies)
     - [Leadership Theory](#leadership-theory)
     - [Poor Leadership and Power Structures](#poor-leadership-and-power-structures)
+    - [Corporate Ethics](#corporate-ethics)
   - [Unused Work](#unused-work)
     - [Org Building theory](#org-building-theory)
     - [Tech Debt Attitudes](#tech-debt-attitudes)
@@ -936,9 +937,21 @@ _Hypothesis 4_: People are typically worse leaders than they outwardly portray. 
 Note that the correct hypothesis influences the [Leadership Culture](#leadership-culture) section of this document.  It's also possible that all are to some degree correct.
 
 > [!TODO]
-> Find some relevant studies.  Figure out the most likely hypothesis.
+> Find some relevant studies.  Figure out the most likely hypothesis. Build some interview questions around them
 
 This also suggests then that one of the best ways to ensure good leaders in positions of power is to reduce the "power" appeal in those position.  For example an increase in power should always be coupled with an increase in responsibilities.  Executive perks like offices, lunchrooms, etc should be disallowed.  You already see this in tech.
+
+### Corporate Ethics
+
+> Doublethink is a process of indoctrination in which subjects are expected to simultaneously accept two conflicting beliefs as truth, often at odds with their own memory or sense of reality.[1] Doublethink is related to, but differs from, hypocrisy.
+
+"[Double-Think](https://en.wikipedia.org/wiki/Doublethink)"-ing is common in both government and [corporation](https://www.researchgate.net/publication/48352186_'Doublethink'_The_prevalence_and_function_of_contradiction_in_accounts_of_organizational_life).  Double-think in those situations typically involve  the ethics that organization wants "you" to believe in and the personal ethics (or reality) that you use in practice.
+
+
+
+> [!TODO]
+> Finish this section.
+> Also, if I decide to build out the ethics questions portion of this doc more, use this section to justify them.
 
 ## Unused Work
 
