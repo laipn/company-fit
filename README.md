@@ -947,7 +947,9 @@ This also suggests then that one of the best ways to ensure good leaders in posi
 
 "[Double-Think](https://en.wikipedia.org/wiki/Doublethink)"-ing is common in both government and [corporation](https://www.researchgate.net/publication/48352186_'Doublethink'_The_prevalence_and_function_of_contradiction_in_accounts_of_organizational_life).  Double-think in those situations typically involve  the ethics that organization wants "you" to believe in and the personal ethics (or reality) that you use in practice.  
 
-If you work at a large corporation or lived in a socialist country you will probably have on posters on walls exemplars of company/government ethics. Examples: "Please speak up if you see something wrong!", "We are not going back. Forward together".  
+If you work at a large corporation or lived in a socialist country you will probably have on posters on walls espousing company/government ethics. Examples: "Please speak up if you see something wrong!", "We are not going back. Forward together".  
+
+
 
 > [!TODO]
 > Finish this section.
