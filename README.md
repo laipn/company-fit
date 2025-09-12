@@ -862,7 +862,7 @@ An enlistee just like an IC cannot disobey their manager's orders (indeed even H
 
 The quote while sensational but does have historical validity.
 
-#### Prisoner's Dilemmas and the Necessity of Management
+#### Prisoner's Dilemmas
 
 Note that hierarchies _must_ form in any endeavor where [specialization](https://www.researchgate.net/publication/246368812_Hierarchies_and_the_Organization_of_Specialization) occurs -- this is because [prisoner's dilemmas](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) inevitably occurs.  If Bob from Sales want a feature to sell to Walmart that Alice from engineering feels is infeasible, someone must tie-break.  Bob has knowledge of Walmart sales and Alice has the engineering knowledge to implement the feature.  Bob's commission from the sale, and Alice's engineering effort are both much less than the value of the Walmart sale, so it makes sense for neither of them to do anything -- they are in a Nash [equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium).  The information [assymetry](https://en.wikipedia.org/wiki/Information_asymmetry#Market_impact) from specialization inevitably leads to prisoner's dilemmas detrimenting the company.  Thus the introduction of a hierarchy **is** necessary for a corporation to function, though that does not explain why that hierarchy has to be in the form of a separate management class with separate skill requirements. I have some theories:
 
@@ -879,7 +879,11 @@ Experience shows that it is often not the more technically competent manager tha
 Not much of the above depends on the manager having good technical skills.  It does however require a separate strict technical hierarchy in place.  Which is what you see in practice in tech corporation.  Tech and management tracks are separate hierarchies.
 
 
-Note that neither Alice or Bob is acting maliciously in this situation, it is often just a case of [unconscious bias](https://pubmed.ncbi.nlm.nih.gov/36933917/) or "stupidity" ([Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)). From an organizational efficiency perspective, it's important to note that the way to get the optimal outcome is to either managers good at reading people or to get Alice and Bob to not disagree in the first place (or agree faster).  
+Note that neither Alice or Bob is acting maliciously in this situation, it is often just a case of [unconscious bias](https://pubmed.ncbi.nlm.nih.gov/36933917/) or "stupidity" ([Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)). From an organizational efficiency perspective, it's important to note that the way to get the optimal outcome is to either have managers good at reading people or to get Alice and Bob to not disagree in the first place (or agree faster).  
+
+Also note that "Bob" or "Alice" here don't have to be people.  One can represent the company itself.  For example suppose scenario is that "Bob" wants to steal a stapler from work and the company is deciding whether to provide free-use staplers.
+
+#### The Necessity of Management
 
 Thus a separate hierarchy becomes appealing for the following reasons:
 
