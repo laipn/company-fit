@@ -28,7 +28,6 @@ Original [markdown](https://github.com/laipn/company-fit/).
     - [Interview methodologies](#interview-methodologies)
     - [Leadership Theory](#leadership-theory)
     - [Poor Leadership and Power Structures](#poor-leadership-and-power-structures)
-    - [Company Ethics](#company-ethics)
   - [Unused Work](#unused-work)
     - [Org Building theory](#org-building-theory)
     - [Tech Debt Attitudes](#tech-debt-attitudes)
@@ -941,20 +940,43 @@ Note that the correct hypothesis influences the [Leadership Culture](#leadership
 
 This also suggests then that one of the best ways to ensure good leaders in positions of power is to reduce the "power" appeal in those position.  For example an increase in power should always be coupled with an increase in responsibilities.  Executive perks like offices, lunchrooms, etc should be disallowed.  You already see this in tech.
 
-### Company Ethics
+#### The Double-Think of Company Ethics
 
 > Doublethink is a process of indoctrination in which subjects are expected to simultaneously accept two conflicting beliefs as truth, often at odds with their own memory or sense of reality.[1] Doublethink is related to, but differs from, hypocrisy.
 
-"[Double-Think](https://en.wikipedia.org/wiki/Doublethink)"-ing is common in both government and [corporation](https://www.researchgate.net/publication/48352186_'Doublethink'_The_prevalence_and_function_of_contradiction_in_accounts_of_organizational_life).  Double-think in those situations typically involve  the ethics that organization wants "you" to believe in and the personal ethics (or reality) that you use in practice.  
+"[Double-Think](https://en.wikipedia.org/wiki/Doublethink)"-ing is common in both government and [corporation](https://www.researchgate.net/publication/48352186_'Doublethink'_The_prevalence_and_function_of_contradiction_in_accounts_of_organizational_life).  Double-think in those situations typically involve the ethics that organization wants "you" to believe in and the personal ethics (or reality) that you use in practice.  
 
-If you work at a large corporation or lived in a socialist country you will probably have on posters on walls espousing company/government ethics. Examples: "Please speak up if you see something wrong!", "We are not going back. Forward together".  
+If you work at a large corporation or lived in a socialist country there will probably be posters on walls espousing company/government ethics. Examples: "Please speak up if you see something wrong!", "We are not going back. Forward together".  
 
-While these slogans are not intrinsically wrong, they often point to a management/government out-of-touch with employees/citizens. These slogans ignores the actual practical difficulties in what they espouse. Ethical behavior is hard and only top-down transparent ethical decision-making can show a workforce (or citizenry) how to achieve it.
+While these slogans are not intrinsically incorrect or malicious, they often point to a management/government out-of-touch with employees/citizens. These slogans ignores the actual practical difficulties in what they espouse. There are two types of ethical behavior that an organization wants its constitutes to follow:
+
+1. That the company objectives comes first.
+2. That respecting people comes first.  This is often (but not always), a solution to aforementioned prisoner's dilemmas.
+
+The former, while superficially more ideal for the organization, is often so inherently incompatible (what moral obligations do I have for Company X?) with personal ethics that the only indoctrinees will be those who pay lip-service or those that compartmentalize (double-think) well.  Lip-service provides no benefit to the organization and compartmentalization while perhaps healthy for ICs, compromises the [ethical decision-making](https://www.researchgate.net/publication/226759222_The_Moral_Threat_of_Compartmentalization_Self_Roles_and_Responsibility) of those in management.  In other words, managers who compartmentalize cannot be trusted to correctly advise their reports out of prisoner's dilemmas.
+
+The second case, while generally compatible with personal morals has to compete with a company's profit-driven motives.  That is to say the following principles compete:
+
+1. Company profits comes first.
+2. People come first.
+3. My own personal ethics come first.
+4. (Often added) My manager's priorities comes first.
+
+The cognitive dissonance inherent in this "triple-think" often causes management to appeal to ["simplification biases"](https://en.wikipedia.org/wiki/Heuristic_(psychology)#Consequences) and thus present the three competing interests as being non-contradictory. e.g. "My superior who has multiple sexual harassment allegations remains employed because the HR investigation has equitably yielded a non-conclusive result as no such harassment happened.  There is no profit motive in keeping this strong performer and any non-transparency happened in the best interest of everyone involved.  The [Weistein](https://en.wikipedia.org/wiki/Weinstein_effect) effect does not apply."
+
+Thus, ethical behavior while always a management concern remains intrinsically difficult. The closest I've ever seen this resolved well is in common-law judicial system -- where ethical dilemmas are forced to be resolved both bottom-up and top-down in a way that is consistently (eventually) applied at all levels of judicial decision-making.  
 
 
-> [!TODO]
-> Finish this section.
-> Also, if I decide to build out the ethics questions portion of this doc more, use this section to justify them.
+#### Putting it all together
+
+Put in more succinct logical terms, the leadership theory endorsed by this doc is that:
+
+1. The primary impediment to efficient management of organizations are [prisoner's dilemma](#prisoners-dilemmas) that inevitably occur.  Organizations whose members resolve those dilemmas in favor of the organization, out-compete ones that do not. Supporting evidence: [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8882060/).
+2. A good management hierarchy _can_ ensure these dilemmas resolve themselves successfully (in the organization's favor), however relying too much on this creates [power-structures](#poor-leadership-and-power-structures) that eventually work against the best interest of the organization.  Supporting evidence: [study](https://psycnet.apa.org/record/2018-03097-001)).  
+3. The only alternate strategy is to influence organization members so that they are encouraged to act in the organization's best interest out of ethical duty.  Supporting evidence: [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6180164)
+4. At present no companies drive ethical decision-making in a consistent way.  Burn-out and double-think is the norm.
+
+This suggests that the best way to differentiate companies with "excellent" management from "bad" management is to look at how they deal with ethical dilemmas experienced by their employees.
 
 ## Unused Work
 
