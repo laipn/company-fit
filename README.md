@@ -866,8 +866,9 @@ Experience shows that it is often not the more technically competent manager tha
 
 1. Bob and Alice disagree technically.  Figure out whether it is worth the company's time and effort to intervene. If yes, continue.
 2. Take each of them offline and find out whether they likely disagree because of existing personal issues.  If "potential profit is high", continue.  Else, use personal judgement on reading biases to make a decision.
-3. If no pre-existing biases, then ask each to provide a technical justification in a document.  If no-one backs off, continue. Else read the documents yourself.  If disingenuousness is detected, favor the opposing party.
-4. If there are political aspects at play (denying Bob or Alice would annoy their own management), escalate up the management hierarchy.  Else escalate up the technical hierarchy.
+3. If no pre-existing biases, then ask each to provide a technical justification in a document.  Someone usually backs off at this point. If no-one backs off, continue.
+4. Read the documents yourself.  If disingenuousness is detected, favor the opposing party. Else, continue.
+5. If there are political aspects at play (denying Bob or Alice would annoy their own management), escalate up the management hierarchy.  Else escalate up the technical hierarchy.
 
 > [!TODO]:
 > Add the above to the company fit interview
