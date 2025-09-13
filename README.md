@@ -27,7 +27,6 @@ Original [markdown](https://github.com/laipn/company-fit/).
     - [Interviewing Philosophy](#interviewing-philosophy)
     - [Interview methodologies](#interview-methodologies)
     - [Leadership Theory](#leadership-theory)
-    - [Poor Leadership and Power Structures](#poor-leadership-and-power-structures)
   - [Unused Work](#unused-work)
     - [Org Building theory](#org-building-theory)
     - [Tech Debt Attitudes](#tech-debt-attitudes)
@@ -901,7 +900,7 @@ Good militaries and late-stage corporations stress leadership in all ranks preci
 
 As such, militaries must outsource functions like innovative weapons development to academia for that reason.  The same strict hierarchies useful for "fast-paced environment where indecision is costly" is too slow to adapt otherwise.  The same is true for late stage corporations buying out startups to play "catch-up".
 
-### Poor Leadership and Power Structures
+#### Poor Leadership and Power Structures
 
 The previous section made "[a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)" claim that strict hierarchies create poor leaders.  We propose some theories why.  First we define:
 
@@ -958,9 +957,9 @@ The second case, while generally compatible with personal morals has to compete 
 3. My own personal ethics come first.
 4. (Often added) My manager's priorities comes first.
 
-The cognitive dissonance inherent in this "triple-think" often causes management to appeal to ["simplification biases"](https://en.wikipedia.org/wiki/Heuristic_(psychology)#Consequences) and thus present the three competing interests as being non-contradictory. e.g. "My superior who has multiple sexual harassment allegations remains employed because the HR investigation has equitably yielded a non-conclusive result as no such harassment happened.  There is no profit motive in keeping this strong performer and any non-transparency happened in the best interest of everyone involved.  The [Weistein](https://en.wikipedia.org/wiki/Weinstein_effect) effect does not apply."  
+The cognitive dissonance inherent in this "triple-think" often causes management to appeal to ["simplification biases"](https://en.wikipedia.org/wiki/Heuristic_(psychology)#Consequences) and thus present the three competing interests as being non-contradictory. e.g. "My superior who has multiple sexual harassment allegations remains employed because the HR investigation has equitably yielded a non-conclusive result as no such harassment happened.  There is no profit motive in keeping this strong performer and any non-transparency happened in the best interest of everyone involved.  The [Weinstein](https://en.wikipedia.org/wiki/Weinstein_effect) effect does not apply."  
 
-There probably is legitimate ethical reasoning to resolve this scenario, but (despite being such a common occurrence), there is very little actual literature out there describing it. Thus, ethical behavior while always a management concern remains intrinsically difficult. The closest equivalent I've ever seen this resolved well is in common-law judicial system -- where precedence-setting dilemmas are forced to be resolved both bottom-up and top-down in a way that is consistently applied (eventually) at all levels of judicial decision-making.  
+There probably is a legitimate reasoning process to resolve this scenario, but (despite being such a common occurrence), there is very little actual literature out there describing it -- and so I doubt many companies do that kind of transparent ethical decision-making. Thus, ethical behavior despite being a persistent management concern remains intrinsically difficult. The closest equivalent system where I've seen this resolved is in common-law judicial system -- where precedence-setting dilemmas are forced to be resolved both bottom-up and top-down in a way that is consistently applied (eventually) at all levels of judicial decision-making.  
 
 #### Putting it all together
 
