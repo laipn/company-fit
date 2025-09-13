@@ -32,7 +32,6 @@ Original [markdown](https://github.com/laipn/company-fit/).
     - [Org Building theory](#org-building-theory)
     - [Tech Debt Attitudes](#tech-debt-attitudes)
 
-
 ## Foreword
 
 It has always seem odd to me that there's plenty of info on [structured](https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/) employee job interviews, but candidates themselves lack that same structure when deciding company fit. I thought I'd remedy that for myself.
@@ -218,7 +217,6 @@ Common Answers:
 - [ ] Rationale for continuing tech-debt provided
 - [ ] None of the above
 
-
 ## People Culture
 
 > [!IMPORTANT]
@@ -230,7 +228,6 @@ Common Answers:
 > - [ ] O(10)
 > - [ ] O(100)
 > - [ ] Director
-
 
 _Definition_: We use the term ["jerks"](https://en.wikipedia.org/wiki/The_No_Asshole_Rule) as shorthand indicating employees who create a toxic workplace.
 
@@ -282,7 +279,6 @@ The reason that managers can't easily fire employees is for ["separation of powe
 - [ ] Process is in use.
 - [ ] Complexities understood.
 - [ ] Additional novelty present. (**Describe Them**)
-
 
 ## Management Culture
 
@@ -878,7 +874,6 @@ Experience shows that it is often not the more technically competent manager tha
 
 Not much of the above depends on the manager having good technical skills.  It does however require a separate strict technical hierarchy in place.  Which is what you see in practice in tech corporation.  Tech and management tracks are separate hierarchies.
 
-
 Note that neither Alice or Bob is acting maliciously in this situation, it is often just a case of [unconscious bias](https://pubmed.ncbi.nlm.nih.gov/36933917/) or "stupidity" ([Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)). From an organizational efficiency perspective, it's important to note that the way to get the optimal outcome is to either have managers good at reading people or to get Alice and Bob to not disagree in the first place (or agree faster).  
 
 Also note that "Bob" or "Alice" here don't have to be people.  One can represent the company itself.  For example suppose scenario is that "Bob" wants to steal a stapler from work and the company is deciding whether to provide free-use staplers.
@@ -887,9 +882,9 @@ Also note that "Bob" or "Alice" here don't have to be people.  One can represent
 
 Thus a separate hierarchy becomes appealing for the following reasons:
 
-* The skill set required to resolve conflict is fundamentally different than the skill set to solve technical problems.
-* The accountability chain becomes clear.  The manager is responsible for any action by the report outside of the report's technical responsibilities.
-* A management hierarchy allows a degree of [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)), whether that information are trade secrets or examples of (un)-ethical decision making.
+- The skill set required to resolve conflict is fundamentally different than the skill set to solve technical problems.
+- The accountability chain becomes clear.  The manager is responsible for any action by the report outside of the report's technical responsibilities.
+- A management hierarchy allows a degree of [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)), whether that information are trade secrets or examples of (un)-ethical decision making.
 
 Are "prisoner's dilemma" the primary reasons management must exist?  Well consider the contrapositive.  If there were never prisoner's dilemma (employees could be trusted to always act in the best interest of the company), in what situations would a manager still be necessary?  What stops people from self-organizing themselves for the best interest of the company in such cases?  Again consider academia where specialized collaboration is rare and fast decision-making is unnecessary. Managers (in a strict separate hierarchy) are rare precisely because those prisoner-dilemma situations are rare.  And so people tend to self-organize and "manage themselves" for the best interest of the university which employs them.
 
@@ -962,10 +957,9 @@ The second case, while generally compatible with personal morals has to compete 
 3. My own personal ethics come first.
 4. (Often added) My manager's priorities comes first.
 
-The cognitive dissonance inherent in this "triple-think" often causes management to appeal to ["simplification biases"](https://en.wikipedia.org/wiki/Heuristic_(psychology)#Consequences) and thus present the three competing interests as being non-contradictory. e.g. "My superior who has multiple sexual harassment allegations remains employed because the HR investigation has equitably yielded a non-conclusive result as no such harassment happened.  There is no profit motive in keeping this strong performer and any non-transparency happened in the best interest of everyone involved.  The [Weistein](https://en.wikipedia.org/wiki/Weinstein_effect) effect does not apply."
+The cognitive dissonance inherent in this "triple-think" often causes management to appeal to ["simplification biases"](https://en.wikipedia.org/wiki/Heuristic_(psychology)#Consequences) and thus present the three competing interests as being non-contradictory. e.g. "My superior who has multiple sexual harassment allegations remains employed because the HR investigation has equitably yielded a non-conclusive result as no such harassment happened.  There is no profit motive in keeping this strong performer and any non-transparency happened in the best interest of everyone involved.  The [Weistein](https://en.wikipedia.org/wiki/Weinstein_effect) effect does not apply."  
 
-Thus, ethical behavior while always a management concern remains intrinsically difficult. The closest I've ever seen this resolved well is in common-law judicial system -- where ethical dilemmas are forced to be resolved both bottom-up and top-down in a way that is consistently (eventually) applied at all levels of judicial decision-making.  
-
+There probably is legitimate ethical reasoning to resolve this scenario, but (despite being such a common occurrence), there is very little actual literature out there describing it. Thus, ethical behavior while always a management concern remains intrinsically difficult. The closest equivalent I've ever seen this resolved well is in common-law judicial system -- where precedence-setting dilemmas are forced to be resolved both bottom-up and top-down in a way that is consistently applied (eventually) at all levels of judicial decision-making.  
 
 #### Putting it all together
 
@@ -995,7 +989,6 @@ Note: This is a deceptively simple question. Most will observe that companies wi
 
 **Question**: "Companies do not form strict meritorious hierarchies. For example HR is typically silo-ed from the rest of the company. In what situation should we consider creating that kind of vertical silo?"
 
-
 **Question**: "What is the purpose of the technical hiearchy at the company? Do mechanisms exist to avoid promoting jerks?"
 
 _Background_
@@ -1017,7 +1010,6 @@ _Common answers_:
 - [ ] One or multiple of answers above were given. (**List answers**)
 - [ ] Complexities understood.
 - [ ] Additional novelty present. (**Describe Them**)
-
 
 ### Tech Debt Attitudes
 
