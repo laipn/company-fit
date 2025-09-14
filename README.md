@@ -99,7 +99,6 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
 
 ### Source Code Eco-System
 
-
 - IDEs
   - Examples: Visual Studio, Intellij, etc.
 - Code Symbol search support.
@@ -108,7 +107,7 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
   - Additional tools: [Auto-formatting]((<https://github.com/google/yapf>). Presubmit checks for coding standards. [Example])
 - Functional vs Systems vs Integration testing, code-coverage requirements, etc
   - Informational: Are all tests run on every build or is there pruning?
-- Branches 
+- Branches
   - Who is in charge of cherry-picking changes into older branches and keeping builds running?
 - Code Analysis tools
   - Examples: Code-coverage, race-conditions code-analysis, memory leak code-analysis
@@ -967,7 +966,7 @@ Put in more succinct logical terms, the leadership theory endorsed by this doc i
 1. The primary impediment to efficient management of organizations are [prisoner's dilemma](#prisoners-dilemmas) that inevitably occur.  Organizations whose members resolve those dilemmas in favor of the organization, out-compete ones that do not. Supporting evidence: [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8882060/).
 2. A good management hierarchy _can_ ensure these dilemmas resolve themselves successfully (in the organization's favor), however relying too much on this creates [power-structures](#poor-leadership-and-power-structures) that eventually work against the best interest of the organization.  Supporting evidence: [study](https://psycnet.apa.org/record/2018-03097-001)).  
 3. The only alternate strategy is to influence organization members so that they are encouraged to act in the organization's best interest out of ethical duty.  Supporting evidence: [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6180164)
-4. At present no companies drive ethical decision-making in a consistent way.  Burn-out and double-think is the norm.
+4. At present no companies drive top-down ethical decision-making in a consistent way.  Burn-out and double-think are the norm.  Thus, companies while driven by a need to provide ethical principles for employees, become led by double-thinkers who are uniquely unqualified to exercise moral [judgement](https://www.researchgate.net/publication/226759222_The_Moral_Threat_of_Compartmentalization_Self_Roles_and_Responsibility).
 
 This suggests that the best way to differentiate companies with "excellent" management from "bad" management is to look at how they deal with ethical dilemmas experienced by their employees.
 
