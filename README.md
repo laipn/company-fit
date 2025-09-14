@@ -99,12 +99,7 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
 
 ### Source Code Eco-System
 
-- Repo choice. Example: Mono vs distributed repo
-  - Examples: Git, perforce, etc
-- Front-end code-viewing support.
-  - Examples: Github, Code search
-- Code-review support.
-  - Examples: Ferrit, critique.
+
 - IDEs
   - Examples: Visual Studio, Intellij, etc.
 - Code Symbol search support.
@@ -113,6 +108,8 @@ This ultimately creates varying forms of tech debt. The difference in a healthy 
   - Additional tools: [Auto-formatting]((<https://github.com/google/yapf>). Presubmit checks for coding standards. [Example])
 - Functional vs Systems vs Integration testing, code-coverage requirements, etc
   - Informational: Are all tests run on every build or is there pruning?
+- Branches 
+  - Who is in charge of cherry-picking changes into older branches and keeping builds running?
 - Code Analysis tools
   - Examples: Code-coverage, race-conditions code-analysis, memory leak code-analysis
   - Presubmit checks on this?
@@ -443,7 +440,7 @@ _Common answers_:
   - Weakness: There's often pressure from execs to score well
 - Manager/report/peer feedback
 
-  - Weakness: If peers are chosen by reviewee then this is often exploited. Report feedback is often non-valuable since it typically easy to figure out who provided an instance of negative feedback.
+  - Weakness: If peers are chosen by the person being reviewed, this is often exploited. Report feedback is often non-valuable since it typically easy to figure out who provided an instance of negative feedback.
 
 - [ ] One or multiple answers above were given. (**List answers**)
 - [ ] Complexities understood.
@@ -627,9 +624,9 @@ Consequentially, "Rote memorization" resistance can be measured by the following
 5. Repeat 2.
 6. Repeat 3
 
-If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable -- which implies the skill we are **actually** testing for is trivially learn-able.  Similarly if we want to confirm that a pool of questions _is_ actually testing for a particular skill, simply confirm that candidates passing on the first round also consistentl pass on the second.
+If the candidate population performs statistically much better the second time around, then we know that the interview process itself is learnable -- which implies the skill we are **actually** testing for is trivially learn-able.  Similarly if we want to confirm that a pool of questions _is_ actually testing for a particular skill, simply confirm that candidates passing on the first round also consistently pass on the second.
 
-_Aside_: The statistical model here is tricky to get right.  If for example question quality is of very high variance then it may skew results.  As such it's important to to ensure that the 1-st round "pass-rates" for all interview questions remain about the same.  Another tweak on this methodlogy is to just repeat interiews until an assessee hits a point of diminishing returns (upper-limit) on pass-rate.  The statical inference here would be for both the upper-limit _and_ the number of tries to reach that upper limit.
+_Aside_: The statistical model here is tricky to get right.  If for example question quality is of very high variance then it may skew results.  As such it's important to to ensure that the 1-st round "pass-rates" for all interview questions remain about the same.  Another tweak on this methodology is to just repeat interviews until an assessee hits a point of diminishing returns (upper-limit) on pass-rate.  The statical inference here would be for both the upper-limit _and_ the number of tries to reach that upper limit.
 
 Note this isn't a novel test for interview validity. See ["Why Do Situational Interviews Predict Performance? Is it Saying How You Would Behave or Knowing How You Should Behave?"](https://pmc.ncbi.nlm.nih.gov/articles/PMC4856718/).  
 
@@ -652,7 +649,7 @@ My general strategy for generating interview questions, rubrics and scoring is a
 4. From accepted problems, develop what are decided common solutions and what are more nuanced solutions or "observations" on the problem.
    _Example_: "Show me the issues or anti-patterns in this snippet of code"
      - Common: 'Code: (int *) 0x42'. This type cast is bad because 0x42 is a magic number and it's not clear why we're casting to an integer pointer'
-     - Nuanced: 'Code: (x instanceof List).  This explicit type-check is code-smelly.  It breaks encapsulation principles because there's no reason why we should assume that a List can be in here.  Even if we did, it's not clear why a List gets speccial behavior"
+     - Nuanced: 'Code: (x instanceof List).  This explicit type-check is code-smelly.  It breaks encapsulation principles because there's no reason why we should assume that a List can be in here.  Even if we did, it's not clear why a List gets special behavior"
 5. Confer in committee that we agree on what are common and what are nuanced solutions.  Develop a scoring algorithms.
     _Example_: Apply a point value to each solution.  Note negative points can be given for common incorrect or "red-flags" solutions. Nuanced solutions get higher score.  Total the points to get a final score.  Score must be above some value to pass.  
 6. Define rubrics as whether an candidate has acceptably described a given solution.
@@ -678,7 +675,7 @@ _Why_: Experts understand TCP/IP as an imperfect [abstraction](https://en.wikipe
 Example: Common Law
 
 _What_: Most people understand: "the purpose of law is to maintain social order, establish standards for acceptable behavior, resolve disputes, and protect individual rights and freedoms."
-_How_: Specialists (attornies) understand the nuances of "judicial precedent", "due process", etc
+_How_: Specialists (attorneys) understand the nuances of "judicial precedent", "due process", etc
 _Why_: Experts (supreme court judges) understand why we have the current laws we do and when that law ought to be overturned.  e.g. See the history of [substantive due process](https://en.wikipedia.org/wiki/Substantive_due_process#Later_development).
 
 Bad interview questions will often just ask _what_ a thing (e.g. networking) is and it is usually easy to memorize the answer to that.
